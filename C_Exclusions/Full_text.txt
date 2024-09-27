@@ -1,0 +1,115 @@
+﻿@article{RN4018,
+   author = {Athavale, H. A. and Athavale, S. A. and Pathak, A. S. and Pathak, T. S.},
+   title = {How data is helping to fight COVID-19 pandemic},
+   journal = {Journal of Clinical and Diagnostic Research},
+   volume = {15},
+   number = {9},
+   pages = {LE01-LE05},
+   abstract = {Early in 2020, the COVID-19 pandemic emerged as a global public health concern requiring urgent attention, concerted efforts and intervention to avoid catastrophe. This necessitated optimal use of fast-emerging data to be analysed to draw out inferences that would shape our response. World Health Organisation (WHO) called this pandemic an infodemic where data played a crucial role. This paper reviews how data from varied sources and different types helped delay the outbreak, limit the spread, initiate social and public health measures, decide treatment regimes, optimise healthcare infrastructure and human resources and helped to initiate a multipronged strategy with emerging evidence for further course correction as the world progressed through the pandemic. The classical mathematical tools, i.e., Susceptible-Infected-Recovered (SIR) model and its variants, were the primary analytical techniques utilised to analyse such data. However, newer data analytical techniques utilising artificial intelligence and machine learning, were also extensively used. These techniques have the capability to handle large quantities of data and develop prediction models of various emerging situations that offer foreknowledge for policymakers and provide solutions. Data Science has witnessed a leap in the past few years, and the way it helped shape our response to this pandemic is a testimony to the promise that it holds for humankind.Copyright © 2021 Journal of Clinical and Diagnostic Research. All rights reserved.},
+   keywords = {algorithm
+artificial intelligence
+artificial ventilation
+clinical outcome
+convolutional neural network
+*coronavirus disease 2019
+coughing
+*data science
+decision making
+drug repositioning
+economic aspect
+health care policy
+human
+machine learning
+mathematical model
+*pandemic
+pneumonia
+public health
+pulse oximetry
+review
+sneezing
+social media
+survival rate
+swallowing
+systematic review (topic)
+azithromycin
+hydroxychloroquine
+lopinavir plus ritonavir},
+   ISSN = {2249-782X
+0973-709X},
+   DOI = {https://dx.doi.org/10.7860/JCDR/2021/49455.15406},
+   url = {https://www.jcdr.net/article_fulltext.asp?issn=0973-709x&year=2021&volume=15&issue=9&page=LE01&issn=0973-709x&id=15406
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2014855237},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN8222,
+   author = {Chen, Y. H. and Fang, C. T.},
+   title = {Achieving COVID-19 zero without lockdown, January 2020 to March 2022: The Taiwan model explained},
+   journal = {Journal of the Formosan Medical Association},
+   volume = {123},
+   number = {Supplement 1},
+   pages = {S8-S16},
+   abstract = {Despite never imposing a lockdown, Taiwan achieved COVID-19 zero, with reporting only 56 local coronavirus disease 2019 (COVID-19) cases after testing 126,987 individuals in 2020, and further contained a large outbreak rapidly and successfully in 2021. At the onset of the COVID-19 pandemic, our infectious disease modeling results indicated that testing and contact tracing alone would fail to contain the pandemic. However, by supplementing this approach with general public surgical mask-wearing, the reproduction number (R0) could be suppressed to less than 1. This would effectively contain the virus's spread within Taiwan, particularly when combined with strict border control measures to prevent the overwhelming influx of imported COVID-19 cases and ensure the capacity of the medical and public health systems remains resilient. These modeling results became the theoretical basis behind the highly successful Taiwan model against COVID-19 during 2020-2021, supporting by negative excess mortality, seroepidemiological surveys, and molecular epidemiological analyses. This is a public health triumph demonstrating that a democratic and humane approach to the COVID-19 pandemic is not only feasible but highly effective. It also highlights the crucial role of infectious disease modeling in assisting the formulation of a successful national pandemic response.Copyright © 2023 Formosan Medical Association},
+   keywords = {*coronavirus disease 2019/ep [Epidemiology]
+COVID-19 testing
+excess mortality
+health care personnel
+health care surveillance
+human
+infection control
+molecular epidemiology
+*national lockdown
+pandemic/ep [Epidemiology]
+review
+seroepidemiology
+*Taiwan
+theoretical model
+surgical mask},
+   ISSN = {0929-6646
+1876-0821},
+   DOI = {https://dx.doi.org/10.1016/j.jfma.2023.09.001},
+   url = {https://www.sciencedirect.com/science/journal/09296646
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2026983502},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN4009,
+   author = {Jackle, Sonja and Alpers, Rieke and Kuhne, Lisa and Schumacher, Jakob and Geisler, Benjamin and Westphal, Max},
+   title = {EsteR - A Digital Toolkit for COVID-19 Decision Support in Local Health Authorities},
+   journal = {Studies in health technology and informatics},
+   volume = {296},
+   pages = {17-24},
+   abstract = {In Germany, the current COVID-19 cases are managed and reported by the local health authorities. The workload of their employees during the pandemic is high, especially in periods of high infection numbers. In this work a decision support toolkit for local health authorities is introduced. A demonstrator web application was developed with the R Shiny framework and is publicly accessible online. It contains five separate tools based on statistical models for specific use cases and corresponding questions of COVID-19 cases and their contacts. The underlying statistical methods have been implemented in a new open-source R package. The toolkit has the potential to support local health authorities' employees in their daily work. A simulated-based validation of the statistical models and a usability evaluation of the demonstrator application in a user study will be carried out in the future.},
+   keywords = {*COVID-19
+Esters
+Humans
+Models, Statistical
+Pandemics
+Software},
+   ISSN = {1879-8365
+0926-9630},
+   DOI = {https://dx.doi.org/10.3233/SHTI220799},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med22&NEWS=N&AN=36073484
+https://ebooks.iospress.nl/pdf/doi/10.3233/SHTI220799},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4008,
+   author = {Johnson, Karl and Biddell, Caitlin B. and Hassmiller Lich, Kristen and Swann, Julie and Delamater, Paul and Mayorga, Maria and Ivy, Julie and Smith, Raymond L. and Patel, Mehul D.},
+   title = {Use of Modeling to Inform Decision Making in North Carolina during the COVID-19 Pandemic: A Qualitative Study},
+   journal = {MDM policy & practice},
+   volume = {7},
+   number = {2},
+   pages = {23814683221116362},
+   abstract = {Background. The COVID-19 pandemic has popularized computer-based decision-support models, which are commonly used to inform decision making amidst complexity. Understanding what organizational decision makers prefer from these models is needed to inform model development during this and future crises. Methods. We recruited and interviewed decision makers from North Carolina across 9 sectors to understand organizational decision-making processes during the first year of the COVID-19 pandemic (N = 44). For this study, we identified and analyzed a subset of responses from interviewees (n = 19) who reported using modeling to inform decision making. We used conventional content analysis to analyze themes from this convenience sample with respect to the source of models and their applications, the value of modeling and recommended applications, and hesitancies toward the use of models. Results. Models were used to compare trends in disease spread across localities, estimate the effects of social distancing policies, and allocate scarce resources, with some interviewees depending on multiple models. Decision makers desired more granular models, capable of projecting disease spread within subpopulations and estimating where local outbreaks could occur, and incorporating a broad set of outcomes, such as social well-being. Hesitancies to the use of modeling included doubts that models could reflect nuances of human behavior, concerns about the quality of data used in models, and the limited amount of modeling specific to the local context. Conclusions. Decision makers perceived modeling as valuable for informing organizational decisions yet described varied ability and willingness to use models for this purpose. These data present an opportunity to educate organizational decision makers on the merits of decision-support modeling and to inform modeling teams on how to build more responsive models that address the needs of organizational decision makers., Highlights: Organizations from a diversity of sectors across North Carolina (including public health, education, business, government, religion, and public safety) have used decision-support modeling to inform decision making during COVID-19.Decision makers wish for models to project the spread of disease, especially at the local level (e.g., individual cities and counties), and to help estimate the outcomes of policies.Some organizational decision makers are hesitant to use modeling to inform their decisions, stemming from doubts that models could reflect nuances of human behavior, concerns about the accuracy and precision of data used in models, and the limited amount of modeling available at the local level. Copyright © The Author(s) 2022.},
+   ISSN = {2381-4683},
+   DOI = {https://dx.doi.org/10.1177/23814683221116362},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=35923388
+https://journals.sagepub.com/doi/10.1177/23814683221116362},
+   year = {2022},
+   type = {Journal Article}
+}
+

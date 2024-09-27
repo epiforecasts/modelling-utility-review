@@ -1,0 +1,190 @@
+﻿@article{RN8207,
+   author = {Pak, S. I. and Jheong, W. H. and Lee, K. N.},
+   title = {A GIS-based spatial analysis for enhancing classification of the vulnerable geographical region of highly pathogenic avian influenza outbreak in Korea},
+   journal = {Journal of Veterinary Clinics},
+   volume = {36},
+   number = {1},
+   pages = {15-22},
+   abstract = {Highly pathogenic avian influenza (HPAI) is among the top infectious disease priorities in Korea and the leading cause of economic loss in relevant poultry industry. An understanding of the spatial epidemiology of HPAI outbreak is essential in assessing and managing the risk of the infection. Though previous studies have reported the majority of outbreaks occurred clustered in what are preferred to as densely populated poultry regions, especially in southwest coast of Korea, little is known about the spatial distribution of risk areas vulnerable to HPAI occurrence based on geographic information system (GIS). The main aim of the present study was to develop a GIS-based risk index model for defining potential high-risk areas of HPAI outbreaks and to explore spatial distribution in relative risk index for each 252 Si-Gun-Gu (administrative unit) in Korea. The risk index was derived incorporating seven GIS database associated with risk factors of HPAI in a standardized five-score scale. Scale 1 and 5 for each database represent the lowest and the highest risk of HPAI respectively. Our model showed that Jeollabuk-do, Chungcheongnamdo, Jeollanam-do and Chungcheongbuk-do regions will have the highest relative risk from HPAI. Areas with risk index value over 4.0 were Naju, Jeongeup, Anseong, Cheonan, Kochang, Iksan, Kyeongju and Kimje, indicating that Korea is at risk of HPAI introduction. Management and control of HPAI becomes difficult once the virus are established in domestic poultry populations; therefore, early detection and development of nationwide monitoring system through targeted surveillance of high-risk spots are priorities for preventing the future outbreaks.Copyright © 2019, Korean Society of Veterinary Clinics. All rights reserved.},
+   keywords = {article
+*avian influenza/ep [Epidemiology]
+*avian influenza/et [Etiology]
+disease surveillance
+*geographic distribution
+*geographic information system
+geographic pathology
+high risk population
+highly pathogenic avian influenza virus
+low risk population
+nonhuman
+poultry
+risk assessment
+risk factor
+scoring system
+*spatial analysis
+virus pathogenesis
+risk index},
+   ISSN = {1598-298X
+2384-0749},
+   DOI = {https://dx.doi.org/10.17555/jvc.2019.02.36.1.15},
+   url = {http://society.kisti.re.kr/sv/SV_svpsbs03V.do?method=download&cn1=JAKO201912262462383&target=ocean
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=2001985419},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN8208,
+   author = {Rathnayake, Athri D. and Zheng, Jian and Kim, Yunjeong and Perera, Krishani Dinali and Mackin, Samantha and Meyerholz, David K. and Kashipathy, Maithri M. and Battaile, Kevin P. and Lovell, Scott and Perlman, Stanley and Groutas, William C. and Chang, Kyeong-Ok},
+   title = {3C-like protease inhibitors block coronavirus replication in vitro and improve survival in MERS-CoV-infected mice},
+   journal = {Science translational medicine},
+   volume = {12},
+   number = {557},
+   abstract = {Pathogenic coronaviruses are a major threat to global public health, as exemplified by severe acute respiratory syndrome coronavirus (SARS-CoV), Middle East respiratory syndrome coronavirus (MERS-CoV), and the newly emerged SARS-CoV-2, the causative agent of coronavirus disease 2019 (COVID-19). We describe herein the structure-guided optimization of a series of inhibitors of the coronavirus 3C-like protease (3CLpro), an enzyme essential for viral replication. The optimized compounds were effective against several human coronaviruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 in an enzyme assay and in cell-based assays using Huh-7 and Vero E6 cell lines. Two selected compounds showed antiviral effects against SARS-CoV-2 in cultured primary human airway epithelial cells. In a mouse model of MERS-CoV infection, administration of a lead compound 1 day after virus infection increased survival from 0 to 100% and reduced lung viral titers and lung histopathology. These results suggest that this series of compounds has the potential to be developed further as antiviral drugs against human coronaviruses. Copyright © 2020 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. Distributed under a Creative Commons Attribution License 4.0 (CC BY).},
+   keywords = {Animals
+Antiviral Agents/ch [Chemistry]
+*Antiviral Agents/pd [Pharmacology]
+*Betacoronavirus/de [Drug Effects]
+Betacoronavirus/ph [Physiology]
+COVID-19
+Cell Line
+Chlorocebus aethiops
+Coronavirus 3C Proteases
+*Coronavirus Infections/dt [Drug Therapy]
+Coronavirus Infections/pa [Pathology]
+*Coronavirus Infections/vi [Virology]
+Crystallography, X-Ray
+Cysteine Endopeptidases/ch [Chemistry]
+Disease Models, Animal
+Humans
+In Vitro Techniques
+Lung/pa [Pathology]
+Lung/vi [Virology]
+Male
+Mice
+Mice, Transgenic
+Microbial Sensitivity Tests
+*Middle East Respiratory Syndrome Coronavirus/de [Drug Effects]
+Middle East Respiratory Syndrome Coronavirus/ph [Physiology]
+Models, Molecular
+Pandemics
+*Pneumonia, Viral/dt [Drug Therapy]
+*Pneumonia, Viral/vi [Virology]
+Protease Inhibitors/ch [Chemistry]
+*Protease Inhibitors/pd [Pharmacology]
+SARS-CoV-2
+Small Molecule Libraries
+Species Specificity
+Static Electricity
+Translational Research, Biomedical
+Vero Cells
+Viral Load/de [Drug Effects]
+*Viral Nonstructural Proteins/ai [Antagonists & Inhibitors]
+Viral Nonstructural Proteins/ch [Chemistry]
+*Virus Replication/de [Drug Effects]
+COVID-19 Drug Treatment},
+   ISSN = {1946-6242
+1946-6234},
+   DOI = {https://dx.doi.org/10.1126/scitranslmed.abc5332},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32747425},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN8209,
+   author = {Reed Hranac, C. and Marshall, J. C. and Monadjem, A. and Hayman, D. T. S.},
+   title = {Predicting Ebola virus disease risk and the role of African bat birthing},
+   journal = {Epidemics},
+   volume = {29},
+   pages = {100366},
+   abstract = {Ebola virus disease (EVD) presents a threat to public health throughout equatorial Africa. Despite numerous 'spillover' events into humans and apes, the maintenance reservoirs and mechanism of spillover are poorly understood. Evidence suggests fruit bats play a role in both instances, yet data remain sparse and bats exhibit a wide range of life history traits. Here we pool sparse data and use a mechanistic approach to examine how birthing cycles of African fruit bats, molossid bats, and non-molossid microbats inform the spatio-temporal occurrence of EVD spillover. We create ensemble niche models to predict spatio-temporally varying bat birthing and model outbreaks as spatio-temporal Poisson point processes. We predict three distinct annual birthing patterns among African bats along a latitudinal gradient. Of the EVD spillover models tested, the best by quasi-Akaike information criterion (qAIC) and by out of sample prediction included significant African bat birth-related terms. Temporal bat birthing terms fit in the best models for both human and animal outbreaks were consistent with hypothesized viral dynamics in bat populations, but purely spatial models also performed well. Our best model predicted risk of EVD spillover at locations of the two 2018 EVD outbreaks in the Democratic Republic of the Congo was within the top 12-35% and 0.1% of all 25 x 25 km spatial cells analyzed in sub-Saharan Africa. Results suggest that sparse data can be leveraged to help understand complex systems.Copyright © 2019 The Authors},
+   keywords = {article
+*bat
+*birth
+controlled study
+Democratic Republic Congo
+*Ebola hemorrhagic fever/et [Etiology]
+flying fox
+*infection risk
+nonhuman
+priority journal
+spatiotemporal analysis},
+   ISSN = {1755-4365
+1878-0067},
+   DOI = {https://dx.doi.org/10.1016/j.epidem.2019.100366},
+   url = {http://www.elsevier.com/wps/find/journaldescription.cws_home/714736/description#description
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=2003811589},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN8210,
+   author = {Ssematimba, A. and Malladi, S. and Hagenaars, T. J. and Bonney, P. J. and Weaver, J. T. and Patyk, K. A. and Spackman, E. and Halvorson, D. A. and Cardona, C. J.},
+   title = {Estimating within-flock transmission rate parameter for H5N2 highly pathogenic avian influenza virus in Minnesota Turkey flocks during the 2015 epizootic},
+   journal = {Epidemiology and Infection},
+   volume = {147},
+   pages = {1-8},
+   abstract = {Better control of highly pathogenic avian influenza (HPAI) outbreaks requires deeper understanding of within-flock virus transmission dynamics. For such fatal diseases, daily mortality provides a proxy for disease incidence. We used the daily mortality data collected during the 2015 H5N2 HPAI outbreak in Minnesota turkey flocks to estimate the within-flock transmission rate parameter (beta). The number of birds in Susceptible, Exposed, Infectious and Recovered compartments was inferred from the data and used in a generalised linear mixed model (GLMM) to estimate the parameters. Novel here was the correction of these data for normal mortality before use in the fitting process. We also used mortality threshold to determine HPAI-like mortality to improve the accuracy of estimates from the back-calculation approach. The estimated beta was 3.2 (95% confidence interval (CI) 2.3-4.3) per day with a basic reproduction number of 12.8 (95% CI 9.2-17.2). Although flock-level estimates varied, the overall estimate was comparable to those from other studies. Sensitivity analyses demonstrated that the estimated beta was highly sensitive to the bird-level latent period, emphasizing the need for its precise estimation. In all, for fatal poultry diseases, the back-calculation approach provides a computationally efficient means to obtain reasonable transmission parameter estimates from mortality data.Copyright © The Author(s) 2019.},
+   keywords = {article
+*avian influenza virus
+bird disease
+control strategy
+epidemic
+infection control
+*Influenza A virus (H5N2)
+Minnesota
+mortality
+nonhuman
+reproduction
+risk assessment
+risk factor
+sensitivity analysis
+treatment planning
+turkey (bird)
+*virus transmission},
+   ISSN = {0950-2688
+1469-4409},
+   DOI = {https://dx.doi.org/10.1017/S0950268819000633},
+   url = {http://journals.cambridge.org/action/displayJournal?jid=HYG
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=629008876},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN8211,
+   author = {Yang, L. and Fan, M. and Wang, Y. and Sun, X. and Zhu, H.},
+   title = {Effect of avian influenza scare on transmission of zoonotic avian influenza: A case study of influenza A (H7N9)},
+   journal = {Mathematical Biosciences},
+   volume = {367},
+   pages = {109125},
+   abstract = {Avian influenza scare is a human psychological factor that asserts both positive and negative effects on the transmission of zoonotic avian influenza. In order to study the dichotomous effect of avian influenza scare on disease transmission, taking H7N9 avian influenza as a typical case, a two-patch epidemic model is proposed. The global dynamics and the threshold criteria are established by LaSalle invariant principle and the theory of asymptotic autonomous system. To mitigate the negative effects and curb illegal poultry trade, a game-theoretic model is adopted to explore the optimal policy of culling subsidies to reasonably compensate stakeholders for their economic losses resulting from the scare. The optimal policy of culling subsidy is found to heavily depend on the penalty of illegal poultry trade, the stakeholders' income, the intensity of control measures, and the prevalence level of the disease. The negative effect of avian influenza scare on disease transmission is considerably more significant than the positive effect. In order to avoid a widespread outbreak of zoonotic avian influenza across the region, a comprehensive national global control strategy is essential and effective, even in the presence of the negative effect of the avian influenza scare.Copyright © 2023 Elsevier Inc.},
+   keywords = {animal culling
+article
+asymptomatic disease
+*avian influenza/di [Diagnosis]
+control strategy
+controlled study
+dynamics
+epidemic
+*fear
+health care policy
+*health impact assessment
+human
+illegal trade
+*Influenza A virus (H7N9)
+negative feedback
+nonhuman
+positive feedback
+poultry farming
+psychological aspect
+stakeholder engagement
+theoretical model
+*zoonotic transmission},
+   ISSN = {0025-5564
+1879-3134},
+   DOI = {https://dx.doi.org/10.1016/j.mbs.2023.109125},
+   url = {https://www.sciencedirect.com/science/journal/00255564
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2029053046},
+   year = {2024},
+   type = {Journal Article}
+}
+

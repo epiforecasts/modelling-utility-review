@@ -1,0 +1,128 @@
+﻿@article{RN8220,
+   author = {Athavale, H. A. and Athavale, S. A. and Pathak, A. S. and Pathak, T. S.},
+   title = {How data is helping to fight COVID-19 pandemic},
+   journal = {Journal of Clinical and Diagnostic Research},
+   volume = {15},
+   number = {9},
+   pages = {LE01-LE05},
+   abstract = {Early in 2020, the COVID-19 pandemic emerged as a global public health concern requiring urgent attention, concerted efforts and intervention to avoid catastrophe. This necessitated optimal use of fast-emerging data to be analysed to draw out inferences that would shape our response. World Health Organisation (WHO) called this pandemic an infodemic where data played a crucial role. This paper reviews how data from varied sources and different types helped delay the outbreak, limit the spread, initiate social and public health measures, decide treatment regimes, optimise healthcare infrastructure and human resources and helped to initiate a multipronged strategy with emerging evidence for further course correction as the world progressed through the pandemic. The classical mathematical tools, i.e., Susceptible-Infected-Recovered (SIR) model and its variants, were the primary analytical techniques utilised to analyse such data. However, newer data analytical techniques utilising artificial intelligence and machine learning, were also extensively used. These techniques have the capability to handle large quantities of data and develop prediction models of various emerging situations that offer foreknowledge for policymakers and provide solutions. Data Science has witnessed a leap in the past few years, and the way it helped shape our response to this pandemic is a testimony to the promise that it holds for humankind.Copyright © 2021 Journal of Clinical and Diagnostic Research. All rights reserved.},
+   keywords = {algorithm
+artificial intelligence
+artificial ventilation
+clinical outcome
+convolutional neural network
+*coronavirus disease 2019
+coughing
+*data science
+decision making
+drug repositioning
+economic aspect
+health care policy
+human
+machine learning
+mathematical model
+*pandemic
+pneumonia
+public health
+pulse oximetry
+review
+sneezing
+social media
+survival rate
+swallowing
+systematic review (topic)
+azithromycin
+hydroxychloroquine
+lopinavir plus ritonavir},
+   ISSN = {2249-782X
+0973-709X},
+   DOI = {https://dx.doi.org/10.7860/JCDR/2021/49455.15406},
+   url = {https://www.jcdr.net/article_fulltext.asp?issn=0973-709x&year=2021&volume=15&issue=9&page=LE01&issn=0973-709x&id=15406
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2014855237},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN8214,
+   author = {Botz, J. and Wang, D. and Lambert, N. and Wagner, N. and Genin, M. and Thommes, E. and Madan, S. and Coudeville, L. and Frohlich, H.},
+   title = {Modeling approaches for early warning and monitoring of pandemic situations as well as decision support},
+   journal = {Frontiers in public health},
+   volume = {10},
+   pages = {994949},
+   abstract = {The COVID-19 pandemic has highlighted the lack of preparedness of many healthcare systems against pandemic situations. In response, many population-level computational modeling approaches have been proposed for predicting outbreaks, spatiotemporally forecasting disease spread, and assessing as well as predicting the effectiveness of (non-) pharmaceutical interventions. However, in several countries, these modeling efforts have only limited impact on governmental decision-making so far. In light of this situation, the review aims to provide a critical review of existing modeling approaches and to discuss the potential for future developments.Copyright © 2022 Botz, Wang, Lambert, Wagner, Genin, Thommes, Madan, Coudeville and Frohlich.},
+   keywords = {computer simulation
+epidemic/pc [Prevention]
+epidemiology
+government
+human
+*pandemic/pc [Prevention]},
+   ISSN = {2296-2565 (electronic)
+2296-2565},
+   DOI = {https://dx.doi.org/10.3389/fpubh.2022.994949},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=639675334},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN8212,
+   author = {Paula, Nilson Maciel de and Pereira, Wellington and Giordani, Rubia Carla Formighieri},
+   title = {[COVID-19 in the midst of a "perfect storm" in neoliberal capitalism: critical reflections on its impacts in Brazil]},
+   journal = {A COVID-19 em meio a uma "tempestade perfeita" no capitalismo neoliberal: reflexoes criticas sobre seus impactos no Brasil.},
+   volume = {28},
+   number = {3},
+   pages = {761-770},
+   abstract = {The impacts of the recent coronavirus pandemic on Brazilian society revealed a scenario that goes beyond a health crisis. This article sets out to present the causes and consequences of a systemic crisis in the neoliberal economic order based on the prominence of markets and social exclusion, while the role of the State - as the guardian of social rights - is neglected. The methodology adopted follows a critical interdisciplinary perspective from the fields of political economy and social sciences, located in socioeconomic reports referred to in this analysis. It is argued that the neoliberal rationale guiding government policies, which is deep rooted in the social environment, has contributed to the increase in structural inequalities in Brazil, thus creating favorable conditions for exacerbating the impacts caused by the pandemic in society, particularly among the most vulnerable social groups.},
+   keywords = {Humans
+*COVID-19
+Brazil/ep [Epidemiology]
+Capitalism},
+   ISSN = {1678-4561
+1413-8123},
+   DOI = {https://dx.doi.org/10.1590/1413-81232023283.10262022},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med23&NEWS=N&AN=36888860},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN8213,
+   author = {Zelner, J. and Masters, N. B. and Naraharisetti, R. and Mojola, S. A. and Chowkwanyun, M. and Malosh, R.},
+   title = {There are no equal opportunity infectors: Epidemiological modelers must rethink our approach to inequality in infection risk},
+   journal = {PLoS Computational Biology},
+   volume = {18},
+   number = {2},
+   pages = {e1009795},
+   abstract = {Mathematical models have come to play a key role in global pandemic preparedness and outbreak response: helping to plan for disease burden, hospital capacity, and inform non-pharmaceutical interventions. Such models have played a pivotal role in the COVID-19 pandemic, with transmission models-and, by consequence, modelers-guiding global, national, and local responses to SARS-CoV-2. However, these models have largely not accounted for the social and structural factors, which lead to socioeconomic, racial, and geographic health disparities. In this piece, we raise and attempt to clarify several questions relating to this important gap in the research and practice of infectious disease modeling: Why do epidemiologic models of emerging infections typically ignore known structural drivers of disparate health outcomes? What have been the consequences of a framework focused primarily on aggregate outcomes on infection equity? What should be done to develop a more holistic approach to modeling-based decision-making during pandemics? In this review, we evaluate potential historical and political explanations for the exclusion of drivers of disparity in infectious disease models for emerging infections, which have often been characterized as "equal opportunity infectors" despite ample evidence to the contrary. We look to examples from other disease systems (HIV, STIs) and successes in including social inequity in models of acute infection transmission as a blueprint for how social connections, environmental, and structural factors can be integrated into a coherent, rigorous, and interpretable modeling framework. We conclude by outlining principles to guide modeling of emerging infections in ways that represent the causes of inequity in infection as central rather than peripheral mechanisms.Copyright: © 2022 Zelner et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+disease transmission
+*epidemiological model
+health care
+health care policy
+*health disparity
+history
+housing
+human
+Human immunodeficiency virus infection
+*infection risk
+medical procedures
+methodology
+nonhuman
+occupation
+politics
+racism
+sexually transmitted disease
+social inequality
+social status
+social structure
+technology
+fundamental cause approach
+medical innovation
+nonpharmaceutical intervention},
+   ISSN = {1553-734X
+1553-7358},
+   DOI = {https://dx.doi.org/10.1371/journal.pcbi.1009795},
+   url = {https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1009795&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2016891367},
+   year = {2022},
+   type = {Journal Article}
+}
+

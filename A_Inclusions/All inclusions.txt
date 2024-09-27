@@ -1,0 +1,760 @@
+﻿@article{RN4016,
+   author = {Adiga, Aniruddha and Dubhashi, Devdatt and Lewis, Bryan and Marathe, Madhav and Venkatramanan, Srinivasan and Vullikanti, Anil},
+   title = {Mathematical Models for COVID-19 Pandemic: A Comparative Analysis},
+   journal = {Journal of the Indian Institute of Science},
+   volume = {100},
+   number = {4},
+   pages = {793-807},
+   note = {Update of (UOF)},
+   abstract = {COVID-19 pandemic represents an unprecedented global health crisis in the last 100 years. Its economic, social and health impact continues to grow and is likely to end up as one of the worst global disasters since the 1918 pandemic and the World Wars. Mathematical models have played an important role in the ongoing crisis; they have been used to inform public policies and have been instrumental in many of the social distancing measures that were instituted worldwide. In this article, we review some of the important mathematical models used to support the ongoing planning and response efforts. These models differ in their use, their mathematical form and their scope. Copyright © Indian Institute of Science 2020.},
+   ISSN = {0970-4140
+0019-4964},
+   DOI = {https://dx.doi.org/10.1007/s41745-020-00200-6},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm5&NEWS=N&AN=33144763
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596173/pdf/41745_2020_Article_200.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4014,
+   author = {Bicher, Martin and Zuba, Martin and Rainer, Lukas and Bachner, Florian and Rippinger, Claire and Ostermann, Herwig and Popper, Nikolas and Thurner, Stefan and Klimek, Peter},
+   title = {Supporting COVID-19 policy-making with a predictive epidemiological multi-model warning system},
+   journal = {Communications medicine},
+   volume = {2},
+   number = {1},
+   pages = {157},
+   abstract = {BACKGROUND: In response to the SARS-CoV-2 pandemic, the Austrian governmental crisis unit commissioned a forecast consortium with regularly projections of case numbers and demand for hospital beds. The goal was to assess how likely Austrian ICUs would become overburdened with COVID-19 patients in the upcoming weeks., METHODS: We consolidated the output of three epidemiological models (ranging from agent-based micro simulation to parsimonious compartmental models) and published weekly short-term forecasts for the number of confirmed cases as well as estimates and upper bounds for the required hospital beds., RESULTS: We report on three key contributions by which our forecasting and reporting system has helped shaping Austria's policy to navigate the crisis, namely (i) when and where case numbers and bed occupancy are expected to peak during multiple waves, (ii) whether to ease or strengthen non-pharmaceutical intervention in response to changing incidences, and (iii) how to provide hospital managers guidance to plan health-care capacities., CONCLUSIONS: Complex mathematical epidemiological models play an important role in guiding governmental responses during pandemic crises, in particular when they are used as a monitoring system to detect epidemiological change points. Copyright © 2022. The Author(s).},
+   ISSN = {2730-664X},
+   DOI = {https://dx.doi.org/10.1038/s43856-022-00219-z},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=36476987
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9729177/pdf/43856_2022_Article_219.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4011,
+   author = {Biggerstaff, M. and Slayton, R. B. and Johansson, M. A. and Butler, J. C.},
+   title = {Improving Pandemic Response: Employing Mathematical Modeling to Confront Coronavirus Disease 2019},
+   journal = {Clinical Infectious Diseases},
+   volume = {74},
+   number = {5},
+   pages = {913-917},
+   abstract = {Modeling complements surveillance data to inform coronavirus disease 2019 (COVID-19) public health decision making and policy development. This includes the use of modeling to improve situational awareness, assess epidemiological characteristics, and inform the evidence base for prevention strategies. To enhance modeling utility in future public health emergencies, the Centers for Disease Control and Prevention (CDC) launched the Infectious Disease Modeling and Analytics Initiative. The initiative objectives are to: (1) strengthen leadership in infectious disease modeling, epidemic forecasting, and advanced analytic work; (2) build and cultivate a community of skilled modeling and analytics practitioners and consumers across CDC; (3) strengthen and support internal and external applied modeling and analytic work; and (4) working with partners, coordinate government-wide advanced data modeling and analytics for infectious diseases. These efforts are critical to help prepare the CDC, the country, and the world to respond effectively to present and future infectious disease threats.Copyright © 2021 Published by Oxford University Press for the Infectious Diseases Society of America.},
+   keywords = {adult
+article
+asymptomatic coronavirus disease 2019
+communicable disease/ep [Epidemiology]
+communicable disease/pc [Prevention]
+consumer
+*coronavirus disease 2019/di [Diagnosis]
+*coronavirus disease 2019/dt [Drug Therapy]
+*coronavirus disease 2019/ep [Epidemiology]
+*coronavirus disease 2019/pc [Prevention]
+COVID-19 vaccine-induced immune thrombotic thrombocytopenia/si [Side Effect]
+decision making
+disease control
+disease simulation
+disease transmission
+drug efficacy
+epidemic
+*forecasting
+government
+health care personnel
+health care policy
+high risk population
+human
+infection control
+leadership
+major clinical study
+*mathematical model
+nursing home
+*pandemic
+physician
+quarantine
+risk benefit analysis
+Severe acute respiratory syndrome coronavirus 2
+vaccination coverage
+virus transmission
+ad26.cov2.s vaccine/ae [Adverse Drug Reaction]
+ad26.cov2.s vaccine/dt [Drug Therapy]
+SARS-CoV-2 vaccine/dt [Drug Therapy]},
+   ISSN = {1058-4838
+1537-6591},
+   DOI = {https://dx.doi.org/10.1093/cid/ciab673},
+   url = {http://cid.oxfordjournals.org/content/by/year
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2017279476
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8385824/pdf/ciab673.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4010,
+   author = {de Lara-Tuprio, E. and Estadilla, C. D. S. and Macalalag, J. M. R. and Teng, T. R. and Uyheng, J. and Espina, K. E. and Pulmano, C. E. and Estuar, M. R. J. E. and Sarmiento, R. F. R.},
+   title = {Policy-driven mathematical modeling for COVID-19 pandemic response in the Philippines},
+   journal = {Epidemics},
+   volume = {40},
+   pages = {100599},
+   abstract = {Around the world, disease surveillance and mathematical modeling have been vital tools for government responses to the COVID-19 pandemic. In the face of a volatile crisis, modeling efforts have had to evolve over time in proposing policies for pandemic interventions. In this paper, we document how mathematical modeling contributed to guiding the trajectory of pandemic policies in the Philippines. We present the mathematical specifications of the FASSSTER COVID-19 compartmental model at the core of the FASSSTER platform, the scenario-based disease modeling and analytics toolkit used in the Philippines. We trace how evolving epidemiological analysis at the national, regional, and provincial levels guided government actions; and conversely, how emergent policy questions prompted subsequent model development and analysis. At various stages of the pandemic, simulated outputs of the FASSSTER model strongly correlated with empirically observed case trajectories (r=94%-99%, p<.001). Model simulations were subsequently utilized to predict the outcomes of proposed interventions, including the calibration of community quarantine levels alongside improvements to healthcare system capacity. This study shows how the FASSSTER model enabled the implementation of a phased approach toward gradually expanding economic activity while limiting the spread of COVID-19. This work points to the importance of locally contextualized, flexible, and responsive mathematical modeling, as applied to pandemic intelligence and for data-driven policy-making in general.Copyright © 2022 The Author(s)},
+   keywords = {article
+calibration
+community
+*compartment model
+*coronavirus disease 2019
+government
+*health care policy
+health care system
+human
+outcome assessment
+*pandemic
+*Philippines
+public health
+quarantine
+simulation},
+   ISSN = {1755-4365
+1878-0067},
+   DOI = {https://dx.doi.org/10.1016/j.epidem.2022.100599},
+   url = {http://www.elsevier.com/wps/find/journaldescription.cws_home/714736/description#description
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2018956040
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9212903/pdf/main.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4019,
+   author = {Finger, F. and Funk, S. and White, K. and Siddiqui, M. R. and Edmunds, W. J. and Kucharski, A. J.},
+   title = {Real-time analysis of the diphtheria outbreak in forcibly displaced Myanmar nationals in Bangladesh},
+   journal = {BMC Medicine},
+   volume = {17},
+   number = {1},
+   pages = {58},
+   abstract = {Background: Between August and December 2017, more than 625,000 Rohingya from Myanmar fled into Bangladesh, settling in informal makeshift camps in Cox's Bazar district and joining 212,000 Rohingya already present. In early November, a diphtheria outbreak hit the camps, with 440 reported cases during the first month. A rise in cases during early December led to a collaboration between teams from Medecins sans Frontieres - who were running a provisional diphtheria treatment centre - and the London School of Hygiene and Tropical Medicine with the goal to use transmission dynamic models to forecast the potential scale of the outbreak and the resulting resource needs. Method(s): We first adjusted for delays between symptom onset and case presentation using the observed distribution of reporting delays from previously reported cases. We then fit a compartmental transmission model to the adjusted incidence stratified by age group and location. Model forecasts with a lead time of 2 weeks were issued on 12, 20, 26 and 30 December and communicated to decision-makers. Result(s): The first forecast estimated that the outbreak would peak on 19 December in Balukhali camp with 303 (95% posterior predictive interval 122-599) cases and would continue to grow in Kutupalong camp, requiring a bed capacity of 316 (95% posterior predictive interval (PPI) 197-499). On 19 December, a total of 54 cases were reported, lower than forecasted. Subsequent forecasts were more accurate: on 20 December, we predicted a total of 912 cases (95% PPI 367-2183) and 136 (95% PPI 55-327) hospitalizations until the end of the year, with 616 cases actually reported during this period. Conclusion(s): Real-time modelling enabled feedback of key information about the potential scale of the epidemic, resource needs and mechanisms of transmission to decision-makers at a time when this information was largely unknown. By 20 December, the model generated reliable forecasts and helped support decision-making on operational aspects of the outbreak response, such as hospital bed and staff needs, and with advocacy for control measures. Although modelling is only one component of the evidence base for decision-making in outbreak situations, suitable analysis and forecasting techniques can be used to gain insights into an ongoing outbreak.Copyright © 2019 The Author(s).},
+   keywords = {age distribution
+article
+bacterial transmission
+Bangladesh
+Burmese
+controlled study
+*diphtheria/ep [Epidemiology]
+*epidemic
+forecasting
+hospital bed capacity
+hospitalization
+human
+incidence
+major clinical study
+mathematical model
+measurement accuracy
+prediction},
+   ISSN = {1741-7015 (electronic)
+1741-7015},
+   DOI = {https://dx.doi.org/10.1186/s12916-019-1288-7},
+   url = {http://www.biomedcentral.com/bmcmed/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=626707843},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN4012,
+   author = {Fujii, Daisuke and Nakata, Taisuke},
+   title = {COVID-19 and output in Japan},
+   journal = {Japanese economic review (Oxford, England)},
+   volume = {72},
+   number = {4},
+   pages = {609-650},
+   note = {Erratum in (EIN)},
+   abstract = {We build a tractable SIR-macro-model with time-varying parameters and use it to explore various policy questions such as when to lift the state of emergency (SOE). An earlier departure from the SOE results in smaller output loss and more deaths in the short run. However, if the SOE is lifted too early, the number of new cases will surge and another SOE may need to be issued in the future, possibly resulting in both larger output loss and more deaths. That is, the tradeoff between output and infection that exists in the short run does not necessarily exist in the long run. Our model-based analysis-updated weekly since January 2021, frequently reported by media, and presented to policymakers on many occasions-has played a unique role in the policy response to the COVID-19 crisis in Japan. Copyright © The Author(s) 2021.},
+   ISSN = {1352-4739},
+   DOI = {https://dx.doi.org/10.1007/s42973-021-00098-4},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=34566466
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8455238/pdf/42973_2021_Article_98.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4015,
+   author = {George, A. and Lacey, P. and Badrinath, P. and Gray, A. and Turner, P. and Harwood, C. and Gregson, M.},
+   title = {Planning for healthcare services during the COVID-19 pandemic in the Southeast of England: A system dynamics modelling approach},
+   journal = {BMJ Open},
+   volume = {13},
+   number = {12},
+   pages = {e072975},
+   abstract = {Objectives To develop, test, validate and implement a system dynamics model to simulate the pandemic progress and the impact of various interventions on viral spread, healthcare utilisation and demand in secondary care. Design We adopted the system dynamics model incorporating susceptible, exposed, infection and recovery framework to simulate the progress of the pandemic and how the interventions for the COVID-19 response influence the outcomes with a focus on secondary care. Setting This study was carried out covering all the local health systems in Southeast of England with a catchment population of six million with a specific focus on Kent and Medway system. Participants Six local health systems in Southeast of England using Kent and Medway as a case study. Interventions Short to medium 'what if' scenarios incorporating human behaviour, non-pharmaceutical interventions and medical interventions were tested using the model with regular and continuous feedback of the model results to the local health system leaders for monitoring, planning and rapid response as needed. Main outcome measures Daily output from the model which included number infected in the population, hospital admissions needing COVID-19 care, occupied general beds, continuous positive airway pressure beds, intensive care beds, hospital discharge pathways and deaths. Results We successfully implemented a regional series of models based on the local population needs which were used in healthcare planning as part of the pandemic response. Conclusions In this study, we have demonstrated the utility of system dynamics modelling incorporating local intelligence and collaborative working during the pandemic to respond rapidly and take decisions to protect the population. This led to strengthened cooperation among partners and ensured that the local population healthcare needs were met.Copyright © The Author(s) 2023.},
+   keywords = {adult
+article
+community care
+community hospital
+community transmission
+continuous positive airway pressure
+controlled study
+*coronavirus disease 2019
+*England
+epidemiology
+female
+health care
+health care need
+health care planning
+health care system
+health care utilization
+*health service
+hospital admission
+hospital discharge
+human
+innate immunity
+intensive care
+intensive care unit
+*medical informatics
+model
+mortality rate
+needs assessment
+secondary health care
+virus transmission
+work from home},
+   ISSN = {2044-6055 (electronic)
+2044-6055},
+   DOI = {https://dx.doi.org/10.1136/bmjopen-2023-072975},
+   url = {http://bmjopen.bmj.com/content/early/by/section
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2029102211
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10729138/pdf/bmjopen-2023-072975.pdf},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN4020,
+   author = {Holmdahl, I. S. M. and Buckee, C.},
+   title = {Wrong but useful - What covid-19 epidemiologic models can and cannot tell us},
+   journal = {New England Journal of Medicine},
+   volume = {383},
+   number = {4},
+   pages = {303-305},
+   keywords = {*coronavirus disease 2019/ep [Epidemiology]
+forecasting
+health care planning
+health care policy
+high risk population
+human
+immune response
+machine learning
+mathematical model
+pandemic/ep [Epidemiology]
+priority journal
+protection
+review
+seasonal variation
+Severe acute respiratory syndrome coronavirus 2
+statistical analysis
+virus transmission
+mechanistic model},
+   ISSN = {0028-4793
+1533-4406},
+   DOI = {https://dx.doi.org/10.1056/NEJMp2016822},
+   url = {http://www.nejm.org/medical-index
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=632406666},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4013,
+   author = {Irvine, N. and Anderson, G. and Sinha, C. and McCabe, H. and van der Meer, R.},
+   title = {Collaborative critical care prediction and resource planning during the COVID-19 pandemic using computer simulation modelling: Future urgent planning lessons},
+   journal = {Future Healthcare Journal},
+   volume = {8},
+   number = {2},
+   pages = {E317-E321},
+   abstract = {In March 2020, epidemiological modelling of COVID-19 predicted overwhelming demand on healthcare resources, yet data that emerged painted a different picture. Our management science health systems team at the University of Strathclyde collaborated with one NHS organisation to contextualise national policy and predict local resource needs before the pandemic took hold. Using action research, we combined organisational expertise, local and international data, and healthcare systems expertise to create a discrete event simulation model that predicted concurrent resource use over the first 10 weeks of the pandemic with realistic estimates of uncertainty. This allowed the organisation to create an effective strategy for resource planning. Had they followed national guidance, the costs would have been unwieldy and futile. Our decentralised approach delivered valuable information in a timely manner. This case study is unique in healthcare literature and serves as an example of successful methodology for similar crises.Copyright © Royal College of Physicians 2021. All rights reserved.},
+   keywords = {article
+controlled study
+*coronavirus disease 2019
+*discrete event simulation
+health care system
+human
+*intensive care
+*pandemic
+*prediction
+uncertainty},
+   ISSN = {2514-6645
+2514-6653},
+   DOI = {https://dx.doi.org/10.7861/FHJ.2020-0194},
+   url = {https://www.rcpjournals.org/lookup/doi/10.7861/fhj.2020-0194
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2013827174
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285157/pdf/futurehealth-8-2-e317.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4045,
+   author = {James, L. P. and Salomon, J. A. and Buckee, C. O. and Menzies, N. A.},
+   title = {The Use and Misuse of Mathematical Modeling for Infectious Disease Policymaking: Lessons for the COVID-19 Pandemic},
+   journal = {Medical decision making : an international journal of the Society for Medical Decision Making},
+   volume = {41},
+   number = {4},
+   pages = {379-385},
+   abstract = {Mathematical modeling has played a prominent and necessary role in the current coronavirus disease 2019 (COVID-19) pandemic, with an increasing number of models being developed to track and project the spread of the disease, as well as major decisions being made based on the results of these studies. A proliferation of models, often diverging widely in their projections, has been accompanied by criticism of the validity of modeled analyses and uncertainty as to when and to what extent results can be trusted. Drawing on examples from COVID-19 and other infectious diseases of global importance, we review key limitations of mathematical modeling as a tool for interpreting empirical data and informing individual and public decision making. We present several approaches that have been used to strengthen the validity of inferences drawn from these analyses, approaches that will enable better decision making in the current COVID-19 crisis and beyond.},
+   keywords = {*communicable disease
+communicable disease control
+decision making
+forecasting
+human
+*management
+*pandemic
+*policy
+prevention and control
+*public health
+*theoretical model
+uncertainty},
+   ISSN = {1552-681X (electronic)
+1552-681X},
+   DOI = {https://dx.doi.org/10.1177/0272989X21990391},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=634199701},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4024,
+   author = {Martin, E. G. and MacDonald, R. H. and Gordon, D. E. and Swain, C. A. and O'Donnell, T. and Helmeset, J. and Dwicaksono, A. and Tesoriero, J. M.},
+   title = {Simulating the End of AIDS in New York: Using Participatory Dynamic Modeling to Improve Implementation of the Ending the Epidemic Initiative},
+   journal = {Public Health Reports},
+   volume = {135},
+   number = {1_suppl},
+   pages = {158S-171S},
+   abstract = {Objectives: In 2014, the governor of New York announced the Ending the Epidemic (ETE) plan to reduce annual new HIV infections from 3000 to 750, achieve a first-ever decrease in HIV prevalence, and reduce AIDS progression by the end of 2020. The state health department undertook participatory simulation modeling to develop a baseline for comparing epidemic trends and feedback on ETE strategies. Method(s): A dynamic compartmental model projected the individual and combined effects of 3 ETE initiatives: enhanced linkage to and retention in HIV treatment, increased preexposure prophylaxis (PrEP) among men who have sex with men, and expanded housing assistance. Data inputs for model calibration and low-, medium-, and high-implementation scenarios (stakeholders' rollout predictions, and lower and upper bounds) came from surveillance and program data through 2014, the literature, and expert judgment. Result(s): Without ETE (baseline scenario), new HIV infections would decline but remain >750, and HIV prevalence would continue to increase by 2020. Concurrently implementing the 3 programs would lower annual new HIV infections by 16.0%, 28.1%, and 45.7% compared with baseline in the low-, medium-, and high-implementation scenarios, respectively. In all concurrent implementation scenarios, although annual new HIV infections would remain >750, there would be fewer new HIV infections than deaths, yielding the first-ever decrease in HIV prevalence. PrEP and enhanced linkage and retention would confer the largest population-level changes. Conclusion(s): New York State will achieve 1 ETE benchmark under the most realistic (medium) implementation scenario. Findings facilitated framing of ETE goals and underscored the need to prioritize men who have sex with men and maintain ETE's multipronged approach, including other programs not modeled here.Copyright © 2020, Association of Schools and Programs of Public Health.},
+   keywords = {*acquired immune deficiency syndrome/ep [Epidemiology]
+article
+benchmarking
+compartment model
+disease exacerbation
+disease surveillance
+*epidemic
+health care planning
+men who have sex with men
+New York
+patient participation
+pre-exposure prophylaxis
+*prevalence
+priority journal
+simulation
+trend study},
+   ISSN = {0033-3549
+1468-2877},
+   DOI = {https://dx.doi.org/10.1177/0033354920935069},
+   url = {https://journals.sagepub.com/home/phr
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2005736588
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7407049/pdf/10.1177_0033354920935069.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4025,
+   author = {Mellor, Jonathon and Christie, Rachel and Overton, Christopher E. and Paton, Robert S. and Leslie, Rhianna and Tang, Maria and Deeny, Sarah and Ward, Thomas},
+   title = {Forecasting influenza hospital admissions within English sub-regions using hierarchical generalised additive models},
+   journal = {Communications medicine},
+   volume = {3},
+   number = {1},
+   pages = {190},
+   note = {Erratum in (EIN)},
+   abstract = {BACKGROUND: Seasonal influenza places a substantial burden annually on healthcare services. Policies during the COVID-19 pandemic limited the transmission of seasonal influenza, making the timing and magnitude of a potential resurgence difficult to ascertain and its impact important to forecast., METHODS: We have developed a hierarchical generalised additive model (GAM) for the short-term forecasting of hospital admissions with a positive test for the influenza virus sub-regionally across England. The model incorporates a multi-level structure of spatio-temporal splines, weekly cycles in admissions, and spatial correlation. Using multiple performance metrics including interval score, coverage, bias, and median absolute error, the predictive performance is evaluated for the 2022-2023 seasonal wave. Performance is measured against autoregressive integrated moving average (ARIMA) and Prophet time series models., RESULTS: Across the epidemic phases the hierarchical GAM shows improved performance, at all geographic scales relative to the ARIMA and Prophet models. Temporally, the hierarchical GAM has overall an improved performance at 7 and 14 day time horizons. The performance of the GAM is most sensitive to the flexibility of the smoothing function that measures the national epidemic trend., CONCLUSIONS: This study introduces an approach to short-term forecasting of hospital admissions for the influenza virus using hierarchical, spatial, and temporal components. The methodology was designed for the real time forecasting of epidemics. This modelling framework was used across the 2022-2023 winter for healthcare operational planning by the UK Health Security Agency and the National Health Service in England. Copyright © 2023. Crown.},
+   ISSN = {2730-664X},
+   DOI = {https://dx.doi.org/10.1038/s43856-023-00424-4},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=38123630
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10733380/pdf/43856_2023_Article_424.pdf},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN4026,
+   author = {Morozova, O. and Li, Z. R. and Crawford, F. W.},
+   title = {One year of modeling and forecasting COVID-19 transmission to support policymakers in Connecticut},
+   journal = {Scientific reports},
+   volume = {11},
+   number = {1},
+   pages = {20271},
+   abstract = {To support public health policymakers in Connecticut, we developed a flexible county-structured compartmental SEIR-type model of SARS-CoV-2 transmission and COVID-19 disease progression. Our goals were to provide projections of infections, hospitalizations, and deaths, and estimates of important features of disease transmission and clinical progression. In this paper, we outline the model design, implementation and calibration, and describe how projections and estimates were used to meet the changing requirements of policymakers and officials in Connecticut from March 2020 to February 2021. The approach takes advantage of our unique access to Connecticut public health surveillance and hospital data and our direct connection to state officials and policymakers. We calibrated this model to data on deaths and hospitalizations and developed a novel measure of close interpersonal contact frequency to capture changes in transmission risk over time and used multiple local data sources to infer dynamics of time-varying model inputs. Estimated epidemiologic features of the COVID-19 epidemic in Connecticut include the effective reproduction number, cumulative incidence of infection, infection hospitalization and fatality ratios, and the case detection ratio. We conclude with a discussion of the limitations inherent in predicting uncertain epidemic trajectories and lessons learned from one year of providing COVID-19 projections in Connecticut.Copyright © 2021. The Author(s).},
+   keywords = {Connecticut
+epidemiology
+forecasting
+health survey
+human
+*pandemic/pc [Prevention]
+*procedures
+*statistical model},
+   ISSN = {2045-2322 (electronic)
+2045-2322},
+   DOI = {https://dx.doi.org/10.1038/s41598-021-99590-5},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=636377715
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8511264/pdf/41598_2021_Article_99590.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4027,
+   author = {Reich, N. G. and McGowan, C. J. and Yamana, T. K. and Tushar, A. and Ray, E. L. and Osthus, D. and Kandula, S. and Brooks, L. C. and Crawford-Crudell, W. and Gibson, G. C. and Moore, E. and Silva, R. and Biggerstaff, M. and Johansson, M. A. and Rosenfeld, R. and Shaman, J.},
+   title = {Accuracy of real-time multi-model ensemble forecasts for seasonal influenza in the U.S},
+   journal = {PLoS Computational Biology},
+   volume = {15},
+   number = {11},
+   pages = {e1007486},
+   abstract = {Seasonal influenza results in substantial annual morbidity and mortality in the United States and worldwide. Accurate forecasts of key features of influenza epidemics, such as the timing and severity of the peak incidence in a given season, can inform public health response to outbreaks. As part of ongoing efforts to incorporate data and advanced analytical methods into public health decision-making, the United States Centers for Disease Control and Prevention (CDC) has organized seasonal influenza forecasting challenges since the 2013/ 2014 season. In the 2017/2018 season, 22 teams participated. A subset of four teams created a research consortium called the FluSight Network in early 2017. During the 2017/2018 season they worked together to produce a collaborative multi-model ensemble that combined 21 separate component models into a single model using a machine learning technique called stacking. This approach creates a weighted average of predictive densities where the weight for each component is determined by maximizing overall ensemble accuracy over past seasons. In the 2017/2018 influenza season, one of the largest seasonal outbreaks in the last 15 years, this multi-model ensemble performed better on average than all individual component models and placed second overall in the CDC challenge. It also outperformed the baseline multi-model ensemble created by the CDC that took a simple average of all models submitted to the forecasting challenge. This project shows that collaborative efforts between research teams to develop ensemble forecasting approaches can bring measurable improvements in forecast accuracy and important reductions in the variability of performance from year to year. Efforts such as this, that emphasize real-time testing and evaluation of forecasting models and facilitate the close collaboration between public health officials and modeling researchers, are essential to improving our understanding of how best to use forecasts to improve public health response to seasonal and emerging epidemic threats.Copyright © 2019 This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.},
+   keywords = {article
+epidemic
+*forecasting
+human
+population risk
+public health
+risk factor
+*seasonal influenza
+seasonal variation
+trend study
+United States},
+   ISSN = {1553-734X
+1553-7358},
+   DOI = {https://dx.doi.org/10.1371/journal.pcbi.1007486},
+   url = {https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007486&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=2004114812
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6897420/pdf/pcbi.1007486.pdf},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN4028,
+   author = {Sanchez, F. and Calvo, J. G. and Mery, G. and Garcia, Y. E. and Vasquez, P. and Barboza, L. A. and Perez, M. D. and Rivas, T.},
+   title = {A multilayer network model of Covid-19: Implications in public health policy in Costa Rica},
+   journal = {Epidemics},
+   volume = {39},
+   pages = {100577},
+   abstract = {Successful partnerships between researchers, experts, and public health authorities have been critical to navigate the challenges of the Covid-19 pandemic worldwide. In this collaboration, mathematical models have played a decisive role in informing public policy, with findings effectively translated into public health measures that have shaped the pandemic in Costa Rica. As a result of interdisciplinary and cross-institutional collaboration, we constructed a multilayer network model that incorporates a diverse contact structure for each individual. In July 2020, we used this model to test the effect of lifting restrictions on population mobility after a so-called "epidemiological fence" imposed to contain the country's first big wave of cases. Later, in August 2020, we used it to predict the effects of an open and close strategy (the Hammer and Dance). Scenarios constructed in July 2020 showed that lifting restrictions on population mobility after less than three weeks of epidemiological fence would produce a sharp increase in cases. Results from scenarios in August 2020 indicated that the Hammer and Dance strategy would only work with 50% of the population adhering to mobility restrictions. The development, evolution, and applications of a multilayer network model of Covid-19 in Costa Rica has guided decision-makers to anticipate implementing sanitary measures and contributed to gain valuable time to increase hospital capacity.Copyright © 2022 The Author(s)},
+   keywords = {article
+contact examination
+*coronavirus disease 2019
+Costa Rica
+Costa Rican
+evolution
+*health care policy
+human
+interdisciplinary research
+*mathematical model
+medical research
+nonhuman
+public policy
+Severe acute respiratory syndrome coronavirus 2
+social behavior
+social network
+virus transmission
+*multilayer network model},
+   ISSN = {1755-4365
+1878-0067},
+   DOI = {https://dx.doi.org/10.1016/j.epidem.2022.100577},
+   url = {http://www.elsevier.com/wps/find/journaldescription.cws_home/714736/description#description
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2018400866
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116977/pdf/main.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4022,
+   author = {Shea, K. and Borchering, R. K. and Probert, W. J. M. and Howerton, E. and Bogich, T. L. and Li, S. L. and van Panhuis, W. G. and Viboud, C. and Aguas, R. and Belov, A. A. and Bhargava, S. H. and Cavany, S. M. and Chang, J. C. and Chen, C. and Chen, J. and Chen, S. and Chen, Y. and Childs, L. M. and Chow, C. C. and Crooker, I. and Del Valle, S. Y. and Espana, G. and Fairchild, G. and Gerkin, R. C. and Germann, T. C. and Gu, Q. and Guan, X. and Guo, L. and Hart, G. R. and Hladish, T. J. and Hupert, N. and Janies, D. and Kerr, C. C. and Klein, D. J. and Klein, E. Y. and Lin, G. and Manore, C. and Meyers, L. A. and Mittler, J. E. and Mu, K. and Nunez, R. C. and Oidtman, R. J. and Pasco, R. and y Piontti, A. P. and Paul, R. and Pearson, C. A. B. and Perdomo, D. R. and Alex Perkins, T. and Pierce, K. and Pillai, A. N. and Rael, R. C. and Rosenfeld, K. and Ross, C. W. and Spencer, J. A. and Stoltzfus, A. B. and Toh, K. B. and Vattikuti, S. and Vespignani, A. and Wang, L. and White, L. J. and Xu, P. and Yang, Y. and Yogurtcu, O. N. and Zhang, W. and Zhao, Y. and Zou, D. and Ferrari, M. J. and Pannell, D. and Tildesley, M. J. and Seifarth, J. and Johnson, E. and Biggerstaff, M. and Johansson, M. A. and Slayton, R. B. and Levander, J. D. and Stazer, J. and Kerr, J. and Runge, M. C.},
+   title = {Multiple models for outbreak decision support in the face of uncertainty},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {120},
+   number = {118},
+   pages = {e2207537120},
+   abstract = {Policymakers must make management decisions despite incomplete knowledge and conflicting model projections. Little guidance exists for the rapid, representative, and unbiased collection of policy-relevant scientific input from independent modeling teams. Integrating approaches from decision analysis, expert judgment, and model aggregation, we convened multiple modeling teams to evaluate COVID-19 reopening strategies for a mid-sized United States county early in the pandemic. Projections from seventeen distinct models were inconsistent in magnitude but highly consistent in ranking interventions. The 6-mo-ahead aggregate projections were well in line with observed outbreaks in mid-sized US counties. The aggregate results showed that up to half the population could be infected with full workplace reopening, while workplace restrictions reduced median cumulative infections by 82%. Rankings of interventions were consistent across public health objectives, but there was a strong trade-off between public health outcomes and duration of workplace closures, and no win-win intermediate reopening strategies were identified. Between-model variation was high; the aggregate results thus provide valuable risk quantification for decision making. This approach can be applied to the evaluation of management interventions in any setting where models are used to inform decision making. This case study demonstrated the utility of our approach and was one of several multimodel efforts that laid the groundwork for the COVID-19 Scenario Modeling Hub, which has provided multiple rounds of real-time scenario projections for situational awareness and decision making to the Centers for Disease Control and Prevention since December 2020.Copyright © 2023 the Author(s).},
+   keywords = {article
+awareness
+*confusion (uncertainty)
+*coronavirus disease 2019
+decision making
+*decision support system
+disease risk assessment
+*epidemic
+health care policy
+human
+legal aspect
+*mathematical model
+medical expert
+occupational safety
+pandemic
+population projection
+public health
+public health service
+social aspect
+United States
+workplace
+*Multiple Models for Outbreak Decision Support
+workplace closure
+workplace reopening},
+   ISSN = {0027-8424
+1091-6490},
+   DOI = {https://dx.doi.org/10.1073/pnas.2207537120},
+   url = {https://pnas.org/doi/10.1073/pnas.2207537120
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=2024632719},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN4029,
+   author = {Sherratt, K. and Abbott, S. and Meakin, S. R. and Hellewell, J. and Munday, J. D. and Bosse, N. and Jit, M. and Funk, S.},
+   title = {Exploring surveillance data biases when estimating the reproduction number: with insights into subpopulation transmission of COVID-19 in England},
+   journal = {Philosophical transactions of the Royal Society of London. Series B, Biological sciences},
+   volume = {376},
+   number = {1829},
+   pages = {20200283},
+   abstract = {The time-varying reproduction number (Rt: the average number of secondary infections caused by each infected person) may be used to assess changes in transmission potential during an epidemic. While new infections are not usually observed directly, they can be estimated from data. However, data may be delayed and potentially biased. We investigated the sensitivity of Rt estimates to different data sources representing COVID-19 in England, and we explored how this sensitivity could track epidemic dynamics in population sub-groups. We sourced public data on test-positive cases, hospital admissions and deaths with confirmed COVID-19 in seven regions of England over March through August 2020. We estimated Rt using a model that mapped unobserved infections to each data source. We then compared differences in Rt with the demographic and social context of surveillance data over time. Our estimates of transmission potential varied for each data source, with the relative inconsistency of estimates varying across regions and over time. Rt estimates based on hospital admissions and deaths were more spatio-temporally synchronous than when compared to estimates from all test positives. We found these differences may be linked to biased representations of subpopulations in each data source. These included spatially clustered testing, and where outbreaks in hospitals, care homes, and young age groups reflected the link between age and severity of the disease. We highlight that policy makers could better target interventions by considering the source populations of Rt estimates. Further work should clarify the best way to combine and interpret Rt estimates from different data sources based on the desired use. This article is part of the theme issue 'Modelling that shaped the early COVID-19 pandemic response in the UK'.},
+   keywords = {England
+*epidemiology
+human
+*pandemic
+prevention and control
+statistical bias
+virology},
+   ISSN = {1471-2970 (electronic)
+1471-2970},
+   DOI = {https://dx.doi.org/10.1098/rstb.2020.0283},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=635204359
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8165604/pdf/rstb.2020.0283.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4030,
+   author = {Sherratt, K. and Srivastava, A. and Ainslie, K. and Singh, D. E. and Cublier, A. and Marinescu, M. C. and Carretero, J. and Garcia, A. C. and Franco, N. and Willem, L. and Abrams, S. and Faes, C. and Beutels, P. and Hens, N. and Muller, S. and Charlton, B. and Ewert, R. and Paltra, S. and Rakow, C. and Rehmann, J. and Conrad, T. and Schutte, C. and Nagel, K. and Abbott, S. and Grah, R. and Niehus, R. and Prasse, B. and Sandmann, F. and Funk, S.},
+   title = {Characterising information gains and losses when collecting multiple epidemic model outputs},
+   journal = {Epidemics},
+   volume = {47},
+   pages = {100765},
+   abstract = {Background: Collaborative comparisons and combinations of epidemic models are used as policy-relevant evidence during epidemic outbreaks. In the process of collecting multiple model projections, such collaborations may gain or lose relevant information. Typically, modellers contribute a probabilistic summary at each time-step. We compared this to directly collecting simulated trajectories. We aimed to explore information on key epidemic quantities; ensemble uncertainty; and performance against data, investigating potential to continuously gain information from a single cross-sectional collection of model results. Method(s): We compared projections from the European COVID-19 Scenario Modelling Hub. Five teams modelled incidence in Belgium, the Netherlands, and Spain. We compared July 2022 projections by incidence, peaks, and cumulative totals. We created a probabilistic ensemble drawn from all trajectories, and compared to ensembles from a median across each model's quantiles, or a linear opinion pool. We measured the predictive accuracy of individual trajectories against observations, using this in a weighted ensemble. We repeated this sequentially against increasing weeks of observed data. We evaluated these ensembles to reflect performance with varying observed data. Result(s): By collecting modelled trajectories, we showed policy-relevant epidemic characteristics. Trajectories contained a right-skewed distribution well represented by an ensemble of trajectories or a linear opinion pool, but not models' quantile intervals. Ensembles weighted by performance typically retained the range of plausible incidence over time, and in some cases narrowed this by excluding some epidemic shapes. Conclusion(s): We observed several information gains from collecting modelled trajectories rather than quantile distributions, including potential for continuously updated information from a single model collection. The value of information gains and losses may vary with each collaborative effort's aims, depending on the needs of projection users. Understanding the differing information potential of methods to collect model projections can support the accuracy, sustainability, and communication of collaborative infectious disease modelling efforts.Copyright © 2024 The Authors},
+   keywords = {accuracy
+article
+Belgium
+coronavirus disease 2019
+*epidemic
+*epidemiological model
+health care policy
+incidence
+*information
+information processing
+Netherlands
+prediction
+reliability
+Spain
+uncertainty},
+   ISSN = {1755-4365
+1878-0067},
+   DOI = {https://dx.doi.org/10.1016/j.epidem.2024.100765},
+   url = {https://www.sciencedirect.com/science/journal/17554365
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2031746195},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN4031,
+   author = {Silal, S. P. and Groome, M. J. and Govender, N. and Pulliam, J. R. C. and Ramadan, O. P. and Puren, A. and Jassat, W. and Leonard, E. and Moultrie, H. and Meyer-Rath, K. G. and Ramkrishna, W. and Langa, T. and Furumele, T. and Moonasar, D. and Cohen, C. and Walaza, S.},
+   title = {Leveraging epidemiology as a decision support tool during the COVID-19 epidemic in South Africa},
+   journal = {South African Medical Journal},
+   volume = {112},
+   number = {5b},
+   pages = {361-365},
+   abstract = {By May 2021, South Africa (SA) had experienced two 'waves' of COVID-19 infections, with an initial peak of infections reached in July 2020, followed by a larger peak of infections in January 2021. Public health decisions rely on accurate and timely disease surveillance and epidemiological analyses, and accessibility of data at all levels of government is critical to inform stakeholders to respond effectively. In this paper, we describe the adaptation, development and operation of epidemiological surveillance and modelling systems in SA in response to the COVID-19 epidemic, including data systems for monitoring laboratory-confirmed COVID-19 cases, hospitalisations, mortality and recoveries at a national and provincial level, and how these systems were used to inform modelling projections and public health decisions. Detailed descriptions on the characteristics and completeness of individual datasets are not provided in this paper. Rapid development of robust data systems was necessary to support the response to the SA COVID-19 epidemic. These systems produced data streams that were used in decision-making at all levels of government. While much progress was made in producing epidemiological data, challenges remain to be overcome to address gaps to better prepare for future waves of COVID-19 and other health emergencies.Copyright © 2022 South African Medical Association. All rights reserved.},
+   keywords = {article
+*coronavirus disease 2019
+data system
+*decision making
+*decision support system
+epidemic
+hospitalization
+human
+in-hospital mortality},
+   ISSN = {0256-9574
+2078-5135},
+   DOI = {https://dx.doi.org/10.7196/SAMJ.2022.v112i5b.16061},
+   url = {http://www.samj.org.za/index.php/samj/article/view/13602/10143
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2018937620
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612950/pdf/EMS145974.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4032,
+   author = {Souza, Gilberto Nerino de, Jr. and Braga, Marcus de Barros and Rodrigues, Luana Lorena Silva and Fernandes, Rafael da Silva and Ramos, Rommel Thiago Juca and Carneiro, Adriana Ribeiro and Brito, Silvana Rossy de and Dolacio, Cicero Jorge Fonseca and Tavares, Ivaldo da Silva, Jr. and Noronha, Fernando Napoleao and Pinheiro, Raphael Rodrigues and Diniz, Hugo Alex Carneiro and Botelho, Marcel do Nascimento and Vallinoto, Antonio Carlos Rosario and Rocha, Jonas Elias Castro da},
+   title = {COVID-PA Bulletin: reports on artificial intelligence-based forecasting in coping with COVID-19 pandemic in the state of Para, Brazil},
+   journal = {Boletim COVID-PA: relatos sobre projecoes baseadas em inteligencia artificial no enfrentamento da pandemia de COVID-19 no estado do Para.},
+   volume = {30},
+   number = {4},
+   pages = {e2021098},
+   abstract = {OBJECTIVE: To report the university extension research result entitled 'The COVID-PA Bulletin', which presented forecasts on the behavior of the pandemic in the state of Para, Brazil., METHODS: The artificial intelligence technique also known as 'artificial neural networks' was used to generate 13 bulletins with short-term forecasts based on historical data from the State Department of Public Health information system., RESULTS: After eight months of predictions, the technique generated reliable results, with an average accuracy of 97% (observed for147 days) for confirmed cases, 96% (observed for 161 days) for deaths and 86% (observed for 72 days) for Intensive Care Unit bed occupancy., CONCLUSION: These bulletins have become a useful decision-making tool for public managers, assisting in the reallocation of hospital resources and optimization of COVID-19 control strategies in various regions of the state of Para.},
+   keywords = {Adaptation, Psychological
+Artificial Intelligence
+Brazil/ep [Epidemiology]
+*COVID-19
+Humans
+*Pandemics
+SARS-CoV-2},
+   ISSN = {2237-9622
+1679-4974},
+   DOI = {https://dx.doi.org/10.1590/S1679-49742021000400012},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med20&NEWS=N&AN=34730720
+https://www.scielo.br/j/ress/a/BsWHdHky5tQLGSj6xGNBT8H/?lang=en&format=pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4033,
+   author = {Steinberg, D. M. and Balicer, R. D. and Benjamini, Y. and De-Leon, H. and Gazit, D. and Rossman, H. and Sprecher, E.},
+   title = {The role of models in the covid-19 pandemic},
+   journal = {Israel Journal of Health Policy Research},
+   volume = {11},
+   number = {1},
+   pages = {36},
+   abstract = {Mathematical and statistical models have played an important role in the analysis of data from COVID-19. They are important for tracking the progress of the pandemic, for understanding its spread in the population, and perhaps most significantly for forecasting the future course of the pandemic and evaluating potential policy options. This article describes the types of models that were used by research teams in Israel, presents their assumptions and basic elements, and illustrates how they were used, and how they influenced decisions. The article grew out of a "modelists' dialog" organized by the Israel National Institute for Health Policy Research with participation from some of the leaders in the local modeling effort.Copyright © 2022, The Author(s).},
+   keywords = {accuracy
+article
+*coronavirus disease 2019
+data analysis
+decision making
+disease transmission
+epidemic
+forecasting
+health care policy
+hospitalization
+human
+infection rate
+mathematical model
+nowcasting
+*pandemic
+statistics
+vaccination},
+   ISSN = {2045-4015 (electronic)
+2045-4015},
+   DOI = {https://dx.doi.org/10.1186/s13584-022-00546-5},
+   url = {https://ijhpr.biomedcentral.com/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2019681180
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9584247/pdf/13584_2022_Article_546.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4034,
+   author = {Sterner, B. and Elliott, S. and Upham, N. and Franz, N.},
+   title = {Bats, objectivity, and viral spillover risk},
+   journal = {History and philosophy of the life sciences},
+   volume = {43},
+   number = {1},
+   pages = {7},
+   abstract = {What should the best practices be for modeling zoonotic disease risks, e.g. to anticipate the next pandemic, when background assumptions are unsettled or evolving rapidly? This challenge runs deeper than one might expect, all the way into how we model the robustness of contemporary phylogenetic inference and taxonomic classifications. Different and legitimate taxonomic assumptions can destabilize the putative objectivity of zoonotic risk assessments, thus potentially supporting inconsistent and overconfident policy decisions.},
+   keywords = {animal
+*bat
+classification
+human
+*pandemic
+phylogeny
+*procedures
+risk assessment
+theoretical model
+virology
+*zoonosis/ep [Epidemiology]},
+   ISSN = {1742-6316 (electronic)
+1742-6316},
+   DOI = {https://dx.doi.org/10.1007/s40656-021-00366-x},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=634017030
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805256/pdf/40656_2021_Article_366.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4035,
+   author = {Tariq, Mehreen and Haworth-Brockman, Margaret and Moghadas, Seyed M.},
+   title = {Ten years of Pan-InfORM: modelling research for public health in Canada},
+   journal = {AIMS public health},
+   volume = {8},
+   number = {2},
+   pages = {265-274},
+   abstract = {Modelling and simulation methods can play an important role in guiding public health responses to infectious diseases and emerging health threats by projecting the plausible outcomes of decisions and interventions. The 2003 SARS epidemic marked a new chapter in disease modelling in Canada as it triggered a national discussion on the utility and uptake of modelling research in local and pandemic outbreaks. However, integration and application of model-based outcomes in public health requires knowledge translation and contextualization. We reviewed the history and performance of Pan-InfORM (Pandemic Influenza Outbreak Research Modelling), which created a national infrastructure in Canada with a mandate to develop innovative knowledge translation methodologies to inform policy makers through modelling frameworks that bridge the gaps between theory, policy, and practice. This review demonstrates the importance of a collaborative infrastructure as a "Community of Practice" to guide public health responses, especially in the context of emerging diseases with substantial uncertainty, such as the COVID-19 pandemic. Dedicated resources to modelling and knowledge translation activities can help create synergistic strategies at the global scale and optimize public health responses to protect at-risk populations and quell socioeconomic and health burden. Copyright © 2021 the Author(s), licensee AIMS Press.},
+   ISSN = {2327-8994},
+   DOI = {https://dx.doi.org/10.3934/publichealth.2021020},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=34017890
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8116193/pdf/publichealth-08-02-020.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4036,
+   author = {Teerawattananon, Y. and Kc, S. and Chi, Y. L. and Dabak, S. and Kazibwe, J. and Clapham, H. and Lopez Hernandez, C. and Leung, G. M. and Sharifi, H. and Habtemariam, M. and Blecher, M. and Nishtar, S. and Sarkar, S. and Wilson, D. and Chalkidou, K. and Gorgens, M. and Hutubessy, R. and Wibulpolprasert, S.},
+   title = {Recalibrating the notion of modelling for policymaking during pandemics},
+   journal = {Epidemics},
+   volume = {38},
+   pages = {100552},
+   abstract = {COVID-19 disease models have aided policymakers in low-and middle-income countries (LMICs) with many critical decisions. Many challenges remain surrounding their use, from inappropriate model selection and adoption, inadequate and untimely reporting of evidence, to the lack of iterative stakeholder engagement in policy formulation and deliberation. These issues can contribute to the misuse of models and hinder effective policy implementation. Without guidance on how to address such challenges, the true potential of such models may not be realised. The COVID-19 Multi-Model Comparison Collaboration (CMCC) was formed to address this gap. CMCC is a global collaboration between decision-makers from LMICs, modellers and researchers, and development partners. To understand the limitations of existing COVID-19 disease models (primarily from high income countries) and how they could be adequately support decision-making in LMICs, a desk review of modelling experience during the COVID-19 and past disease outbreaks, two online surveys, and regular online consultations were held among the collaborators. Three key recommendations from CMCC include: A 'fitness-for-purpose' flowchart, a tool that concurrently walks policymakers (or their advisors) and modellers through a model selection and development process. The flowchart is organised around the following: policy aims, modelling feasibility, model implementation, model reporting commitment. Holmdahl and Buckee (2020) A 'reporting standards trajectory', which includes three gradually increasing standard of reports, 'minimum', 'acceptable', and 'ideal', and seeks collaboration from funders, modellers, and decision-makers to enhance the quality of reports over time and accountability of researchers. Malla et al. (2018) A framework for "collaborative modelling for effective policy implementation and evaluation" which extends the definition of stakeholders to funders, ground-level implementers, public, and other researchers, and outlines how each can contribute to modelling. We advocate for standardisation of modelling processes and adoption of country-owned model through iterative stakeholder participation and discuss how they can enhance trust, accountability, and public ownership to decisions.Copyright © 2022 The Authors},
+   keywords = {article
+clinical decision making
+*coronavirus disease 2019
+electronic consultation
+epidemic
+*health care policy
+high income country
+human
+intersectoral collaboration
+professional standard},
+   ISSN = {1755-4365
+1878-0067},
+   DOI = {https://dx.doi.org/10.1016/j.epidem.2022.100552},
+   url = {http://www.elsevier.com/wps/find/journaldescription.cws_home/714736/description#description
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2017106388
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8889889/pdf/main.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4023,
+   author = {Wang, N. and Fu, Y. and Zhang, H. and Shi, H.},
+   title = {An evaluation of mathematical models for the outbreak of COVID-19},
+   journal = {Precision Clinical Medicine},
+   volume = {3},
+   number = {2},
+   pages = {85-93},
+   abstract = {Mathematical modelling performs a vital part in estimating and controlling the recent outbreak of coronavirus disease 2019 (COVID-19). In this epidemic, most countries impose severe intervention measures to contain the spread of COVID-19. The policymakers are forced to make difficult decisions to leverage between health and economic development. How and when to make clinical and public health decisions in an epidemic situation is a challenging question. The most appropriate solution is based on scientific evidence, which is mainly dependent on data and models. So one of the most critical problems during this crisis is whether we can develop reliable epidemiological models to forecast the evolution of the virus and estimate the effectiveness of various intervention measures and their impacts on the economy. There are numerous types of mathematical model for epidemiological diseases. In this paper, we present some critical reviews on mathematical models for the outbreak of COVID-19. Some elementary models are presented as an initial formulation for an epidemic. We give some basic concepts, notations, and foundation for epidemiological modelling. More related works are also introduced and evaluated by considering epidemiological features such as disease tendency, latent effects, susceptibility, basic reproduction numbers, asymptomatic infections, herd immunity, and impact of the interventions.Copyright © The Author(s) 2020. Published by Oxford University Press on behalf of the West China School of Medicine & West China Hospital of Sichuan University. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.},
+   keywords = {article
+asymptomatic infection
+basic reproduction number
+case fatality rate
+*coronavirus disease 2019/ep [Epidemiology]
+disease predisposition
+*epidemic
+herd immunity
+human
+*mathematical model
+nonhuman
+priority journal
+Severe acute respiratory syndrome coronavirus 2
+treatment planning
+virus transmission},
+   ISSN = {2096-5303
+2516-1571},
+   DOI = {https://dx.doi.org/10.1093/pcmedi/pbaa016},
+   url = {https://academic.oup.com/pcm
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=632820443
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7376265/pdf/pbaa016.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4037,
+   author = {Warde, P. R. and Patel, S. and Ferreira, T. and Gershengorn, H. and Bhatia, M. C. and Parekh, D. and Manni, K. and Shukla, B.},
+   title = {Linking prediction models to government ordinances to support hospital operations during the COVID-19 pandemic},
+   journal = {BMJ health & care informatics},
+   volume = {28},
+   number = {1},
+   abstract = {OBJECTIVES: We describe a hospital's implementation of predictive models to optimise emergency response to the COVID-19 pandemic. METHOD(S): We were tasked to construct and evaluate COVID-19 driven predictive models to identify possible planning and resource utilisation scenarios. We used system dynamics to derive a series of chain susceptible, infected and recovered (SIR) models. We then built a discrete event simulation using the system dynamics output and bootstrapped electronic medical record data to approximate the weekly effect of tuning surgical volume on hospital census. We evaluated performance via a model fit assessment and cross-model comparison. RESULT(S): We outlined the design and implementation of predictive models to support management decision making around areas impacted by COVID-19. The fit assessments indicated the models were most useful after 30 days from onset of local cases. We found our subreports were most accurate up to 7days after model run.DiscusssionOur model allowed us to shape our health system's executive policy response to implement a 'hospital within a hospital'-one for patients with COVID-19 within a hospital able to care for the regular non-COVID-19 population. The surgical scheduleis modified according to models that predict the number of new patients withCovid-19 who require admission. This enabled our hospital to coordinateresources to continue to support the community at large. Challenges includedthe need to frequently adjust or create new models to meet rapidly evolvingrequirements, communication, and adoption, and to coordinate the needs ofmultiple stakeholders. The model we created can be adapted to other health systems,provide a mechanism to predict local peaks in cases and inform hospitalleadership regarding bed allocation, surgical volumes, staffing, and suppliesone for COVID-19 patients within a hospital able to care for the regularnon-COVID-19 population. CONCLUSION(S): Predictive models are essential tools in supporting decision making when coordinating clinical operations during a pandemic.Copyright © Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.},
+   keywords = {forecasting
+health care planning
+hospital emergency service
+human
+*nonbiological model
+*organization and management
+*pandemic},
+   ISSN = {2632-1009 (electronic)
+2632-1009},
+   DOI = {https://dx.doi.org/10.1136/bmjhci-2020-100248},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=635019229
+https://informatics.bmj.com/content/bmjhci/28/1/e100248.full.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+

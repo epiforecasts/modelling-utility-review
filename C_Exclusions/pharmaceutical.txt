@@ -1,0 +1,161 @@
+﻿@article{RN8203,
+   author = {Sadria, M. and Layton, A. T.},
+   title = {Use of angiotensin-Converting enzyme inhibitors and angiotensin II receptor blockers during the COVID-19 pandemic: A modeling analysis},
+   journal = {PLoS Computational Biology},
+   volume = {16},
+   number = {10},
+   pages = {e1008235},
+   abstract = {Angiotensin-converting enzyme inhibitors (ACEi) and angiotensin II receptor blockers (ARB) are frequently prescribed for a range of diseases including hypertension, proteinuric chronic kidney disease, and heart failure. There is evidence indicating that these drugs upregulate ACE2, a key component of the renin-angiotensin system (RAS) and is found on the cells of a number of tissues, including the epithelial cells in the lungs. While ACE2 has a beneficial role in many diseases such as hypertension, diabetes, and cardiovascular disease, it also serves as a receptor for both SARS-CoV and SARS-CoV-2 via binding with the spike protein of the virus, thereby allowing it entry into host cells. Thus, it has been suggested that these therapies can theoretically increase the risk of SARS- CoV-2 infection and cause more severe COVID-19. Given the success of ACEi and ARBs in cardiovascular diseases, we seek to gain insights into the implications of these medications in the pathogenesis of COVID-19. To that end, we have developed a mathematical model that represents the RAS, binding of ACE2 with SARS-CoV-2 and the subsequent cell entry, and the host's acute inflammatory response. The model can simulate different levels of SARS-CoV-2 exposure, and represent the effect of commonly prescribed anti-hypertensive medications, ACEi and ARB, and predict tissue damage. Model simulations indicate that whether the extent of tissue damage may be exacerbated by ACEi or ARB treatment depends on a number of factors, including the level of existing inflammation, dosage, and the effect of the drugs on ACE2 protein abundance. The findings of this study can serve as the first step in the development of appropriate and more comprehensive guidelines for the prescription of ACEi and ARB in the current and future coronavirus pandemics.Copyright © 2020 Sadria, Layton. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+controlled study
+*coronavirus disease 2019/et [Etiology]
+disease exacerbation
+disease severity
+drug effect
+*drug use
+enzyme binding
+human
+hypertension/dt [Drug Therapy]
+immune response
+inflammation
+*mathematical model
+nonhuman
+*pandemic
+pathogenesis
+prescription
+renin angiotensin aldosterone system
+Severe acute respiratory syndrome coronavirus 2
+simulation
+tissue injury
+virus entry
+angiotensin converting enzyme 2/ec [Endogenous Compound]
+*angiotensin receptor antagonist/dt [Drug Therapy]
+*dipeptidyl carboxypeptidase inhibitor/dt [Drug Therapy]},
+   ISSN = {1553-734X
+1553-7358},
+   DOI = {https://dx.doi.org/10.1371/journal.pcbi.1008235},
+   url = {https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1008235&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2008387674},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN8204,
+   author = {Stella, G. M. and Davide, P. and Albicini, F. and Gini, E. and Grosso, A. and Corsico, A. G.},
+   title = {Data partitioning from the two waves of COVID-19 pandemic: is the landscape really evolving? A single institution experience},
+   journal = {European Respiratory Journal},
+   volume = {58},
+   number = {SUPPL 65},
+   abstract = {Novel coronavirus related disease (COVID-19) has profoundly influenced hospital organization and structures worldwide. The second wave of the COVID-19 pandemic is now in its decreasing phase in Italy. We here aim at analysing by partitioning data mining approach the cohorts of patients that came to our observation during the two COVID-19 waves. Overall we analysed exhaustive data from 303 subjects (198 males, 105 females) with an average age at diagnosis of 74 years (Fig.1-A). Most patients were never or past smokers, only 18 active smokers. The two cohorts are extremely heterogenous in terms of therapeutic approaches: hydroxychloroquine has been now abandoned and the use of convalescent plasma and remdesivir has been regulated by dedicated trials and guidelines developed through the whole study interval. The entire dataset was processed according to partitioning method and clustering analysis by using JMP software tool. Overall, no significant differences emerged between the two pandemic waves and the most relevant parameters associated to patient outcomes are age and mild lymphopenia in females and lower LDH levels and age in males (Fig.1-B). These parameters combined with also RCP are the most powerful disease predictors (Fig.1-C). Overall these data point out that same predictive models are associated to both the two pandemic waves and confirm that disease features have not been changed, irrespective of different management strategies.},
+   keywords = {aged
+cohort analysis
+conference abstract
+controlled study
+*coronavirus disease 2019
+current smoker
+data mining
+ex-smoker
+female
+human
+lymphocytopenia
+major clinical study
+male
+*pandemic
+practice guideline
+predictive model
+software
+convalescent plasma
+hydroxychloroquine
+remdesivir},
+   ISSN = {1399-3003},
+   DOI = {https://dx.doi.org/10.1183/13993003.congress-2021.PA916},
+   url = {https://erj.ersjournals.com/content/58/suppl_65/PA916
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=638194617},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN8205,
+   author = {Tzou, Philip L. and Tao, Kaiming and Nouhin, Janin and Rhee, Soo-Yon and Hu, Benjamin D. and Pai, Shruti and Parkin, Neil and Shafer, Robert W.},
+   title = {Coronavirus Antiviral Research Database (CoV-RDB): An Online Database Designed to Facilitate Comparisons between Candidate Anti-Coronavirus Compounds},
+   journal = {Viruses},
+   volume = {12},
+   number = {9},
+   abstract = {BACKGROUND: To prioritize the development of antiviral compounds, it is necessary to compare their relative preclinical activity and clinical efficacy., METHODS: We reviewed in vitro, animal model, and clinical studies of candidate anti-coronavirus compounds and placed extracted data in an online relational database., RESULTS: As of August 2020, the Coronavirus Antiviral Research Database (CoV-RDB; covdb.stanford.edu) contained over 2800 cell culture, entry assay, and biochemical experiments, 259 animal model studies, and 73 clinical studies from over 400 published papers. SARS-CoV-2, SARS-CoV, and MERS-CoV account for 85% of the data. Approximately 75% of experiments involved compounds with known or likely mechanisms of action, including monoclonal antibodies and receptor binding inhibitors (21%), viral protease inhibitors (17%), miscellaneous host-acting inhibitors (10%), polymerase inhibitors (9%), interferons (7%), fusion inhibitors (5%), and host protease inhibitors (5%). Of 975 compounds with known or likely mechanism, 135 (14%) are licensed in the U.S. for other indications, 197 (20%) are licensed outside the U.S. or are in human trials, and 595 (61%) are pre-clinical investigational compounds., CONCLUSION: CoV-RDB facilitates comparisons between different candidate antiviral compounds, thereby helping scientists, clinical investigators, public health officials, and funding agencies prioritize the most promising compounds and repurposed drugs for further development.},
+   keywords = {Animals
+*Antiviral Agents/pd [Pharmacology]
+Antiviral Agents/tu [Therapeutic Use]
+*Betacoronavirus/de [Drug Effects]
+COVID-19
+Cells, Cultured
+Clinical Trials as Topic
+Coronavirus/de [Drug Effects]
+*Coronavirus Infections/dt [Drug Therapy]
+*Databases, Factual
+Drug Evaluation, Preclinical
+Humans
+Mammals
+Models, Animal
+Pandemics
+*Pneumonia, Viral/dt [Drug Therapy]
+Registries
+SARS-CoV-2
+Species Specificity
+User-Computer Interface
+COVID-19 Drug Treatment},
+   ISSN = {1999-4915},
+   DOI = {https://dx.doi.org/10.3390/v12091006},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32916958},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN8206,
+   author = {Xiong, Y. and Fan, J. and Kitabi, E. and Zhang, X. and Bi, Y. and Grimstein, M. and Yang, Y. and Earp, J. C. and Zheng, N. and Liu, J. and Wang, Y. and Zhu, H.},
+   title = {Model-Informed Drug Development Approaches to Assist New Drug Development in the COVID-19 Pandemic},
+   journal = {Clinical Pharmacology and Therapeutics},
+   volume = {111},
+   number = {3},
+   pages = {572-578},
+   abstract = {Leveraging limited clinical and nonclinical data through modeling approaches facilitates new drug development and regulatory decision making amid the coronavirus disease 2019 (COVID-19) pandemic. Model-informed drug development (MIDD) is an essential tool to integrate those data and generate evidence to (i) provide support for effectiveness in repurposed or new compounds to combat COVID-19 and dose selection when clinical data are lacking; (ii) assess efficacy under practical situations such as dose reduction to overcome supply issues or emergence of resistant variant strains; (iii) demonstrate applicability of MIDD for full extrapolation to adolescents and sometimes to young pediatric patients; and (iv) evaluate the appropriateness for prolonging a dosing interval to reduce the frequency of hospital visits during the pandemic. Ongoing research activities of MIDD reflect our continuous effort and commitment in bridging knowledge gaps that leads to the availability of effective treatments through innovation. Case examples are presented to illustrate how MIDD has been used in various stages of drug development and has the potential to inform regulatory decision making.Copyright Published 2021. This article is a U.S. Government work and is in the public domain in the USA.},
+   keywords = {antiviral activity
+*clinical outcome
+*clinical pharmacology
+clinical study
+clinical trial (topic)
+*coronavirus disease 2019/dt [Drug Therapy]
+decision making
+EC50
+Food and Drug Administration
+human
+*immune response
+in vitro study
+long term care
+lupus erythematosus/dt [Drug Therapy]
+Macaca
+malaria/dt [Drug Therapy]
+peripheral blood mononuclear cell
+prothrombin time
+QT prolongation
+review
+rheumatoid arthritis/dt [Drug Therapy]
+RNA virus
+virus entry
+bamlanivimab/dt [Drug Therapy]
+baricitinib/dt [Drug Therapy]
+etesevimab/dt [Drug Therapy]
+*hydroxychloroquine sulfate/dv [Drug Development]
+*hydroxychloroquine sulfate/dt [Drug Therapy]
+*hydroxychloroquine sulfate/pk [Pharmacokinetics]
+neutralizing antibody
+pembrolizumab/dt [Drug Therapy]
+remdesivir/dt [Drug Therapy]},
+   ISSN = {0009-9236
+1532-6535},
+   DOI = {https://dx.doi.org/10.1002/cpt.2491},
+   url = {http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-6535
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2014387427},
+   year = {2022},
+   type = {Journal Article}
+}
+

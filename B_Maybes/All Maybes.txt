@@ -1,0 +1,669 @@
+﻿@article{RN4040,
+   author = {Ackland, G. J. and Panovska-Griffiths, J. and Waites, W. and Cates, M. E.},
+   title = {The Royal Society RAMP modelling initiative},
+   journal = {Philosophical transactions. Series A, Mathematical, physical, and engineering sciences},
+   volume = {380},
+   number = {2233},
+   pages = {20210316},
+   abstract = {Normally, science proceeds following a well-established set of principles. Studies are done with an emphasis on correctness, are submitted to a journal editor who evaluates their relevance, and then undergo anonymous peer review by experts before publication in a journal and acceptance by the scientific community via the open literature. This process is slow, but its accuracy has served all fields of science well. In an emergency situation, different priorities come to the fore. Research and review need to be conducted quickly, and the target audience consists of policymakers. Scientists must jostle for the attention of non-specialists without sacrificing rigour, and must deal not only with peer assessment but also with media scrutiny by journalists who may have agendas other than ensuring scientific correctness. Here, we describe how the Royal Society coordinated efforts of diverse scientists to help model the coronavirus epidemic. This article is part of the theme issue 'Technical challenges of modelling real-life epidemics and examples of overcoming these'.},
+   keywords = {article
+attention
+*coronavirus disease 2019
+*epidemic
+human
+journalism
+rigor},
+   ISSN = {1471-2962 (electronic)
+1471-2962},
+   DOI = {https://dx.doi.org/10.1098/rsta.2021.0316},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=638746285
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9376713/pdf/rsta.2021.0316.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4041,
+   author = {Edeling, Wouter and Arabnejad, Hamid and Sinclair, Robbie and Suleimenova, Diana and Gopalakrishnan, Krishnakumar and Bosak, Bartosz and Groen, Derek and Mahmood, Imran and Crommelin, Daan and Coveney, Peter V.},
+   title = {The impact of uncertainty on predictions of the CovidSim epidemiological code},
+   journal = {Nature computational science},
+   volume = {1},
+   number = {2},
+   pages = {128-135},
+   abstract = {Epidemiological modelling has assisted in identifying interventions that reduce the impact of COVID-19. The UK government relied, in part, on the CovidSim model to guide its policy to contain the rapid spread of the COVID-19 pandemic during March and April 2020; however, CovidSim contains several sources of uncertainty that affect the quality of its predictions: parametric uncertainty, model structure uncertainty and scenario uncertainty. Here we report on parametric sensitivity analysis and uncertainty quantification of the code. From the 940 parameters used as input into CovidSim, we find a subset of 19 to which the code output is most sensitive-imperfect knowledge of these inputs is magnified in the outputs by up to 300%. The model displays substantial bias with respect to observed data, failing to describe validation data well. Quantifying parametric input uncertainty is therefore not sufficient: the effect of model structure and scenario uncertainty must also be properly understood. Copyright © 2021. The Author(s), under exclusive licence to Springer Nature America, Inc. part of Springer Nature.},
+   ISSN = {2662-8457},
+   DOI = {https://dx.doi.org/10.1038/s43588-021-00028-9},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=38217226
+https://www.nature.com/articles/s43588-021-00028-9.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4038,
+   author = {Ershadi, Mohammad Mahdi and Rise, Zeinab Rahimi},
+   title = {Uncertain SEIAR system dynamics modeling for improved community health management of respiratory virus diseases: A COVID-19 case study},
+   journal = {Heliyon},
+   volume = {10},
+   number = {3},
+   pages = {e24711},
+   abstract = {The study investigates the significance of employing advanced systemic models in community health management, with a focus on COVID-19 as a respiratory virus. Through the development of a system dynamics model integrating an uncertain SEIAR model, our research addresses the critical issue of parameter uncertainty using Ensemble Kalman Filter (EnKF) and Metropolis-Hastings (MH) algorithms. We present a case study using real COVID-19 outbreaks in Iran, offering insights into effective outbreak control scenarios and considering the global impact of respiratory viruses. The research yields distinctive results, showcasing variable mortality rates (40,500 to 436,500) across scenarios in Iran. Model accuracy is rigorously evaluated using the Normalized Root-Mean-Square Deviation (NRMSD) for new cases, deaths, and recoveries (0.2 %, 1.2 %, and 0.6 % respectively). The outcomes not only contribute to the existing body of knowledge but also offer practical implications for healthcare policies, economic considerations, and sensitivity assessments related to respiratory diseases. This study stands out from others in its approach to modeling and addressing uncertainty within a system dynamics framework. The integration of EnKF and MH algorithms provides a nuanced understanding of parameter uncertainty, adding a layer of sophistication to the analysis. The application of the model to real-world COVID-19 outbreaks in Iran further enhances the study's relevance and applicability. In conclusion, the research introduces an uncertain SEIAR system dynamics model with unique contributions to policymaking, economic considerations, and sensitivity assessments for respiratory diseases. The outcomes and insights derived from the study not only advance our understanding of disease dynamics but also provide actionable information for effective public health management. Copyright © 2024 The Authors.},
+   ISSN = {2405-8440},
+   DOI = {https://dx.doi.org/10.1016/j.heliyon.2024.e24711},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=38317963
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10839611/pdf/main.pdf},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN4042,
+   author = {Gog, J. R. and Hollingsworth, T. D.},
+   title = {Epidemic interventions: insights from classic results},
+   journal = {Philosophical transactions of the Royal Society of London. Series B, Biological sciences},
+   volume = {376},
+   number = {1829},
+   pages = {20200263},
+   abstract = {Analytical expressions and approximations from simple models have performed a pivotal role in our understanding of infectious disease epidemiology. During the current COVID-19 pandemic, while there has been proliferation of increasingly complex models, still the most basic models have provided the core framework for our thinking and interpreting policy decisions. Here, classic results are presented that give insights into both the role of transmission-reducing interventions (such as social distancing) in controlling an emerging epidemic, and also what would happen if insufficient control is applied. Though these are simple results from the most basic of epidemic models, they give valuable benchmarks for comparison with the outputs of more complex modelling approaches. This article is part of the theme issue 'Modelling that shaped the early COVID-19 pandemic response in the UK'.},
+   keywords = {*epidemiology
+human
+*pandemic
+pathogenicity
+*theoretical model
+travel
+United Kingdom
+virology},
+   ISSN = {1471-2970 (electronic)
+1471-2970},
+   DOI = {https://dx.doi.org/10.1098/rstb.2020.0263},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=635206457
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8165583/pdf/rstb.2020.0263.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4044,
+   author = {Huang, Q. S. and Turner, N. and Wood, T. and Anglemyer, A. and McIntyre, P. and Aminisani, N. and Dowell, T. and Trenholme, A. and Byrnes, C. and Balm, M. and McIntosh, C. and Jefferies, S. and Grant, C. C. and Nesdale, A. and Dobinson, H. C. and Campbell-Stokes, P. and Daniells, K. and Geoghegan, J. and de Ligt, J. and Jelley, L. and Seeds, R. and Jennings, T. and Rensburg, M. and Cueto, J. and Caballero, E. and John, J. and Penghulan, E. and Tan, C. E. and Ren, X. and Berquist, K. and O'Neill, M. and Marull, M. and Yu, C. and McNeill, A. and Kiedrzynski, T. and Roberts, S. and McArthur, C. and Stanley, A. and Taylor, S. and Wong, C. and Lawrence, S. and Baker, M. G. and Kvalsvig, A. and Van Der Werff, K. and McAuliffe, G. and Antoszewska, H. and Dilcher, M. and Fahey, J. and Werno, A. and Elvy, J. and Grant, J. and Addidle, M. and Zacchi, N. and Mansell, C. and Widdowson, M. A. and Thomas, P. G. and Webby, R. J.},
+   title = {Impact of the COVID-19 related border restrictions on influenza and other common respiratory viral infections in New Zealand},
+   journal = {Influenza and other Respiratory Viruses},
+   volume = {18},
+   number = {2},
+   pages = {e13247},
+   abstract = {Background: New Zealand's (NZ) complete absence of community transmission of influenza and respiratory syncytial virus (RSV) after May 2020, likely due to COVID-19 elimination measures, provided a rare opportunity to assess the impact of border restrictions on common respiratory viral infections over the ensuing 2 years. Method(s): We collected the data from multiple surveillance systems, including hospital-based severe acute respiratory infection surveillance, SHIVERS-II, -III and -IV community cohorts for acute respiratory infection (ARI) surveillance, HealthStat sentinel general practice (GP) based influenza-like illness surveillance and SHIVERS-V sentinel GP-based ARI surveillance, SHIVERS-V traveller ARI surveillance and laboratory-based surveillance. We described the data on influenza, RSV and other respiratory viral infections in NZ before, during and after various stages of the COVID related border restrictions. Result(s): We observed that border closure to most people, and mandatory government-managed isolation and quarantine on arrival for those allowed to enter, appeared to be effective in keeping influenza and RSV infections out of the NZ community. Border restrictions did not affect community transmission of other respiratory viruses such as rhinovirus and parainfluenza virus type-1. Partial border relaxations through quarantine-free travel with Australia and other countries were quickly followed by importation of RSV in 2021 and influenza in 2022. Conclusion(s): Our findings inform future pandemic preparedness and strategies to model and manage the impact of influenza and other respiratory viral threats.Copyright © 2024 The Authors. Influenza and Other Respiratory Viruses published by John Wiley & Sons Ltd.},
+   keywords = {adult
+article
+Australia
+cohort analysis
+community transmission
+*coronavirus disease 2019
+disease surveillance
+general practice
+hospital based case control study
+human
+Human parainfluenza virus 1
+*influenza
+information processing
+isolation
+laboratory based surveillance
+New Zealand
+nonhuman
+pandemic preparedness
+public health
+quarantine
+Rhinovirus
+*viral respiratory tract infection},
+   ISSN = {1750-2640
+1750-2659},
+   DOI = {https://dx.doi.org/10.1111/irv.13247},
+   url = {http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-2659
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2028527966},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN4043,
+   author = {Khan, A. and Almuzaini, Y. and Aburas, A. and Alharbi, N. K. and Alghnam, S. and Al-Tawfiq, J. A. and Alahmari, A. and Alsofayan, Y. M. and Alamri, F. and Garout, M. A. and Assiri, A. M. and Jokhdar, H. A.},
+   title = {A combined model for COVID-19 pandemic control: The application of Haddon's matrix and community risk reduction tools combined},
+   journal = {Journal of Infection and Public Health},
+   volume = {15},
+   number = {2},
+   pages = {261-269},
+   abstract = {Introduction: To mitigate morbidity, mortality, and impacts of COVID-19 on health, it was essential to implement a comprehensive framework for COVID-19 control and prevention. A well-recognized tool from the field of injury prevention known as the Haddon matrix was utilized. The matrix states that any accident is affected by the host, agent, and environment. Another well-recognized tool used by the national fire protection association known as the Community risk reduction tool (CRR). The (CRR) tool utilizes the Five E's of Community Risk Reduction. Aim of the study: To describe the risk factors that increase the susceptibility and the severity of COVID-19 infection based on the Haddon matrix and the proposed prevention strategies by the CRR tool by using the combined model. Methodology: We reviewed the literature to assess known factors contributing to COVID-19 susceptibility, infection, and severity of infection. We then used the Haddon matrix to structure, separating human factors from technical and environmental details and timing. We then used the community risk reduction (CRR) model to set all responses and control measures for each element obtained from the Haddon matrix tool. Subsequently, we incorporated both tools to develop the combined model. Conclusion(s): we proposed and implemented a combined model that utilizes the CRR model as the systematic strategy for the more theoretical framework of Haddon's matrix. Combining both models was practical and helpful in planning the preparedness and control of the COVID-19 pandemic in Saudi Arabia that can be generalized to national and international levels.Copyright © 2022 The Author(s)},
+   keywords = {conceptual framework
+*coronavirus disease 2019/pc [Prevention]
+disease severity
+human
+*infection control
+infection prevention
+infection sensitivity
+model
+*pandemic
+review
+risk factor
+*risk reduction
+Saudi Arabia},
+   ISSN = {1876-0341
+1876-035X},
+   DOI = {https://dx.doi.org/10.1016/j.jiph.2022.01.006},
+   url = {http://www.elsevier.com/wps/find/journaldescription.cws_home/716388/descriptio
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2016529516
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8759149/pdf/main.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4039,
+   author = {Li, L. and Yang, Z. and Dang, Z. and Meng, C. and Huang, J. and Meng, H. and Wang, D. and Chen, G. and Zhang, J. and Peng, H. and Shao, Y.},
+   title = {Propagation analysis and prediction of the COVID-19},
+   journal = {Infectious Disease Modelling},
+   volume = {5},
+   pages = {282-292},
+   abstract = {Based on the official data modeling, this paper studies the transmission process of the Corona Virus Disease 2019 (COVID-19). The error between the model and the official data curve is quite small. At the same time, it realized forward prediction and backward inference of the epidemic situation, and the relevant analysis help relevant countries to make decisions.Copyright © 2020 The Authors},
+   keywords = {article
+basic reproduction number
+China
+death
+disease surveillance
+disease transmission
+epidemic
+geographic distribution
+human
+incidence
+morbidity
+mortality rate
+nonhuman
+*prediction
+seasonal variation
+Severe acute respiratory syndrome coronavirus 2
+simulation
+virus infection
+virus transmission
+*2019 novel coronavirus
+*coronavirus disease 2019},
+   ISSN = {2468-0427},
+   DOI = {https://dx.doi.org/10.1016/j.idm.2020.03.002},
+   url = {http://www.keaipublishing.com/en/journals/infectious-disease-modelling/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2005434297
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118312/pdf/main.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4049,
+   author = {Locey, K. J. and Webb, T. A. and Khan, J. and Antony, A. K. and Hota, B.},
+   title = {An interactive tool to forecast US hospital needs in the coronavirus 2019 pandemic},
+   journal = {JAMIA Open},
+   volume = {3},
+   number = {4},
+   pages = {506-512},
+   abstract = {Objective: We developed an application (https://rush-covid19.herokuapp.com/) to aid US hospitals in planning their response to the ongoing Coronavirus Disease 2019 (COVID-19) pandemic. Material(s) and Method(s): Our application forecasts hospital visits, admits, discharges, and needs for hospital beds, ventilators, and personal protective equipment by coupling COVID-19 predictions to models of time lags, patient carry-over, and length-of-stay. Users can choose from 7 COVID-19 models, customize 23 parameters, examine trends in testing and hospitalization, and download forecast data. Result(s): Our application accurately predicts the spread of COVID-19 across states and territories. Its hospital-level forecasts are in continuous use by our home institution and others. Discussion(s): Our application is versatile, easy-to-use, and can help hospitals plan their response to the changing dynamics of COVID-19, while providing a platform for deeper study. Conclusion(s): Empowering healthcare responses to COVID-19 is as crucial as understanding the epidemiology of the disease. Our application will continue to evolve to meet this need.Copyright © 2020 The Author(s) 2020. Published by Oxford University Press on behalf of the American Medical Informatics Association.},
+   keywords = {article
+basic reproduction number
+*coronavirus disease 2019
+*forecasting
+*health care need
+hospital
+hospital discharge
+*hospital purchasing
+hospitalization
+human
+intensive care unit
+length of stay
+mathematical analysis
+mortality
+*pandemic
+susceptible exposed infectious recovered model
+hospital bed
+protective equipment
+ventilator},
+   ISSN = {2574-2531 (electronic)
+2574-2531},
+   DOI = {https://dx.doi.org/10.1093/jamiaopen/ooaa045},
+   url = {https://academic.oup.com/jamiaopen
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=2017324784
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543612/pdf/ooaa045.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4050,
+   author = {Loo, S. L. and Howerton, E. and Contamin, L. and Smith, C. P. and Borchering, R. K. and Mullany, L. C. and Bents, S. and Carcelen, E. and Jung, S. M. and Bogich, T. and van Panhuis, W. G. and Kerr, J. and Espino, J. and Yan, K. and Hochheiser, H. and Runge, M. C. and Shea, K. and Lessler, J. and Viboud, C. and Truelove, S.},
+   title = {The US COVID-19 and Influenza Scenario Modeling Hubs: Delivering long-term projections to guide policy},
+   journal = {Epidemics},
+   volume = {46},
+   pages = {100738},
+   abstract = {Between December 2020 and April 2023, the COVID-19 Scenario Modeling Hub (SMH) generated operational multi-month projections of COVID-19 burden in the US to guide pandemic planning and decision-making in the context of high uncertainty. This effort was born out of an attempt to coordinate, synthesize and effectively use the unprecedented amount of predictive modeling that emerged throughout the COVID-19 pandemic. Here we describe the history of this massive collective research effort, the process of convening and maintaining an open modeling hub active over multiple years, and attempt to provide a blueprint for future efforts. We detail the process of generating 17 rounds of scenarios and projections at different stages of the COVID-19 pandemic, and disseminating results to the public health community and lay public. We also highlight how SMH was expanded to generate influenza projections during the 2022-23 season. We identify key impacts of SMH results on public health and draw lessons to improve future collaborative modeling efforts, research on scenario projections, and the interface between models and policy.Copyright © 2024},
+   keywords = {article
+*coronavirus disease 2019
+health care planning
+*health care policy
+human
+*influenza
+medical research
+pandemic
+predictive model
+*public health
+United States
+vaccination},
+   ISSN = {1755-4365
+1878-0067},
+   DOI = {https://dx.doi.org/10.1016/j.epidem.2023.100738},
+   url = {https://www.sciencedirect.com/science/journal/17554365
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2029572946},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN4051,
+   author = {Mac, S. and Mishra, S. and Ximenes, R. and Barrett, K. and Khan, Y. A. and Naimark, D. M. J. and Sander, B.},
+   title = {Modeling the coronavirus disease 2019 pandemic: A comprehensive guide of infectious disease and decision-analytic models},
+   journal = {Journal of Clinical Epidemiology},
+   volume = {132},
+   pages = {133-141},
+   keywords = {article
+compartment model
+*coronavirus disease 2019
+*decision making
+demography
+discrete event simulation
+disease exacerbation
+disease transmission
+epidemic
+evidence based medicine
+health care system
+human
+*infection
+infection risk
+*model
+*pandemic
+phenomenology
+population research
+priority journal
+secondary infection
+Severe acute respiratory syndrome coronavirus 2
+simulation
+taxonomy
+virus transmission},
+   ISSN = {0895-4356
+1878-5921},
+   DOI = {https://dx.doi.org/10.1016/j.jclinepi.2020.12.002},
+   url = {https://www.elsevier.com/locate/jclinepi
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2010554826
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7837043/pdf/main.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4052,
+   author = {Mbachu, Chinyere and Agwu, Prince and Obi, Felix and Onwujekwe, Obinna},
+   title = {Understanding and Bridging Gaps in the Use of Evidence from Modeling for Evidence-Based Policy Making in Nigeria's Health System},
+   journal = {MDM policy & practice},
+   volume = {9},
+   number = {1},
+   pages = {23814683231225658},
+   abstract = {Background. Modeled evidence is a proven useful tool for decision makers in making evidence-based policies and plans that will ensure the best possible health system outcomes. Thus, we sought to understand constraints to the use of models in making decisions in Nigeria's health system and how such constraints can be addressed. Method. We adopted a mixed-methods study for the research and relied on the evidence to policy and Knowledge-to-Action (KTA) frameworks to guide the conceptualization of the study. An online survey was administered to 34 key individuals in health organizations that recognize modeling, which was followed by in-depth interviews with 24 of the 34 key informants. Analysis was done using descriptive analytic methods and thematic arrangements of narratives. Results. Overall, the data revealed poor use of modeled evidence in decision making within the health sector, despite reporting that modeled evidence and modelers are available in Nigeria. However, the disease control agency in Nigeria was reported to be an exception. The complexity of models was a top concern. Thus, suggestions were made to improve communication of models in ways that are easily comprehensible and to improve overall research culture within Nigeria's health sector. Conclusion. Modeled evidence plays a crucial role in evidence-based health decisions. Therefore, it is imperative to strengthen and sustain in-country capacity to value, produce, interpret, and use modeled evidence for decision making in health. To overcome limitations in the usage of modeled evidence, decision makers, modelers/researchers, and knowledge brokers should forge viable relationships that regard and promote evidence translation., Highlights: Despite the use of modeling by Nigeria's disease control agency in containing the COVID-19 pandemic, modeling remains poorly used in the country's overall health sector.Although policy makers recognize the importance of evidence in making decisions, there are still pertinent concerns about the poor research culture of policy-making institutions and communication gaps that exist between researchers/modelers and policy makers.Nigeria's health system can be strengthened by improving the value and usage of scientific evidence generation through conscious efforts to institutionalize research culture in the health sector and bridge gaps between researchers/modelers and decision makers. Copyright © The Author(s) 2024.},
+   ISSN = {2381-4683},
+   DOI = {https://dx.doi.org/10.1177/23814683231225658},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=38250666
+https://journals.sagepub.com/doi/10.1177/23814683231225658},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN4053,
+   author = {Meares, Hamish Dd and Jones, Michael P.},
+   title = {When a system breaks: queueing theory model of intensive care bed needs during the COVID-19 pandemic},
+   journal = {The Medical journal of Australia},
+   volume = {212},
+   number = {10},
+   pages = {470-471},
+   keywords = {Australia/ep [Epidemiology]
+Betacoronavirus
+COVID-19
+*Coronavirus Infections/ep [Epidemiology]
+Coronavirus Infections/th [Therapy]
+Coronavirus Infections/vi [Virology]
+*Critical Care/og [Organization & Administration]
+*Health Services Needs and Demand/og [Organization & Administration]
+Hospital Bed Capacity
+Humans
+*Models, Theoretical
+Pandemics
+*Pneumonia, Viral/ep [Epidemiology]
+Pneumonia, Viral/th [Therapy]
+Pneumonia, Viral/vi [Virology]
+SARS-CoV-2
+*Systems Analysis},
+   ISSN = {1326-5377
+0025-729X},
+   DOI = {https://dx.doi.org/10.5694/mja2.50605},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32379951
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7267520/pdf/MJA2-212-470.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4054,
+   author = {Orchard, F. and Clain, C. and Madie, W. and Hayes, J. S. and Connolly, M. A. and Sevin, E. and Sentis, A.},
+   title = {PANDEM-Source, a tool to collect or generate surveillance indicators for pandemic management: a use case with COVID-19 data},
+   journal = {Frontiers in public health},
+   volume = {12},
+   pages = {1295117},
+   abstract = {Introduction: PANDEM-Source (PS) is a tool to collect and integrate openly available public health-related data from heterogeneous data sources to support the surveillance of infectious diseases for pandemic management. The tool may also be used for pandemic preparedness by generating surveillance data for training purposes. It was developed as part of the EU-funded Horizon 2020 PANDEM-2 project during the COVID-19 pandemic as a result of close collaboration in a consortium of 19 partners, including six European public health agencies, one hospital, and three first responder organizations. This manuscript describes PS's features and design to disseminate its characteristics and capabilities to strengthen pandemic preparedness and response. Method(s): A requirement-gathering process with EU pandemic managers in the consortium was performed to identify and prioritize a list of variables and indicators useful for surveillance and pandemic management. Using the COVID-19 pandemic as a use case, we developed PS with the purpose of feeding all necessary data to be displayed in the PANDEM-2 dashboard. Result(s): PS routinely monitors, collects, and standardizes data from open or restricted heterogeneous data sources (users can upload their own data). It supports indicators and health resources related data from traditional data sources reported by national and international agencies, and indicators from non-traditional data sources such as those captured in social and mass media, participatory surveillance, and seroprevalence studies. The tool can also calculate indicators and be used to produce data for training purposes by generating synthetic data from a minimal set of indicators to simulate pandemic scenarios. PS is currently set up for COVID-19 surveillance at the European level but can be adapted to other diseases or threats and regions. Conclusion(s): With the lessons learnt during the COVID-19 pandemic, it is important to keep building capacity to monitor potential threats and develop tools that can facilitate training in all the necessary aspects to manage future pandemics. PS is open source and its design provides flexibility to collect heterogeneous data from open data sources or to upload end users's own data and customize surveillance indicators. PS is easily adaptable to future threats or different training scenarios. All these features make PS a unique and valuable tool for pandemic management.Copyright © 2024 Orchard, Clain, Madie, Hayes, Connolly, Sevin and Sentis.},
+   keywords = {*coronavirus disease 2019/ep [Epidemiology]
+human
+pandemic
+public health
+seroepidemiology},
+   ISSN = {2296-2565 (electronic)
+2296-2565},
+   DOI = {https://dx.doi.org/10.3389/fpubh.2024.1295117},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=643945075
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10989069/pdf/fpubh-12-1295117.pdf},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN4055,
+   author = {Pellis, L. and Scarabel, F. and Stage, H. B. and Overton, C. E. and Chappell, L. H. K. and Fearon, E. and Bennett, E. and Lythgoe, K. A. and House, T. A. and Hall, I.},
+   title = {Challenges in control of COVID-19: short doubling time and long delay to effect of interventions},
+   journal = {Philosophical transactions of the Royal Society of London. Series B, Biological sciences},
+   volume = {376},
+   number = {1829},
+   pages = {20200264},
+   abstract = {Early assessments of the growth rate of COVID-19 were subject to significant uncertainty, as expected with limited data and difficulties in case ascertainment, but as cases were recorded in multiple countries, more robust inferences could be made. Using multiple countries, data streams and methods, we estimated that, when unconstrained, European COVID-19 confirmed cases doubled on average every 3 days (range 2.2-4.3 days) and Italian hospital and intensive care unit admissions every 2-3 days; values that are significantly lower than the 5-7 days dominating the early published literature. Furthermore, we showed that the impact of physical distancing interventions was typically not seen until at least 9 days after implementation, during which time confirmed cases could grow eightfold. We argue that such temporal patterns are more critical than precise estimates of the time-insensitive basic reproduction number R0 for initiating interventions, and that the combination of fast growth and long detection delays explains the struggle in countries' outbreak response better than large values of R0 alone. One year on from first reporting these results, reproduction numbers continue to dominate the media and public discourse, but robust estimates of unconstrained growth remain essential for planning worst-case scenarios, and detection delays are still key in informing the relaxation and re-implementation of interventions. This article is part of the theme issue 'Modelling that shaped the early COVID-19 pandemic response in the UK'.},
+   keywords = {*epidemiology
+human
+Italy
+*pandemic
+*theoretical model
+virology},
+   ISSN = {1471-2970 (electronic)
+1471-2970},
+   DOI = {https://dx.doi.org/10.1098/rstb.2020.0264},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=635204037
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8165602/pdf/rstb.2020.0264.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN4056,
+   author = {Rhodes, T. and Lancaster, K.},
+   title = {Making pandemics big: On the situational performance of Covid-19 mathematical models},
+   journal = {Social Science and Medicine},
+   volume = {301},
+   pages = {114907},
+   abstract = {In this paper, we trace how mathematical models are made 'evidence enough' and 'useful for policy'. Working with the interview accounts of mathematical modellers and other scientists engaged in the UK Covid-19 response, we focus on two weeks in March 2020 prior to the announcement of an unprecedented national lockdown. A key thread in our analysis is how pandemics are made 'big'. We follow the work of one particular device, that of modelled 'doubling-time'. By following how modelled doubling-time entangles in its assemblage of evidence-making, we draw attention to multiple actors, including beyond models and metrics, which affect how evidence is performed in relation to the scale of epidemic and its policy response. We draw attention to: policy; Government scientific advice infrastructure; time; uncertainty; and leaps of faith. The 'bigness' of the pandemic, and its evidencing, is situated in social and affective practices, in which uncertainty and dis-ease are inseparable from calculus. This materialises modelling in policy as an 'uncomfortable science'. We argue that situational fit in-the-moment is at least as important as empirical fit when attending to what models perform in policy.Copyright © 2022 The Authors},
+   keywords = {article
+atmosphere
+calculation
+case study
+consensus
+*coronavirus disease 2019
+decision making
+government
+health care policy
+human
+intervention study
+interview
+lockdown
+*mathematical model
+*patient care
+qualitative research
+social distancing
+time
+uncertainty
+United Kingdom
+doubling time},
+   ISSN = {0277-9536
+1873-5347},
+   DOI = {https://dx.doi.org/10.1016/j.socscimed.2022.114907},
+   url = {https://www.elsevier.com/locate/socscimed
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2017257157
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8917648/pdf/main.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4057,
+   author = {Rocheteau, E. and Deasy, J. and Kohler, K. and Stubbs, D. and Barbiero, P. and Lio, P. and Ercole, A.},
+   title = {Rapid Design and implementation of a data-driven forecast of iCU strain from COVID-19 for early surge planning in England},
+   journal = {Intensive Care Medicine Experimental},
+   volume = {8},
+   number = {SUPPL 2},
+   abstract = {Introduction: Creating ICU "surge capacity" was essential for the COVID-19 pandemic but takes time to implement and is costly and disruptive. A short-range forecast was needed in early March 2020 to guide costly and ethically challenging decisions in England and justify immediate service re-configuration from early epidemiological data. The design, construction, testing, implementation, documentation, dissemination and peer-review of a computer model is typically a lengthy process. Here we describe the use of agile techniques to develop a COVID-19 strain forecasting tool from ultra-early epidemiological data building a working tool within a week. Objective(s): To develop and implement a region-specific, short-range ICU demand forecast based on case data from the commissioning regions in England using agile software development techniques to build a public-facing tool as rapidly as possible. Method(s): We modelled the likely increases in regional ICU bed demand over a 14-day horizon under an exponential assumption. Daily COVID-19 cases were extrapolated from cumulative data using log-linear regression. Stochastic models for ICU admissions and length of stay linked expected case incidence to excess bed occupancy. Mortality and admission rates were regionally standardised. In parallel we developed a web application to publish updated predictions daily (Figure 1), with an explanatory manuscript on medRvix [1] and code on GitHub [2]. Result(s): We delivered an interactive web application along with explanatory notes and versioned code in 7 days. Community feedback allowed for a crowd-sourced review of manuscript and code. Users could explore the effect of changing various modelling assumptions interactively at a regional level. Over the preparatory time period, cumulative case data was well fitted by an exponential model. We predicted that ICU bed occupancy would grow very quickly with London and the Midlands predicted to be particularly hard-hit, motivating an immediate effort to create as much capacity as possible. Conclusion(s): Uncertainties in modelling early epidemiological data notwithstanding, we accurately predicted that surge capacity would be required from the end of March. We were able to leverage software development techniques to deliver a working application on a timescale which was still actionable in the preparatory phase for COVID-19 in England. Our approach demonstrates that data-driven approaches to emergency healthcare planning can be highly agile.},
+   keywords = {conference abstract
+controlled study
+*coronavirus disease 2019
+*England
+forecasting
+health care planning
+hospital bed utilization
+human
+incidence
+length of stay
+loglinear model
+mortality
+prediction
+sensitivity analysis
+software
+stochastic model
+surge capacity
+uncertainty},
+   ISSN = {2197-425X},
+   DOI = {https://dx.doi.org/10.1186/s40635-020-00354-8},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=634008790
+https://icm-experimental.springeropen.com/counter/pdf/10.1186/s40635-020-00354-8.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4058,
+   author = {Rossman, H. and Segal, E.},
+   title = {Nowcasting the spread of SARS-CoV-2},
+   journal = {Nature Microbiology},
+   volume = {7},
+   number = {1},
+   pages = {16-17},
+   keywords = {coronavirus disease 2019
+decision making
+epidemiological surveillance
+*forecasting
+human
+infection risk
+nonhuman
+note
+pandemic
+public policy
+randomization
+SARS-Cov-2 variant 501Y.V1
+*Severe acute respiratory syndrome coronavirus 2
+statistical analysis
+statistical model
+United Kingdom
+variant of concern
+*virus transmission},
+   ISSN = {2058-5276 (electronic)
+2058-5276},
+   DOI = {https://dx.doi.org/10.1038/s41564-021-01035-2},
+   url = {https://www.nature.com/nmicrobiol/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2014646916
+https://www.nature.com/articles/s41564-021-01035-2.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4059,
+   author = {Saltelli, Andrea and Bammer, Gabriele and Bruno, Isabelle and Charters, Erica and Di Fiore, Monica and Didier, Emmanuel and Nelson Espeland, Wendy and Kay, John and Lo Piano, Samuele and Mayo, Deborah and Pielke, Roger, Jr. and Portaluri, Tommaso and Porter, Theodore M. and Puy, Arnald and Rafols, Ismael and Ravetz, Jerome R. and Reinert, Erik and Sarewitz, Daniel and Stark, Philip B. and Stirling, Andrew and van der Sluijs, Jeroen and Vineis, Paolo},
+   title = {Five ways to ensure that models serve society: a manifesto},
+   journal = {Nature},
+   volume = {582},
+   number = {7813},
+   pages = {482-484},
+   keywords = {Bias
+COVID-19
+*Coronavirus Infections/ep [Epidemiology]
+Cost-Benefit Analysis
+Health Policy
+Humans
+Models, Biological
+*Models, Theoretical
+Pandemics/sn [Statistics & Numerical Data]
+*Pneumonia, Viral/ep [Epidemiology]
+Politics
+Public Health/mt [Methods]
+Public Health/st [Standards]
+Reproducibility of Results
+*Social Sciences
+*Uncertainty},
+   ISSN = {1476-4687
+0028-0836},
+   DOI = {https://dx.doi.org/10.1038/d41586-020-01812-9},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32581374
+https://www.nature.com/articles/d41586-020-01812-9.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4060,
+   author = {Subramanian, Vigneshwar and Kattan, Michael W.},
+   title = {Why Is Modeling Coronavirus Disease 2019 So Difficult?},
+   journal = {Chest},
+   volume = {158},
+   number = {5},
+   pages = {1829-1830},
+   keywords = {Betacoronavirus
+COVID-19
+Clinical Decision-Making
+Communicable Disease Control
+Coronavirus Infections/ep [Epidemiology]
+*Coronavirus Infections/mo [Mortality]
+Coronavirus Infections/tm [Transmission]
+Decision Making
+Forecasting
+Humans
+*Models, Theoretical
+Pandemics
+Patient-Specific Modeling
+Pneumonia, Viral/ep [Epidemiology]
+*Pneumonia, Viral/mo [Mortality]
+Pneumonia, Viral/tm [Transmission]
+Risk Assessment
+SARS-CoV-2},
+   ISSN = {1931-3543
+0012-3692},
+   DOI = {https://dx.doi.org/10.1016/j.chest.2020.06.014},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32565270
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303028/pdf/main.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4046,
+   author = {Thompson, R. N.},
+   title = {Epidemiological models are important tools for guiding COVID-19 interventions},
+   journal = {BMC Medicine},
+   volume = {18},
+   number = {1},
+   pages = {152},
+   keywords = {compartment model
+*coronavirus disease 2019
+decision making
+*epidemiological data
+epidemiological monitoring
+government regulation
+hospital bed utilization
+human
+infection control
+infection prevention
+intensive care unit
+patient volume
+quarantine
+review
+Severe acute respiratory syndrome coronavirus 2
+therapy effect
+*treatment planning
+United Kingdom},
+   ISSN = {1741-7015 (electronic)
+1741-7015},
+   DOI = {https://dx.doi.org/10.1186/s12916-020-01628-4},
+   url = {http://www.biomedcentral.com/bmcmed/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=631834436},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN4047,
+   author = {Toscas, F. S. and Dias, E. M. and Dias, M. L. and Santos, T. R. and Oliveira, E. J. V.},
+   title = {Management of medical equipment in the Brazilian public health system (SUS), historical situation and the context of the pandemic COVID-19: a cut for lung ventilators},
+   journal = {Health and Technology},
+   volume = {13},
+   number = {3},
+   pages = {515-521},
+   abstract = {Purpose: The main objective of this paper is to analyze the Brazilian Ministry of Health (MoH) efforts in the management of medical equipment, with a specific approach for lung ventilators in the pandemic scenario of COVID-19. Method(s): The methodology included a review of the normative framework and literature on technological management and research on the database of the Ministry of Health. Result(s): As a promoter for acquiring medical equipment, the MoH role is highlighted and added to this competence; its function as the coordinator of the National Policy on Health Technology Management (PNGTS). According to the PNGTS the MoH has to support health managers in the implementing, monitoring, and maintaining health technologies. The scenario of lung ventilators in the pandemic was discussed, with research to verify demands, offers, installed capacity, and investments. In less than one year, the Ministry of Health acquired several pulmonary ventilators, 8.55 times greater than the annual averages of equipment acquired from 2016 to 2019. So far, there is still no maintenance plans or strategy of management for that equipment, especially in a post-pandemic scenario. Conclusion(s): It is possible to conclude that the Ministry of Health needs to improve health technology management systems. On the scale of the Policy, it is necessary to commit to permanent and long-term actions to ensure sustainability and reduce the technological vulnerabilities of the SUS.Copyright © 2023, The Author(s).},
+   keywords = {article
+*artificial ventilation
+biomedical technology assessment
+Brazilian
+*coronavirus disease 2019
+government
+health care cost
+*health care organization
+health care policy
+needs assessment
+*pandemic
+public health systems research
+respiratory failure
+*medical device
+*ventilator},
+   ISSN = {2190-7188
+2190-7196},
+   DOI = {https://dx.doi.org/10.1007/s12553-023-00752-4},
+   url = {https://www.springer.com/journal/12553
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=2023369840},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN4048,
+   author = {Turk, P. J. and Anderson, W. E. and Burns, R. J. and Chou, S. H. and Dobbs, T. E. and Kearns, J. T. and Lirette, S. T. and McCarter, M. S. and Nguyen, H. M. and Passaretti, C. L. and Rose, G. A. and Stephens, C. L. and Zhao, J. and McWilliams, A. D.},
+   title = {A regionally tailored epidemiological forecast and monitoring program to guide a healthcare system in the COVID-19 pandemic},
+   journal = {Journal of Infection and Public Health},
+   volume = {17},
+   number = {6},
+   pages = {1125-1133},
+   abstract = {Background: During the COVID-19 pandemic, analytics and predictive models built on regional data provided timely, accurate monitoring of epidemiological behavior, informing critical planning and decision-making for health system leaders. At Atrium Health, a large, integrated healthcare system in the southeastern United States, a team of statisticians and physicians created a comprehensive forecast and monitoring program that leveraged an array of statistical methods. Method(s): The program utilized the following methodological approaches: (i) exploratory graphics, including time plots of epidemiological metrics with smoothers; (ii) infection prevalence forecasting using a Bayesian epidemiological model with time-varying infection rate; (iii) doubling and halving times computed using changepoints in local linear trend; (iv) death monitoring using combination forecasting with an ensemble of models; (v) effective reproduction number estimation with a Bayesian approach; (vi) COVID-19 patients hospital census monitored via time series models; and (vii) quantified forecast performance. Result(s): A consolidated forecast and monitoring report was produced weekly and proved to be an effective, vital source of information and guidance as the healthcare system navigated the inherent uncertainty of the pandemic. Forecasts provided accurate and precise information that informed critical decisions on resource planning, bed capacity and staffing management, and infection prevention strategies. Conclusion(s): In this paper, we have presented the framework used in our epidemiological forecast and monitoring program at Atrium Health, as well as provided recommendations for implementation by other healthcare systems and institutions to facilitate use in future pandemics.Copyright © 2024},
+   keywords = {article
+Bayes theorem
+*coronavirus disease 2019/ep [Epidemiology]
+*coronavirus disease 2019/pc [Prevention]
+cross-sectional study
+death toll
+effective reproduction number
+epidemiological model
+*forecasting
+health care planning
+*health care system
+hospital
+hospital bed capacity
+human
+infection prevention
+loglinear model
+North Carolina
+*pandemic/ep [Epidemiology]
+*pandemic/pc [Prevention]
+prediction
+prevalence
+*public health surveillance
+regression model
+statistician
+summer
+time series analysis
+winter
+map},
+   ISSN = {1876-0341
+1876-035X},
+   DOI = {https://dx.doi.org/10.1016/j.jiph.2024.04.014},
+   url = {https://www.sciencedirect.com/science/journal/18760341
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2032114101},
+   year = {2024},
+   type = {Journal Article}
+}
+

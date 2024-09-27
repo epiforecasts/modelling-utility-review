@@ -1,0 +1,1143 @@
+﻿@article{RN5218,
+   author = {Ahmad, Ghufran and Ahmed, Furqan and Rizwan, Muhammad Suhail and Muhammad, Javed and Fatima, Syeda Hira and Ikram, Aamer and Zeeb, Hajo},
+   title = {Evaluating data-driven methods for short-term forecasts of cumulative SARS-CoV2 cases},
+   journal = {PloS one},
+   volume = {16},
+   number = {5},
+   pages = {e0252147},
+   abstract = {BACKGROUND: The WHO announced the epidemic of SARS-CoV2 as a public health emergency of international concern on 30th January 2020. To date, it has spread to more than 200 countries and has been declared a global pandemic. For appropriate preparedness, containment, and mitigation response, the stakeholders and policymakers require prior guidance on the propagation of SARS-CoV2., METHODOLOGY: This study aims to provide such guidance by forecasting the cumulative COVID-19 cases up to 4 weeks ahead for 187 countries, using four data-driven methodologies; autoregressive integrated moving average (ARIMA), exponential smoothing model (ETS), and random walk forecasts (RWF) with and without drift. For these forecasts, we evaluate the accuracy and systematic errors using the Mean Absolute Percentage Error (MAPE) and Mean Absolute Error (MAE), respectively., FINDINGS: The results show that the ARIMA and ETS methods outperform the other two forecasting methods. Additionally, using these forecasts, we generate heat maps to provide a pictorial representation of the countries at risk of having an increase in the cases in the coming 4 weeks of February 2021., CONCLUSION: Due to limited data availability during the ongoing pandemic, less data-hungry short-term forecasting models, like ARIMA and ETS, can help in anticipating the future outbreaks of SARS-CoV2.},
+   keywords = {*COVID-19/ep [Epidemiology]
+*Data Science/mt [Methods]
+Data Science/st [Standards]
+Humans
+*Models, Statistical
+Practice Guidelines as Topic
+Software/st [Standards]},
+   ISSN = {1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0252147},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med20&NEWS=N&AN=34019581},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5217,
+   author = {Ahmed, Rakesh and May, Peter},
+   title = {Does high COVID-19 spread impact neighbouring countries? Evidence from Ireland},
+   journal = {HRB open research},
+   volume = {4},
+   pages = {56},
+   abstract = {Background : Coronavirus disease 2019 (COVID-19) has necessitated public health responses on an unprecedented scale. Controlling infectious diseases requires understanding of the conditions that increase spread. Prior studies have identified sociodemographic, epidemiological and geographic associations. Ireland offers an unusual opportunity to quantify how high infection rates in one country impacted cases in a neighbouring country. Methods : We analysed official statistics on confirmed COVID-19 cases on the island of Ireland for 52 weeks from March 2020. Our main research question was: Did higher cases in Northern Ireland (NI) impact the number of cases in the Republic of Ireland (ROI)? We used least squares regression to compare confirmed cases in ROI counties that border NI with the rest of the state. We included in our model sociodemographic, epidemiological and geographic factors. We employed the latitude of each county town as an instrumental variable to isolate a quasi-experimental estimate of the cross-border spread. Results : In the quasi-experimental framework, and controlling for population density, age distribution and circulatory disease prevalence, border counties had an extra 21.0 (95%CI: 8.4-33.6) confirmed COVID-19 cases per 1000 people. This equates to an estimated 9,611 additional cases in ROI, or 4% of the national total in the first year of the pandemic. Our results were substantively similar in non-experimental frameworks, with alternative additional predictors, and in sensitivity analyses. Additionally, population density in ROI counties was positively associated with confirmed cases and higher proportions of residents in the professional classes was negatively associated. Conclusion : On the island of Ireland during the first year of the COVID-19 pandemic, high infection rates in NI increased cases in the neighbouring ROI. Maximising co-ordination of pandemic responses among neighbouring countries is essential to minimising disease spread, and its associated disruptions to society and the economy. Socioeconomic disadvantage appeared to confer significant additional risk of spread. Copyright: © 2021 Ahmed R and May P.},
+   ISSN = {2515-4826},
+   DOI = {https://dx.doi.org/10.12688/hrbopenres.13263.1},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medv&NEWS=N&AN=34355116},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5219,
+   author = {Ali, M. and Khan, D. M. and Aamir, M. and Khalil, U. and Khan, Z.},
+   title = {Forecasting COVID-19 in Pakistan},
+   journal = {PLoS ONE},
+   volume = {15},
+   number = {11 November},
+   pages = {e0242762},
+   abstract = {Objectives Forecasting epidemics like COVID-19 is of crucial importance, it will not only help the governments but also, the medical practitioners to know the future trajectory of the spread, which might help them with the best possible treatments, precautionary measures and protections. In this study, the popular autoregressive integrated moving average (ARIMA) will be used to forecast the cumulative number of confirmed, recovered cases, and the number of deaths in Pakistan from COVID-19 spanning June 25, 2020 to July 04, 2020 (10 days ahead forecast). Methods To meet the desire objectives, data for this study have been taken from the Ministry of National Health Service of Pakistan's website from February 27, 2020 to June 24, 2020. Two different ARIMA models will be used to obtain the next 10 days ahead point and 95% interval forecast of the cumulative confirmed cases, recovered cases, and deaths. Statistical software, RStudio, with "forecast", "ggplot2", "tseries", and "seasonal" packages have been used for data analysis. Results The forecasted cumulative confirmed cases, recovered, and the number of deaths up to July 04, 2020 are 231239 with a 95% prediction interval of (219648, 242832), 111616 with a prediction interval of (101063, 122168), and 5043 with a 95% prediction interval of (4791, 5295) respectively. Statistical measures i.e. root mean square error (RMSE) and mean absolute error (MAE) are used for model accuracy. It is evident from the analysis results that the ARIMA and seasonal ARIMA model is better than the other time series models in terms of forecasting accuracy and hence recommended to be used for forecasting epidemics like COVID-19. Conclusion It is concluded from this study that the forecasting accuracy of ARIMA models in terms of RMSE, and MAE are better than the other time series models, and therefore could be considered a good forecasting tool in forecasting the spread, recoveries, and deaths from the current outbreak of COVID-19. Besides, this study can also help the decision-makers in developing short-term strategies with regards to the current number of disease occurrences until an appropriate medication is developed.Copyright © 2020 Ali et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+*coronavirus disease 2019
+*forecasting
+human
+incidence
+intermethod comparison
+measurement accuracy
+mortality rate
+Pakistan
+prediction
+seasonal variation
+statistical analysis
+statistical parameters
+time series analysis
+autoregressive integrated moving average
+mean absolute error
+root mean square error},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0242762},
+   url = {https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0242762&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2010307328},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5220,
+   author = {Almeida, J. F. F. and Conceicao, S. V. and Pinto, L. R. and Horta, C. J. G. and Magalhaes, V. S. and de Campos, F. C. C.},
+   title = {Estimating brazilian states' demands for intensive care unit and clinical hospital beds during the covid-19 pandemic: Development of a predictive model},
+   journal = {Sao Paulo Medical Journal},
+   volume = {139},
+   number = {2},
+   pages = {178-185},
+   abstract = {BACKGROUND: The fragility of healthcare systems worldwide had not been exposed by any pandemic until now. The lack of integrated methods for bed capacity planning compromises the effectiveness of public and private hospitals' services. OBJECTIVE(S): To estimate the impact of the COVID-19 pandemic on the provision of intensive care unit and clinical beds for Brazilian states, using an integrated model. DESIGN AND SETTING: Experimental study applying healthcare informatics to data on COVID-19 cases from the official electronic platform of the Brazilian Ministry of Health. METHOD(S): A predictive model based on the historical records of Brazilian states was developed to estimate the need for hospital beds during the COVID-19 pandemic. RESULT(S): The proposed model projected in advance that there was a lack of 22,771 hospital beds for Brazilian states, of which 38.95% were ICU beds, and 61.05% were clinical beds. CONCLUSION(S): The proposed approach provides valuable information to help hospital managers anticipate actions for improving healthcare system capacity.Copyright © 2021 by Associacao Paulista de Medicina.},
+   keywords = {article
+asymptomatic coronavirus disease 2019
+basic reproduction number
+Brazilian
+*coronavirus disease 2019/ep [Epidemiology]
+health care system
+hospital bed capacity
+*hospital bed utilization
+hospitalization
+human
+*intensive care unit
+length of stay
+lethality
+lockdown
+morbidity
+mortality
+*pandemic
+public health service
+social distancing
+virus transmission},
+   ISSN = {1516-3180},
+   DOI = {https://dx.doi.org/10.1590/1516-3180.2020.0517.r1.0212020},
+   url = {http://www.scielo.br/pdf/spmj/v139n2/1806-9460-spmj-1516-3180-2020-0517-R1-0212020.pdf
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2006972392},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5221,
+   author = {Amani, Bita and Cabral, Alejandra and Sharif, Mienah Z. and Huynh, James and Skrine Jeffers, Kia and Baptista, Shelby A. and McAndrew, Breann and Bradford, Natalie J. and de la Rocha, Patanjali and Ford, Chandra L.},
+   title = {Integrated Methods for Applying Critical Race Theory to Qualitative COVID-19 Equity Research},
+   journal = {Ethnicity & disease},
+   volume = {32},
+   number = {3},
+   pages = {243-256},
+   abstract = {Background: Racism persists, underscoring the need to rapidly document the perspectives and experiences of Black, Indigenous and People of Color (BIPOC) groups as well as marginalized populations (eg, formerly incarcerated people) during pandemics., Objective: This methods paper offers a model for using Public Health Critical Race Praxis (PHCRP) and related critical methodologies (ie, feminist and decolonizing methods) to inform the conceptualization, methods, and dissemination of qualitative research undertaken in response to the evolving COVID-19 pandemic., Sample: Using purposive snowball sampling, we identified organizations involved with health equity and social justice advocacy among BIPOC and socially marginalized populations. Focus group participants (N=63) included community members, organizers, activists, and health workers., Design: We conducted topic-specific (eg, reproductive justice) and population-specific (eg, Asian and Pacific Islander) focus groups (N=16 focus groups) in rapid succession using Zoom software., Methods: A self-reflexive, iterative praxis guided theorization, data collection and analysis. We obtained community input on study design, the semi-structured discussion guide, ethical considerations and dissemination. Applying PHCRP, we assessed our assumptions iteratively. We transcribed each interview verbatim, de-identified the data, then used two distinct qualitative techniques to code and analyze them: thematic analysis to identify unifying concepts that recur across focus groups and narrative analysis to keep each participant's story intact., Results: The praxis facilitated relationship-building with partners and supported the iterative assessment of assumptions. Logistical constraints included difficulty ensuring the confidentiality of virtual discussions., Conclusions: These novel approaches provide an effective model for community-engaged qualitative research during a pandemic. Copyright © 2022, Ethnicity & Disease, Inc.},
+   keywords = {*COVID-19
+*Health Equity
+Humans
+Pandemics
+Public Health/mt [Methods]
+Qualitative Research
+*Racism},
+   ISSN = {1945-0826
+1049-510X},
+   DOI = {https://dx.doi.org/10.18865/ed.32.3.243},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med22&NEWS=N&AN=35909643},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5222,
+   author = {Aravamuthan, S. and Reyes, J. F. M. and Dopfer, D.},
+   title = {Real-Time Estimation and Forecasting of COVID-19 Cases and Hospitalizations in Wisconsin HERC Regions for Public Health Decision Making Processes},
+   journal = {International Journal of Infectious Diseases},
+   volume = {116},
+   number = {Supplement},
+   pages = {S28-S29},
+   abstract = {Purpose: The spread of the COVID-19 and surging number of cases have resulted in overtaxed healthcare systems. However, limited availability and questionable reliability of the data make outbreak prediction and resource planning difficult. Moreover, any estimates or forecasts are subject to high uncertainty and low accuracy when measuring such components. The aim of the study is to apply, automate, and assess a workflow for the real-time estimation and forecasting of COVID-19 cases and hospitalizations in Wisconsin HERC regions. Methods & Materials: The reported cases are corrected for under-reporting and adjusted for test positivity by date of report. The corrected cases are estimated by date of infection, forecasted into the future, and transformed to date of report by region over time using a Bayesian latent variable model. The cases are corrected for hospitalization delay using log-normal distribution, and hospitalizations are estimated by county over time using Bayesian regression model. Models will be automated for real-time estimation and forecasting via RStudio Connect and made available as an R package. Result(s): Both models were fitted weekly and forecasted over a 1-day or 3-day period during the peak of the epidemic from September 20, 2020 to December 6, 2020. For cases, both scenarios outperformed the credible level of the forecast where the 3-day period (20% CrI: 0.468, 50% CrI: 0.810, 90% CrI: 1.000) performed slightly better than the 1-day period (20% CrI: 0.462, 50% CrI: 0.785, 90% CrI: 1.000). Similarly, for hospitalizations, both periods outperformed the credible level of the forecast where the 3-day period (20% CrI: 0.368, 50% CrI: 0.667, 90% CrI: 0.987) performed slightly better than the 1-day period (20% CrI: 0.358, 50% CrI: 0.653, 90% CrI: 0.987). Conclusion(s): We present an approach to estimate and forecast cases and hospitalizations and the corresponding uncertainty using publicly available data. The models were able to infer short-term trends consistent with reported values at the HERC region level. Models were able to accurately forecast and estimate the uncertainty of the measurements. This study can help to elucidate which regions are most affected and which regions will encounter outbreaks as well as support decision making processes.Copyright © 2021},
+   keywords = {conference abstract
+*coronavirus disease 2019
+*decision making
+epidemic
+*forecasting
+*hospitalization
+human
+normal distribution
+*public health
+regression model
+*time perception
+uncertainty
+*Wisconsin
+workflow},
+   ISSN = {1201-9712
+1878-3511},
+   DOI = {https://dx.doi.org/10.1016/j.ijid.2021.12.068},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed23&NEWS=N&AN=2017056370},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5223,
+   author = {Arguello, Arturo and Oruezabal, Roke Inaki and Reyes, Marta and Alvarez, Pablo},
+   title = {[Incremental innovation in healthcare in Spain during the COVID-19 pandemic]},
+   journal = {La innovacion incremental en salud en Espana durante la pandemia de la COVID-19.},
+   volume = {97},
+   abstract = {OBJECTIVE: It is important to understand the impact of the COVID-19 pandemic on incremental innovation and its protection through industrial property rights, in order to acquiring valuable insights to develop effective public policies and corporate strategies. The objective was to analyze incremental innovations in response to the pandemic that have been protected by industrial property rights, and to examine whether the COVID-19 pandemic had a positive or negative effect on incremental innovation, promoting or inhibiting it., METHODS: Utility models in the health patent class have been used as indicators (01.01.20 to 31.12.21), since the information they provide and their characteristics (requirements of applications and publication) allowed us to obtain preliminary conclusions in the short term. Their frequency of application during the pandemic months was analyzed and compared with an equivalent period immediately before (01.01.18 to 31.12.19)., RESULTS: The analysis showed that there had been greater activity in healthcare innovation by all agents (individuals, companies and the public sector). In the pandemic period of 2020-2021, 754 utility models were requested, representing a nearly 40% increase compared to the equivalent period of 2018-2019, of which 284 were identified as pandemic-related innovations, with 59.7% of rights holders being individuals, 36.4% being companies, and only 3.9% being public entities., CONCLUSIONS: In general, incremental innovations require less investment and shorter technology maturation times, which had made it possible to respond, in some cases successfully, to situations of initial shortages of many medical devices, such as ventilators and protective equipment.},
+   keywords = {Humans
+COVID-19/ep [Epidemiology]
+*COVID-19
+Spain/ep [Epidemiology]
+Pandemics
+Industry
+Public Policy},
+   ISSN = {2173-9110
+1135-5727},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med23&NEWS=N&AN=36883658},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5216,
+   author = {Barrett, K. and Khan, Y. A. and S.M, M. Biotech and Ximenes, R. and Naimark, D. M. J. and Sander, B.},
+   title = {Estimation of covid-19induced depletion of hospital resources in ontario, Canada},
+   journal = {CMAJ},
+   volume = {192},
+   number = {24},
+   pages = {E640-E646},
+   abstract = {BACKGROUND: The global spread of coronavirus disease 2019 (COVID-19) continues in several jurisdictions, causing substantial strain to health care systems. The purpose of our study was to predict the effect of the COVID-19 pandemic on patient outcomes and use of hospital resources in Ontario, Canada. METHOD(S): We developed an individuallevel simulation to model the flow of patients with COVID-19 through the hospital system in Ontario. We simulated different combined scenarios of epidemic trajectory and hospital health care capacity. Our outcomes included the number of patients who needed admission to the ward or to the intensive care unit (ICU) with or without the need for mechanical ventilation, number of days to resource depletion, number of patients awaiting resources and number of deaths. RESULT(S): We found that with effective early public health measures, hospital system resources would not be depleted. For scenarios with late or ineffective implementation of physical distancing, hospital resources would be depleted within 1426 days, and in the worst case scenario, 13 321 patients would die while waiting for needed resources. Resource depletion would be avoided or delayed with aggressive measures to increase ICU, ventilator and acute care hospital capacities. INTERPRETATION: We found that without aggressive physical distancing measures, the Ontario hospital system would have been inadequately equipped to manage the expected number of patients with COVID-19 despite a rapid increase in capacity. This lack of hospital resources would have led to an increase in mortality. By slowing the spread of the disease using public health measures and by increasing hospital capacity, Ontario may have avoided catastrophic stresses to its hospitals.Copyright © 2020 Joule Inc. or its licensors.},
+   keywords = {adult
+article
+artificial ventilation
+Canada
+clinical outcome
+*coronavirus disease 2019
+health care
+hospital admission
+*hospital planning
+hospital volume
+human
+intensive care unit
+major clinical study
+*mortality
+mortality rate
+*pandemic
+*prediction
+public health
+*treatment outcome
+ventilator},
+   ISSN = {0820-3946
+1488-2329},
+   DOI = {https://dx.doi.org/10.1503/cmaj.200715},
+   url = {https://www.cmaj.ca/content/cmaj/192/24/E640.full.pdf
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2006782384},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5224,
+   author = {Bellofiore, C. and Benigna, F. and Nanci, M. and Basset, M. and Benvenuti, P. and Nuvolone, M. and Lombino, V. and Fabris, F. and Mussinelli, R. and Obici, L. and Merlini, G. and Palladini, G. and Milani, P.},
+   title = {Tele-consultation in the management of systemic light chain (AL) amyloidosis: The Pavia Amyloidosis Centre experience},
+   journal = {Clinical Chemistry and Laboratory Medicine},
+   volume = {60},
+   number = {11},
+   pages = {eA102},
+   abstract = {Light chain (AL) amyloidosis complexity requires specialized laboratories and use of highly sensitive methods to monitor the disease for hematologic (HR) and organ response (OR). After COVID-19 outbreak, access to our laboratory was limited and a tele-consultation (TM) program was built. During the first wave, all planned visits were converted to TM. When restrictions were eased, TM was proposed to patients that did at least one in-person visit. We asked to perform at a local lab: s. protein electrophoresis, s. and u. immunofixation and measurement of s. free light chains (FLC), creatinine, NT-proBNP (or BNP), troponin I, alkaline phosphatase and 24h proteinuria. Lab already connected with the Italian Society of Amyloidosis were suggested and we verified consistent use of the same FLC assay for HR. Biopsy samples can be shipped to Pavia for amyloid typing. In 2020, 369 TM were performed. In 102 (27%) this was the first evaluation. In 73 (71%) a final diagnosis was made: 18 systemic AL, 19 localized-AL, 33 wild-type transthyretin, 2 reactive AA and 1 LCDD. In 13 (13%) amyloidosis suspicion was not confirmed and 16 (15%) were already on treatment for AL and a second opinion was discussed. A TM was done in 276 (72%) patients previously seen. Of them, 214 (80%) had systemic AL with 99 (46%) on active chemotherapy [89 (41%) proceeded with therapy, 10 (4%) suspended due to sustained HR]. Seven (3%) started a new treatment due to loss of HR. In all other cases, HR was confirmed and treatment free interval was prolonged. In 2021, 109 patients performed TM: 54 (50%) systemic AL, 44 (38%) localized-AL, 5 (5%) AA, 6 (5%) monoclonal gammopathies of clinical significance. In 11 (19%) patients ongoing chemotherapy was proceeded and a new therapy was suggested due to increased FLC along with organ biomarkers in one case. In all other cases, follow-up was advised. TM allows for an integrated approach between lab and clinical management. We reached a final diagnosis in 71% of cases and we assessed HR and OR in local lab making clinical decisions. Despite being a response to pandemic, this hub and spoke TM model proved effective in a complex disease. The use of standardized method in laboratory practice and in the clinic is crucial to the success of TM for patients' management.},
+   keywords = {adult
+*AL amyloidosis
+cancer chemotherapy
+cancer patient
+conference abstract
+controlled study
+female
+follow up
+human
+light chain deposition disease
+major clinical study
+male
+monoclonal immunoglobulinemia
+pandemic
+protein electrophoresis
+proteinuria
+*teleconsultation
+wild type
+alkaline phosphatase
+amino terminal pro brain natriuretic peptide
+biological marker
+creatinine
+endogenous compound
+transthyretin
+troponin I},
+   ISSN = {1437-4331},
+   DOI = {https://dx.doi.org/10.1515/cclm-2022-0865},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed23&NEWS=N&AN=639398206},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5209,
+   author = {Biggerstaff, M. and Slayton, R. B. and Johansson, M. A. and Butler, J. C.},
+   title = {Improving Pandemic Response: Employing Mathematical Modeling to Confront Coronavirus Disease 2019},
+   journal = {Clinical Infectious Diseases},
+   volume = {74},
+   number = {5},
+   pages = {913-917},
+   abstract = {Modeling complements surveillance data to inform coronavirus disease 2019 (COVID-19) public health decision making and policy development. This includes the use of modeling to improve situational awareness, assess epidemiological characteristics, and inform the evidence base for prevention strategies. To enhance modeling utility in future public health emergencies, the Centers for Disease Control and Prevention (CDC) launched the Infectious Disease Modeling and Analytics Initiative. The initiative objectives are to: (1) strengthen leadership in infectious disease modeling, epidemic forecasting, and advanced analytic work; (2) build and cultivate a community of skilled modeling and analytics practitioners and consumers across CDC; (3) strengthen and support internal and external applied modeling and analytic work; and (4) working with partners, coordinate government-wide advanced data modeling and analytics for infectious diseases. These efforts are critical to help prepare the CDC, the country, and the world to respond effectively to present and future infectious disease threats.Copyright © 2021 Published by Oxford University Press for the Infectious Diseases Society of America.},
+   keywords = {adult
+article
+asymptomatic coronavirus disease 2019
+communicable disease/ep [Epidemiology]
+communicable disease/pc [Prevention]
+consumer
+*coronavirus disease 2019/di [Diagnosis]
+*coronavirus disease 2019/dt [Drug Therapy]
+*coronavirus disease 2019/ep [Epidemiology]
+*coronavirus disease 2019/pc [Prevention]
+COVID-19 vaccine-induced immune thrombotic thrombocytopenia/si [Side Effect]
+decision making
+disease control
+disease simulation
+disease transmission
+drug efficacy
+epidemic
+*forecasting
+government
+health care personnel
+health care policy
+high risk population
+human
+infection control
+leadership
+major clinical study
+*mathematical model
+nursing home
+*pandemic
+physician
+quarantine
+risk benefit analysis
+Severe acute respiratory syndrome coronavirus 2
+vaccination coverage
+virus transmission
+ad26.cov2.s vaccine/ae [Adverse Drug Reaction]
+ad26.cov2.s vaccine/dt [Drug Therapy]
+SARS-CoV-2 vaccine/dt [Drug Therapy]},
+   ISSN = {1058-4838
+1537-6591},
+   DOI = {https://dx.doi.org/10.1093/cid/ciab673},
+   url = {http://cid.oxfordjournals.org/content/by/year
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2017279476
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8385824/pdf/ciab673.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5225,
+   author = {Bosse, Nikos I. and Abbott, Sam and Bracher, Johannes and Hain, Habakuk and Quilty, Billy J. and Jit, Mark and van Leeuwen, Edwin and Cori, Anne and Funk, Sebastian},
+   title = {Comparing human and model-based forecasts of COVID-19 in Germany and Poland},
+   journal = {PLoS computational biology},
+   volume = {18},
+   number = {9},
+   pages = {e1010405},
+   abstract = {Forecasts based on epidemiological modelling have played an important role in shaping public policy throughout the COVID-19 pandemic. This modelling combines knowledge about infectious disease dynamics with the subjective opinion of the researcher who develops and refines the model and often also adjusts model outputs. Developing a forecast model is difficult, resource- and time-consuming. It is therefore worth asking what modelling is able to add beyond the subjective opinion of the researcher alone. To investigate this, we analysed different real-time forecasts of cases of and deaths from COVID-19 in Germany and Poland over a 1-4 week horizon submitted to the German and Polish Forecast Hub. We compared crowd forecasts elicited from researchers and volunteers, against a) forecasts from two semi-mechanistic models based on common epidemiological assumptions and b) the ensemble of all other models submitted to the Forecast Hub. We found crowd forecasts, despite being overconfident, to outperform all other methods across all forecast horizons when forecasting cases (weighted interval score relative to the Hub ensemble 2 weeks ahead: 0.89). Forecasts based on computational models performed comparably better when predicting deaths (rel. WIS 1.26), suggesting that epidemiological modelling and human judgement can complement each other in important ways.},
+   keywords = {COVID-19/ep [Epidemiology]
+*COVID-19
+*Communicable Diseases
+Forecasting
+Humans
+Pandemics
+Poland/ep [Epidemiology]},
+   ISSN = {1553-7358
+1553-734X},
+   DOI = {https://dx.doi.org/10.1371/journal.pcbi.1010405},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med22&NEWS=N&AN=36121848},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5226,
+   author = {Cabello-Torres, Rita Jaqueline and Estela, Manuel Angel Ponce and Sanchez-Ccoyllo, Odon and Romero-Cabello, Edison Alessandro and Avila, Fausto Fernando Garcia and Castaneda-Olivera, Carlos Alberto and Valdiviezo-Gonzales, Lorgio and Eulogio, Carlos Enrique Quispe and De La Cruz, Alex Ruben Huaman and Lopez-Gonzales, Javier Linkolk},
+   title = {Statistical modeling approach for PM10 prediction before and during confinement by COVID-19 in South Lima, Peru},
+   journal = {Scientific reports},
+   volume = {12},
+   number = {1},
+   pages = {16737},
+   abstract = {A total of 188,859 meteorological-PM[Formula: see text] data validated before (2019) and during the COVID-19 pandemic (2020) were used. In order to predict PM[Formula: see text] in two districts of South Lima in Peru, hourly, daily, monthly and seasonal variations of the data were analyzed. Principal Component Analysis (PCA) and linear/nonlinear modeling were applied. The results showed the highest annual average PM[Formula: see text] for San Juan de Miraflores (SJM) (PM[Formula: see text]-SJM: 78.7 [Formula: see text]g/m[Formula: see text]) and the lowest in Santiago de Surco (SS) (PM[Formula: see text]-SS: 40.2 [Formula: see text]g/m[Formula: see text]). The PCA showed the influence of relative humidity (RH)-atmospheric pressure (AP)-temperature (T)/dew point (DP)-wind speed (WS)-wind direction (WD) combinations. Cool months with higher humidity and atmospheric instability decreased PM[Formula: see text] values in SJM and warm months increased it, favored by thermal inversion (TI). Dust resuspension, vehicular transport and stationary sources contributed more PM[Formula: see text] at peak times in the morning and evening. The Multiple linear regression (MLR) showed the best correlation (r = 0.6166), followed by the three-dimensional model LogAP-LogWD-LogPM[Formula: see text] (r = 0.5753); the RMSE-MLR (12.92) exceeded that found in the 3D models (RMSE [Formula: see text]) and the NSE-MLR criterion (0.3804) was acceptable. PM[Formula: see text] prediction was modeled using the algorithmic approach in any scenario to optimize urban management decisions in times of pandemic. Copyright © 2022. The Author(s).},
+   keywords = {Air Pollutants/an [Analysis]
+*Air Pollutants
+COVID-19/ep [Epidemiology]
+*COVID-19
+Dust
+Environmental Monitoring/mt [Methods]
+Humans
+Pandemics
+Peru/ep [Epidemiology]},
+   ISSN = {2045-2322},
+   DOI = {https://dx.doi.org/10.1038/s41598-022-20904-2},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med22&NEWS=N&AN=36202880},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5227,
+   author = {Carbonetti, Adrian},
+   title = {[Spanish flu and coronavirus in Argentina: reading the past and understanding the present]},
+   journal = {Gripe espanola y coronavirus en Argentina: leer el pasado y entender el presente.},
+   volume = {28},
+   number = {1},
+   pages = {307-311},
+   abstract = {This article compares the scenarios generated in the Spanish flu pandemic of 1918-1919 and covid-19 in Argentina. It analyzes governmental policies and structural imbalances in the earlier pandemic based on case studies of the city of Buenos Aires and the province of Salta. It then studies those same topics for the covid-19 pandemic. It describes national policies and analyzes the province of Jujuy, where the health care system was overwhelmed. It concludes that in order to manage the pandemic it is necessary to create consensus policies to solve the structural imbalanaces in the country.},
+   keywords = {Argentina/ep [Epidemiology]
+*COVID-19/ep [Epidemiology]
+History, 20th Century
+History, 21st Century
+Humans
+Influenza Pandemic, 1918-1919/hi [History]
+*Influenza Pandemic, 1918-1919
+*Influenza, Human/ep [Epidemiology]},
+   ISSN = {1678-4758
+0104-5970},
+   DOI = {https://dx.doi.org/10.1590/S0104-59702021000100017},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med19&NEWS=N&AN=33787708},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5228,
+   author = {Chakrabarty, Rajan K. and Beeler, Payton and Liu, Pai and Goswami, Spondita and Harvey, Richard D. and Pervez, Shamsh and van Donkelaar, Aaron and Martin, Randall V.},
+   title = {Ambient PM2.5 exposure and rapid spread of COVID-19 in the United States},
+   journal = {The Science of the total environment},
+   volume = {760},
+   pages = {143391},
+   abstract = {It has been posited that populations being exposed to long-term air pollution are more susceptible to COVID-19. Evidence is emerging that long-term exposure to ambient PM2.5 (particulate matter with aerodynamic diameter 2.5 mum or less) associates with higher COVID-19 mortality rates, but whether it also associates with the speed at which the disease is capable of spreading in a population is unknown. Here, we establish the association between long-term exposure to ambient PM2.5 in the United States (US) and COVID-19 basic reproduction ratio R0- a dimensionless epidemic measure of the rapidity of disease spread through a population. We inferred state-level R0 values using a state-of-the-art susceptible, exposed, infected, and recovered (SEIR) model initialized with COVID-19 epidemiological data corresponding to the period March 2-April 30. This period was characterized by a rapid surge in COVID-19 cases across the US states, implementation of strict social distancing measures, and a significant drop in outdoor air pollution. We find that an increase of 1 mug/m3 in PM2.5 levels below current national ambient air quality standards associates with an increase of 0.25 in R0 (95% CI: 0.048-0.447). A 10% increase in secondary inorganic composition, sulfate-nitrate-ammonium, in PM2.5 associates with =10% increase in R0 by 0.22 (95% CI: 0.083-0.352), and presence of black carbon (soot) in the ambient environment moderates this relationship. We considered several potential confounding factors in our analysis, including gaseous air pollutants and socio-economical and meteorological conditions. Our results underscore two policy implications - first, regulatory standards need to be better guided by exploring the concentration-response relationships near the lower end of the PM2.5 air quality distribution; and second, pollution regulations need to be continually enforced for combustion emissions that largely determine secondary inorganic aerosol formation. Copyright © 2020 Elsevier B.V. All rights reserved.},
+   keywords = {Air Pollutants/an [Analysis]
+*Air Pollutants
+Air Pollution/an [Analysis]
+*Air Pollution
+*COVID-19
+Environmental Exposure/an [Analysis]
+Humans
+Particulate Matter/an [Analysis]
+SARS-CoV-2
+United States/ep [Epidemiology]},
+   ISSN = {1879-1026
+0048-9697},
+   DOI = {https://dx.doi.org/10.1016/j.scitotenv.2020.143391},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med19&NEWS=N&AN=33250247},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5229,
+   author = {Chen, F. and Wang, Y. and Du, X.},
+   title = {Changes in healthy effects and economic burden of PM2.5 in Beijing after COVID-19},
+   journal = {Environmental science and pollution research international},
+   volume = {30},
+   number = {21},
+   pages = {60294-60302},
+   abstract = {The COVID-19 lockdown had a positive control effect on urban air quality. However, this effect remains uncertain after the epidemic enters regular management, and furthermore, only limited data are available regarding urban PM2.5 (aerodynamic diameter <=2.5mum) under the impact of the epidemic. We used daily ambient PM2.5 concentration data in Beijing to compare and analyze the changes in urban PM2.5 concentrations before and after the COVID-19 epidemic and to estimate the healthy effects and economic burden associated with PM2.5 before and after the epidemic. The study found that COVID-19 has a significant impact on the urban environmental PM2.5 concentration, which is manifested by the decrease in the PM2.5 concentration in Beijing during the epidemic by 27.8%. Exposure-response models estimated 56.443 (95% CI: 43.084-69.893) thousand people die prematurely in Beijing during the COVID-19 epidemic attributed to long-term PM2.5 exposure, with a 13.3% decrease in the number of premature deaths year-on-year. The total healthy economic losses attributable to PM2.5 in Beijing during the COVID-19 epidemic were 35.76 (95% CI: 28.41-42.44) billion yuan, with a per capita loss of 816.8 yuan. Strict control measures throughout the COVID-19 epidemic had a positive impact on air quality in Beijing, with a decrease in both premature deaths and economic healthy losses attributable to fine particles. This paper helps to enrich and expand the research on the impact of COVID-19 on the urban environment and provides a basis for formulating policies related to air quality improvement in the post-epidemic era.Copyright © 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.},
+   keywords = {*air pollutant
+*air pollution
+China
+communicable disease control
+*coronavirus disease 2019/ep [Epidemiology]
+financial stress
+human
+particulate matter},
+   ISSN = {1614-7499 (electronic)
+1614-7499},
+   DOI = {https://dx.doi.org/10.1007/s11356-023-26005-5},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=640979805},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5230,
+   author = {Colubri, A. and Hartley, M. A. and Siakor, M. and Wolfman, V. and Felix, A. and Sesay, T. and Shaffer, J. G. and Garry, R. F. and Grant, D. S. and Levine, A. C. and Sabeti, P. C.},
+   title = {Machine-learning Prognostic Models from the 2014-16 Ebola Outbreak: Data-harmonization Challenges, Validation Strategies, and mHealth Applications},
+   journal = {EClinicalMedicine},
+   volume = {11},
+   pages = {54-64},
+   abstract = {Background: Ebola virus disease (EVD) plagues low-resource and difficult-to-access settings. Machine learning prognostic models and mHealth tools could improve the understanding and use of evidence-based care guidelines in such settings. However, data incompleteness and lack of interoperability limit model generalizability. This study harmonizes diverse datasets from the 2014-16 EVD epidemic and generates several prognostic models incorporated into the novel Ebola Care Guidelines app that provides informed access to recommended evidence-based guidelines. Method(s): Multivariate logistic regression was applied to investigate survival outcomes in 470 patients admitted to five Ebola treatment units in Liberia and Sierra Leone at various timepoints during 2014-16. We generated a parsimonious model (viral load, age, temperature, bleeding, jaundice, dyspnea, dysphagia, and time-to-presentation) and several fallback models for when these variables are unavailable. All were externally validated against two independent datasets and compared to further models including expert observational wellness assessments. Models were incorporated into an app highlighting the signs/symptoms with the largest contribution to prognosis. Finding(s): The parsimonious model approached the predictive power of observational assessments by experienced clinicians (Area-Under-the-Curve, AUC = 0.70-0.79, accuracy = 0.64-0.74) and maintained its performance across subcohorts with different healthcare seeking behaviors. Age and viral load contributed > 5-fold the weighting of other features and including them in a minimal model had a similar AUC, albeit at the cost of specificity. Interpretation(s): Clinically guided prognostic models can recapitulate clinical expertise and be useful when such expertise is unavailable. Incorporating these models into mHealth tools may facilitate their interpretation and provide informed access to comprehensive clinical guidelines. Funding(s): Howard Hughes Medical Institute, US National Institutes of Health, Bill & Melinda Gates Foundation, International Medical Corps, UK Department for International Development, and GOAL Global.Copyright © 2019},
+   keywords = {article
+bleeding
+clinician
+cohort analysis
+disease severity
+dysphagia
+dyspnea
+*Ebola hemorrhagic fever
+*epidemic
+evidence based medicine
+groups by age
+help seeking behavior
+human
+jaundice
+Liberia
+*machine learning
+major clinical study
+practice guideline
+prediction
+scoring system
+Sierra Leone
+survival
+temperature
+validation process
+virus load
+wellbeing},
+   ISSN = {2589-5370 (electronic)
+2589-5370},
+   DOI = {https://dx.doi.org/10.1016/j.eclinm.2019.06.003},
+   url = {https://www.thelancet.com/journals/eclinm/issue/current
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=2002156897},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5231,
+   author = {Costantino, Valentina and Heslop, David J. and MacIntyre, C. Raina},
+   title = {The effectiveness of full and partial travel bans against COVID-19 spread in Australia for travellers from China during and after the epidemic peak in China},
+   journal = {Journal of travel medicine},
+   volume = {27},
+   number = {5},
+   note = {Comment in (CIN)},
+   abstract = {BACKGROUND: Australia implemented a travel ban on China on 1 February 2020, while COVID-19 was largely localized to China. We modelled three scenarios to test the impact of travel bans on epidemic control. Scenario one was no ban; scenario two and three were the current ban followed by a full or partial lifting (allow over 100 000 university students to enter Australia, but not tourists) from the 8th of March 2020., METHODS: We used disease incidence data from China and air travel passenger movements between China and Australia during and after the epidemic peak in China, derived from incoming passenger arrival cards. We used the estimated incidence of disease in China, using data on expected proportion of under-ascertainment of cases and an age-specific deterministic model to model the epidemic in each scenario., RESULTS: The modelled epidemic with the full ban fitted the observed incidence of cases well, predicting 57 cases on March 6th in Australia, compared to 66 observed on this date; however, we did not account for imported cases from other countries. The modelled impact without a travel ban results in more than 2000 cases and about 400 deaths, if the epidemic remained localized to China and no importations from other countries occurred. The full travel ban reduced cases by about 86%, while the impact of a partial lifting of the ban is minimal and may be a policy option., CONCLUSIONS: Travel restrictions were highly effective for containing the COVID-19 epidemic in Australia during the epidemic peak in China and averted a much larger epidemic at a time when COVID-19 was largely localized to China. This research demonstrates the effectiveness of travel bans applied to countries with high disease incidence. This research can inform decisions on placing or lifting travel bans as a control measure for the COVID-19 epidemic. Copyright © International Society of Travel Medicine 2020. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.},
+   keywords = {Australia/ep [Epidemiology]
+Betacoronavirus
+COVID-19
+China/ep [Epidemiology]
+*Communicable Disease Control/lj [Legislation & Jurisprudence]
+*Communicable Disease Control/mt [Methods]
+Coronavirus Infections/ep [Epidemiology]
+*Coronavirus Infections/pc [Prevention & Control]
+Coronavirus Infections/tm [Transmission]
+Humans
+Incidence
+Internationality
+*Pandemics/pc [Prevention & Control]
+Pneumonia, Viral/ep [Epidemiology]
+*Pneumonia, Viral/pc [Prevention & Control]
+Pneumonia, Viral/tm [Transmission]
+Regression Analysis
+SARS-CoV-2
+*Travel},
+   ISSN = {1708-8305
+1195-1982},
+   DOI = {https://dx.doi.org/10.1093/jtm/taaa081},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32453411},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5215,
+   author = {Damone, A. and Vainieri, M. and Brunetto, M. R. and Bonino, F. and Nuti, S. and Ciuti, G.},
+   title = {Decision-Making Algorithm and Predictive Model to Assess the Impact of Infectious Disease Epidemics on the Healthcare System: The COVID-19 Case Study in Italy},
+   journal = {IEEE Journal of Biomedical and Health Informatics},
+   volume = {26},
+   number = {8},
+   pages = {3661-3672},
+   abstract = {To improve decision-making strategies and prediction based on epidemiological data, so far biased by highly-variable criteria, algorithms using unbiased morbidity parameters, i.e. Intensive Care Units (ICU) and Ordinary Hospitalizations (OH), are proposed. ICU/OH acceleration and velocities are mathematically modeled using available and official data to derive two thresholds, alerting on 30% ICU and 40% OH of COVID-19 daily occupancy settled by the Italian Minister of Health, as a case of study. A predictive model is also proposed to estimate the daily occupancy of ICU and OH in hospitals for each region, using a Susceptible-Infected-Recovered-Death (SIRD) epidemic model to further extend occupancy prediction in each regional district. Computed data validated the proposed models in Italy after almost two years of pandemic, obtaining agreements with the Italian Presidential Decree regardless of the different regional trends of epidemic waves. Therefore, the decision-making algorithm and prediction model resulted valuable tools, retrospectively, to be tested prospectively in sustainable strategies to curb the impact of COVID-19, or of any other pandemic threats with any aggregate of data, on local healthcare systems.Copyright © 2013 IEEE.},
+   keywords = {*algorithm
+article
+*coronavirus disease 2019
+*decision making
+*epidemic
+epidemiological model
+*health care system
+hospitalization
+human
+infection rate
+intensive care unit
+length of stay
+mortality rate
+pandemic
+prediction
+*predictive model},
+   ISSN = {2168-2194
+2168-2208},
+   DOI = {https://dx.doi.org/10.1109/JBHI.2022.3174470},
+   url = {http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2018244545},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5214,
+   author = {Digby, R. and Hopper, I. and Hughes, L. and McCaskie, D. and Tuck, M. and Fallon, K. and Hunter, P. and Bucknall, T.},
+   title = {Exploring staff perspectives on caring for isolated hospitalised patients during the COVID-19 pandemic: a qualitative study},
+   journal = {BMC health services research},
+   volume = {23},
+   number = {1},
+   pages = {208},
+   abstract = {BACKGROUND: Strict isolation of COVID-19 patients to prevent cross infection may inadvertently cause serious adverse outcomes including psychological harm, limitations to care, increased incidence of delirium, deconditioning and reduced quality of life. Previous research exploring the staff perspective of the effect of isolation on patients is limited. The aim of this study is to understand staff perceptions and interpretations of their experiences of the care and treatment of isolated patients and the impact of isolation on patients, families, and staff. METHOD(S): This qualitative, exploratory study is set in a major metropolitan, quaternary hospital in Melbourne, Australia. Data was collected in focus groups with clinical and non-clinical staff and analysed using content analysis. The hospital ethics committee granted approval. Each participant gave informed verbal consent. RESULT(S): Participants included 58 nursing, medical, allied health, and non-clinical staff. Six main themes were identified: 1) Communication challenges during COVID-19; 2) Impact of isolation on family; 3) Challenges to patients' health and safety; 4) Impact on staff; 5) Challenging standards of care; 6) Contextual influences: policy, decision-makers and the environment. CONCLUSION(S): Isolating patients and restricting visitors resulted in good pandemic management, but staff perceived it came at considerable cost to staff and consumers. Innovative communication technology may facilitate improved connection between all parties. Mental health support is needed for patients, families, and staff. Further research using a co-design model with input from patients, families and staff is recommended to determine appropriate interventions to improve care. Preventing the spread of infection is essential for good pandemic management, but the cost to consumers and staff must be mitigated. Preparation for future pandemics must consider workforce preparedness, adapted models of care and workflow.Copyright © 2023. The Author(s).},
+   keywords = {*cross infection
+human
+pandemic
+patient isolation
+quality of life},
+   ISSN = {1472-6963 (electronic)
+1472-6963},
+   DOI = {https://dx.doi.org/10.1186/s12913-022-09000-3},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=640483452},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5213,
+   author = {Fernandez-Naranjo, Raul Patricio and Vasconez-Gonzalez, Eduardo and Simbana-Rivera, Katherine and Gomez-Barreno, Lenin and Izquierdo-Condoy, Juan S. and Cevallos-Robalino, Domenica and Ortiz-Prado, Esteban},
+   title = {Statistical data driven approach of COVID-19 in Ecuador: R0 and Rt estimation via new method},
+   journal = {Infectious Disease Modelling},
+   volume = {6},
+   pages = {232-243},
+   abstract = {The growth of COVID-19 pandemic throughout more than 213 countries around the world have put a lot of pressures on governments and health services to try to stop the rapid expansion of the pandemic. During 2009, H1N1 Influenza pandemic, statistical and mathematical methods were used to track how the virus spreads around countries. Most of these models that were developed at the beginning of the XXI century are based on the classical susceptible-infected-recovered (SIR) model developed almost a hundred years ago. The evolution of this model allows us to forecast and compute basic and effective reproduction numbers (R t and R 0 ), measures that quantify the epidemic potential of a pathogen and estimates different scenarios. In this study, we present a traditional estimation technique for R0 with statistical distributions by best fitting and a Bayesian approach based on continuous feed of prior distributions to obtain posterior distributions and computing real time Rt . We use data from COVID-19 officially reported cases in Ecuador since the first confirmed case on February 29th. Because of the lack of data, in the case of R0 we compare two methods for the estimation of these parameters below exponential growth and maximum likelihood estimation. We do not make any assumption about the evolution of cases due to limited information and we use previous methods to compare scenarios about R0 and in the case of Rt we used Bayesian inference to model uncertainty in contagious proposing a new modification to the well-known model of Bettencourt and Ribeiro based on a time window of m days to improve estimations. Ecuadorian R0 with exponential growth criteria was 3.45 and with the maximum likelihood estimation method was 2.93. The results show that Guayas, Pichincha and Manabi were the provinces with the highest number of cases due to COVID-19. Some reasons explain the increased transmissibility in these localities: massive events, population density, cities dispersion patterns, and the delayed time of public health actions to contain pandemic. In conclusion, this is a novel approach that allow us to measure infection dynamics and outbreak distribution when not enough detailed data is available. The use of this model can be used to predict pandemic distribution and to implement data-based effective measures. Copyright © 2021 The Authors. Production and hosting by Elsevier B.V. on behalf of KeAi Communications Co., Ltd.},
+   ISSN = {2468-0427},
+   DOI = {https://dx.doi.org/10.1016/j.idm.2020.12.012},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=33506154},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5232,
+   author = {Friston, Karl J. and Parr, Thomas and Zeidman, Peter and Razi, Adeel and Flandin, Guillaume and Daunizeau, Jean and Hulme, Oliver J. and Billig, Alexander J. and Litvak, Vladimir and Price, Catherine J. and Moran, Rosalyn J. and Lambert, Christian},
+   title = {Second waves, social distancing, and the spread of COVID-19 across the USA},
+   journal = {Wellcome open research},
+   volume = {5},
+   pages = {103},
+   abstract = {We recently described a dynamic causal model of a COVID-19 outbreak within a single region. Here, we combine several instantiations of this (epidemic) model to create a (pandemic) model of viral spread among regions. Our focus is on a second wave of new cases that may result from loss of immunity-and the exchange of people between regions-and how mortality rates can be ameliorated under different strategic responses. In particular, we consider hard or soft social distancing strategies predicated on national (Federal) or regional (State) estimates of the prevalence of infection in the population. The modelling is demonstrated using timeseries of new cases and deaths from the United States to estimate the parameters of a factorial (compartmental) epidemiological model of each State and, crucially, coupling between States. Using Bayesian model reduction, we identify the effective connectivity between States that best explains the initial phases of the outbreak in the United States. Using the ensuing posterior parameter estimates, we then evaluate the likely outcomes of different policies in terms of mortality, working days lost due to lockdown and demands upon critical care. The provisional results of this modelling suggest that social distancing and loss of immunity are the two key factors that underwrite a return to endemic equilibrium. Copyright: © 2021 Friston KJ et al.},
+   ISSN = {2398-502X},
+   DOI = {https://dx.doi.org/10.12688/wellcomeopenres.15986.3},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=33954262},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5233,
+   author = {Friston, Karl J. and Parr, Thomas and Zeidman, Peter and Razi, Adeel and Flandin, Guillaume and Daunizeau, Jean and Hulme, Oliver J. and Billig, Alexander J. and Litvak, Vladimir and Price, Catherine J. and Moran, Rosalyn J. and Lambert, Christian},
+   title = {Second waves, social distancing, and the spread of COVID-19 across America},
+   journal = {Wellcome open research},
+   volume = {5},
+   pages = {103},
+   abstract = {We recently described a dynamic causal model of a COVID-19 outbreak within a single region. Here, we combine several of these (epidemic) models to create a (pandemic) model of viral spread among regions. Our focus is on a second wave of new cases that may result from loss of immunity-and the exchange of people between regions-and how mortality rates can be ameliorated under different strategic responses. In particular, we consider hard or soft social distancing strategies predicated on national (Federal) or regional (State) estimates of the prevalence of infection in the population. The modelling is demonstrated using timeseries of new cases and deaths from the United States to estimate the parameters of a factorial (compartmental) epidemiological model of each State and, crucially, coupling between States. Using Bayesian model reduction, we identify the effective connectivity between States that best explains the initial phases of the outbreak in the United States. Using the ensuing posterior parameter estimates, we then evaluate the likely outcomes of different policies in terms of mortality, working days lost due to lockdown and demands upon critical care. The provisional results of this modelling suggest that social distancing and loss of immunity are the two key factors that underwrite a return to endemic equilibrium. Copyright: © 2020 Friston KJ et al.},
+   ISSN = {2398-502X},
+   DOI = {https://dx.doi.org/10.12688/wellcomeopenres.15986.1},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medv&NEWS=N&AN=33954262},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5212,
+   author = {Gaidai, O. and Yan, P. and Xing, Y. and Xu, J. and Wu, Y.},
+   title = {Gaidai reliability method for long-term coronavirus modelling},
+   journal = {F1000Research},
+   volume = {11},
+   pages = {1282},
+   abstract = {Background: Novel coronavirus disease has been recently a concern for worldwide public health. To determine epidemic rate probability at any time in any region of interest, one needs efficient bio-system reliability approach, particularly suitable for multi-regional environmental and health systems, observed over a sufficient period of time, resulting in a reliable long-term forecast of novel coronavirus infection rate. Traditional statistical methods dealing with temporal observations of multi-regional processes do not have the multi-dimensionality advantage, that suggested methodology offers, namely dealing efficiently with multiple regions at the same time and accounting for cross-correlations between different regional observations. Method(s): Modern multi-dimensional novel statistical method was directly applied to raw clinical data, able to deal with territorial mapping. Novel reliability method based on statistical extreme value theory has been suggested to deal with challenging epidemic forecast. Authors used MATLAB optimization software. Result(s): This paper described a novel bio-system reliability approach, particularly suitable for multi-country environmental and health systems, observed over a sufficient period of time, resulting in a reliable long-term forecast of extreme novel coronavirus death rate probability. Namely, accurate maximum recorded patient numbers are predicted for the years to come for the analyzed provinces. Conclusion(s): The suggested method performed well by supplying not only an estimate but 95% confidence interval as well. Note that suggested methodology is not limited to any specific epidemics or any specific terrain, namely its truly general. The only assumption and limitation is bio-system stationarity, alternatively trend analysis should be performed first. The suggested methodology can be used in various public health applications, based on their clinical survey data.Copyright: © 2023 Gaidai O et al.},
+   keywords = {article
+Coronavirinae
+*coronavirus disease 2019
+environmental health
+epidemic
+human
+mathematical model
+public health
+data analysis software},
+   ISSN = {2046-1402 (electronic)
+2046-1402},
+   DOI = {https://dx.doi.org/10.12688/f1000research.125924.3},
+   url = {https://f1000research.com/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2022683488},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5211,
+   author = {Garrido, J. M. and Martinez-Rodriguez, D. and Rodriguez-Serrano, F. and Perez-Villares, J. M. and Ferreiro-Marzal, A. and Jimenez-Quintana, M. M. and Villanueva, R. J.},
+   title = {Mathematical model optimized for prediction and health care planning for COVID-19},
+   journal = {Medicina Intensiva},
+   volume = {46},
+   number = {5},
+   pages = {248-258},
+   abstract = {Objective: The COVID-19 pandemic has threatened to collapse hospital and ICU services, and it has affected the care programs for non-COVID patients. The objective was to develop a mathematical model designed to optimize predictions related to the need for hospitalization and ICU admission by COVID-19 patients. Design(s): Prospective study. Setting(s): Province of Granada (Spain). Population: COVID-19 patients hospitalized, admitted to ICU, recovered and died from March 15 to September 22, 2020. Study variables: The number of patients infected with SARS-CoV-2 and hospitalized or admitted to ICU for COVID-19. Result(s): The data reported by hospitals was used to develop a mathematical model that reflects the flow of the population among the different interest groups in relation to COVID-19. This tool allows to analyse different scenarios based on socio-health restriction measures, and to forecast the number of people infected, hospitalized and admitted to the ICU. Conclusion(s): The mathematical model is capable of providing predictions on the evolution of the COVID-19 sufficiently in advance as to anticipate the peaks of prevalence and hospital and ICU care demands, and also the appearance of periods in which the care for non-COVID patients could be intensified.Copyright © 2021},
+   keywords = {article
+*coronavirus disease 2019
+*health care planning
+hospital
+hospitalization
+human
+intensive care unit
+*mathematical model
+nonhuman
+prediction
+prospective study
+Severe acute respiratory syndrome coronavirus 2},
+   ISSN = {0210-5691
+1578-6749},
+   DOI = {https://dx.doi.org/10.1016/j.medin.2021.02.014},
+   url = {http://www.doyma.es/medintensiva/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2011864766},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5234,
+   author = {Griffith, G. and Smith, G. D. and Manley, D. and Howe, L. and Owen, G.},
+   title = {INTERROGATING STRUCTURAL INEQUALITIES IN COVID- 19 MORTALITY IN ENGLAND AND WALES},
+   journal = {Journal of Epidemiology and Community Health},
+   volume = {75},
+   number = {Supplement 1},
+   pages = {A63-A64},
+   abstract = {Background Numerous observational studies have highlighted structural inequalities in COVID-19 mortality in the UK. Such studies often fail to consider the complex spatial nature of such inequalities in their analysis, leading to the potential for bias and an inability to reach conclusions about the most appropriate structural levels for policy intervention. Methods We use publicly available population data on COVID-19 related- and all-cause mortality between March and July 2020 in England and Wales to investigate the spatial scale of such inequalities. We propose a multiscale approach to simultaneously consider four spatial scales at which processes driving inequality may act and apportion inequality between these. Results Adjusting for population age structure, number of care homes and residing in the North we find highest regional inequality in March and June/July. We find finer-grained within-region increased steadily from March until July. The importance of spatial context increases over the study period. No analogous pattern is visible for non-COVID mortality. Higher relative deprivation is associated with increased COVID-19 mortality at all stages of the pandemic but does not explain structural inequalities. Conclusion Results support initial stochastic viral introduction in the South, with initially high inequality decreasing before the establishment of regional trends by June and July, prior to reported regionality of the 'second-wave'. We outline how this framework can help identify structural factors driving such processes, and offer suggestions for a long-term, locally-targeted model of pandemic relief in tandem with regional support to buffer the social context of the area.},
+   keywords = {age distribution
+conference abstract
+*coronavirus disease 2019
+*England
+human
+*mortality
+observational study
+pandemic
+social environment
+stochastic model
+*Wales
+buffer},
+   ISSN = {1470-2738},
+   DOI = {https://dx.doi.org/10.1136/jech-2021-SSMabstracts.135},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=638472945},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5235,
+   author = {Hammad, M. A. M. and Nakamura, H. and Miller, J. and Azad, B. and Yafi, F. A.},
+   title = {HAS THE COVID-19 PANDEMIC IMPACTED PENILE IMPLANT PUBLIC INTEREST IN THE US?},
+   journal = {Journal of Sexual Medicine},
+   volume = {21},
+   number = {Supplement 1},
+   pages = {i181-i182},
+   abstract = {Introduction: The COVID-19 pandemic has significantly impacted various aspects of society, including healthcareseeking behaviors. Online search trends have become valuable indicators of public health concerns and interests. Objective(s): This study focuses on the search trends for penile implants to understand how these trends have changed in different metro/county income levels pre- and post- COVID-19. Method(s): Data on Google search trends for penile implant procedures were collected for specific metropolitan areas before and after the COVID-19 pandemic. The metropolitan areas with the highest search intents were further analyzed. Average household income and per capita income, based off 2021 US Census Bureau, were calculated for the top five metropolitan hot spots (household income, per capita income before and after the pandemic) then visualized in a linear model. Result(s): Between 2016 and 2023, pre- and post- COVID-19, the interest in penile implants has been steadily increasing on average in the US (figure 1). Within these interest groups, a handful of counties account for the most searches that result in the following surges, and are associated with specific socioeconomic backgrounds and events. Before COVID-19, the average household income of counties most interested in penile implants was $53,215.80 (39th percentile) and the per capita median income was $34,626.80 (37th percentile). Post- COVID-19, both of these averages decreased over time to $50, 945.17 (37th percentile) and $31, 435.17, respectively (34th percentile) (figure 2). Conclusion(s): This study demonstrates significant increases in Google search trends for penile implant procedures after the COVID-19 pandemic. Before the pandemic, higher-income regions demonstrated more interest in penile implant searches, potentially linked to affluence and investment inmen's health, compared to more interest in lower income regions postpandemic.},
+   keywords = {conference abstract
+*coronavirus disease 2019
+household income
+human
+income
+investment
+lowest income group
+metropolitan area
+pandemic
+penile prosthesis implantation
+*penis prosthesis
+socioeconomic background},
+   ISSN = {1743-6095},
+   DOI = {https://dx.doi.org/10.1093/jsxmed/qdae001.276},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=643660934},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN5236,
+   author = {Hart, William S. and Abbott, Sam and Endo, Akira and Hellewell, Joel and Miller, Elizabeth and Andrews, Nick and Maini, Philip K. and Funk, Sebastian and Thompson, Robin N.},
+   title = {Inference of the SARS-CoV-2 generation time using UK household data},
+   journal = {eLife},
+   volume = {11},
+   abstract = {The distribution of the generation time (the interval between individuals becoming infected and transmitting the virus) characterises changes in the transmission risk during SARS-CoV-2 infections. Inferring the generation time distribution is essential to plan and assess public health measures. We previously developed a mechanistic approach for estimating the generation time, which provided an improved fit to data from the early months of the COVID-19 pandemic (December 2019-March 2020) compared to existing models (Hart et al., 2021). However, few estimates of the generation time exist based on data from later in the pandemic. Here, using data from a household study conducted from March to November 2020 in the UK, we provide updated estimates of the generation time. We considered both a commonly used approach in which the transmission risk is assumed to be independent of when symptoms develop, and our mechanistic model in which transmission and symptoms are linked explicitly. Assuming independent transmission and symptoms, we estimated a mean generation time (4.2 days, 95% credible interval 3.3-5.3 days) similar to previous estimates from other countries, but with a higher standard deviation (4.9 days, 3.0-8.3 days). Using our mechanistic approach, we estimated a longer mean generation time (5.9 days, 5.2-7.0 days) and a similar standard deviation (4.8 days, 4.0-6.3 days). As well as estimating the generation time using data from the entire study period, we also considered whether the generation time varied temporally. Both models suggest a shorter mean generation time in September-November 2020 compared to earlier months. Since the SARS-CoV-2 generation time appears to be changing, further data collection and analysis is necessary to continue to monitor ongoing transmission and inform future public health policy decisions. Copyright © 2022, Hart et al.},
+   keywords = {COVID-19/ep [Epidemiology]
+*COVID-19
+Humans
+Pandemics
+Public Health
+*SARS-CoV-2
+United Kingdom/ep [Epidemiology]},
+   ISSN = {2050-084X},
+   DOI = {https://dx.doi.org/10.7554/eLife.70767},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med21&NEWS=N&AN=35138250},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5237,
+   author = {Hawryluk, I. and Mellan, T. A. and Hoeltgebaum, H. and Mishra, S. and Schnekenberg, R. P. and Whittaker, C. and Zhu, H. and Gandy, A. and Donnelly, C. A. and Flaxman, S. and Bhatt, S.},
+   title = {Inference of COVID-19 epidemiological distributions from Brazilian hospital data},
+   journal = {Journal of the Royal Society, Interface},
+   volume = {17},
+   number = {172},
+   pages = {20200596},
+   abstract = {Knowing COVID-19 epidemiological distributions, such as the time from patient admission to death, is directly relevant to effective primary and secondary care planning, and moreover, the mathematical modelling of the pandemic generally. We determine epidemiological distributions for patients hospitalized with COVID-19 using a large dataset (N = 21 000 - 157 000) from the Brazilian Sistema de Informacao de Vigilancia Epidemiologica da Gripe database. A joint Bayesian subnational model with partial pooling is used to simultaneously describe the 26 states and one federal district of Brazil, and shows significant variation in the mean of the symptom-onset-to-death time, with ranges between 11.2 and 17.8 days across the different states, and a mean of 15.2 days for Brazil. We find strong evidence in favour of specific probability density function choices: for example, the gamma distribution gives the best fit for onset-to-death and the generalized lognormal for onset-to-hospital-admission. Our results show that epidemiological distributions have considerable geographical variation, and provide the first estimates of these distributions in a low and middle-income setting. At the subnational level, variation in COVID-19 outcome timings are found to be correlated with poverty, deprivation and segregation levels, and weaker correlation is observed for mean age, wealth and urbanicity.},
+   keywords = {adult
+article
+*Brazil
+clinical article
+controlled study
+*coronavirus disease 2019
+hospital admission
+human
+middle income group
+poverty
+probability
+time of death},
+   ISSN = {1742-5662 (electronic)
+1742-5662},
+   DOI = {https://dx.doi.org/10.1098/rsif.2020.0596},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=633528398},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5238,
+   author = {Higgins, Silvio Salej and Luna, Adrian Hinojosa and Rabelo, Andreia Maria Pinto and Dos Santos, Reinaldo Onofre and Ferreira, Vanessa Cardoso},
+   title = {[A structural method to assess the course of the SARS-CoV-2 pandemic in school environmentsMetodo estructural para examinar el curso de la pandemia por el SARS-CoV-2 en ambientes escolares]},
+   journal = {Metodo estrutural para aferir o curso pandemico do SARS-CoV-2 em ambientes escolares.},
+   volume = {46},
+   pages = {e117},
+   abstract = {The COVID-19 pandemic has imposed several dilemmas for managers in the public sector, with school reopening being among the most complex decisions. The present article presents a microsimulation model of the pandemic course considering various scenarios within the confines of a classroom in the city of Belo Horizonte, Brazil. For that, a susceptible-infectious-recovered (SIR) model was integrated with a random graph model, associating epidemiological characteristics with sociometric and sociodemographic factors. Social contact rates projected for Brazil in the European POLYMOD project were adapted for the city of Belo Horizonte to simulate the number of contacts among individuals considering a Poisson distribution. The simulation used as reference a group of 20 students and their families. The projected scenarios discriminated three age groups with their respective rate of daily social contacts: 0 to 5 years (0.01), 6 a 14 years (1.80), and 15 to 19 years (0.20). The simulations showed clear differences between these age groups, depending on the initial number of infected individuals and on the use or not of face masks in the school. The results confirm that the absence of adequate mitigation measures entails a considerable increase in transmission in the school setting.},
+   ISSN = {1680-5348
+1020-4989},
+   DOI = {https://dx.doi.org/10.26633/RPSP.2022.117},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=36060203},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5239,
+   author = {Irvine, Nicola and Anderson, Gillian and Sinha, Chandrava and McCabe, Holly and Van der Meer, Robert},
+   title = {Collaborative critical care prediction and resource planning during the COVID-19 pandemic using computer simulation modelling: future urgent planning lessons},
+   journal = {Future healthcare journal},
+   volume = {8},
+   number = {2},
+   pages = {e317-e321},
+   abstract = {In March 2020, epidemiological modelling of COVID-19 predicted overwhelming demand on healthcare resources, yet data that emerged painted a different picture. Our management science health systems team at the University of Strathclyde collaborated with one NHS organisation to contextualise national policy and predict local resource needs before the pandemic took hold. Using action research, we combined organisational expertise, local and international data, and healthcare systems expertise to create a discrete event simulation model that predicted concurrent resource use over the first 10 weeks of the pandemic with realistic estimates of uncertainty. This allowed the organisation to create an effective strategy for resource planning. Had they followed national guidance, the costs would have been unwieldy and futile. Our decentralised approach delivered valuable information in a timely manner. This case study is unique in healthcare literature and serves as an example of successful methodology for similar crises. Copyright © Royal College of Physicians 2021. All rights reserved.},
+   ISSN = {2514-6645},
+   DOI = {https://dx.doi.org/10.7861/fhj.2020-0194},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=34286207},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5240,
+   author = {Kartono, Agus and Wahyudi, Setyanto Tri and Setiawan, Ardian Arif and Sofian, Irmansyah},
+   title = {Predicting of the Coronavirus Disease 2019 (COVID-19) Epidemic Using Estimation of Parameters in the Logistic Growth Model},
+   journal = {Infectious disease reports},
+   volume = {13},
+   number = {2},
+   pages = {465-485},
+   abstract = {The COVID-19 pandemic was impacting the health and economy around the world. All countries have taken measures to control the spread of the epidemic. Because it is not known when the epidemic will end in several countries, then the prediction of the COVID-19 pandemic is a very important challenge. This study has predicted the temporal evolution of the COVID-19 pandemic in several countries using the logistic growth model. This model has analyzed several countries to describe the epidemic situation of these countries. The time interval of the actual data used as a comparison with the prediction results of this model was starting in the firstly confirmed COVID-19 cases to December 2020. This study examined an approach to the complexity spread of the COVID-19 pandemic using the logistic growth model formed from an ordinary differential equation. This model described the time-dependent population growth rate characterized by the three parameters of the analytical solution. The non-linear least-squares method was used to estimate the three parameters. These parameters described the rate growth constant of infected cases and the total number of confirmed cases in the final phase of the epidemic. This model is applied to the spread of the COVID-19 pandemic in several countries. The prediction results show the spread dynamics of COVID-19 infected cases which are characterized by time-dependent dynamics. In this study, the proposed model provides estimates for the model parameters that are good for predicting the COVID-19 pandemic because they correspond to actual data for all analyzed countries. It is based on the coefficient of determination, R2, and the R2 value of more than 95% which is obtained from the non-linear curves for all analyzed countries. It shows that this model has the potential to contribute to better public health policy-making in the prevention of the COVID-19 pandemic.},
+   ISSN = {2036-7430},
+   DOI = {https://dx.doi.org/10.3390/idr13020046},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=34073942},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5210,
+   author = {Laurens, L. M. and Baneras, J. and Biarnes, A. and Nunez, S.},
+   title = {Simulation in healthcare during COVID-19: An experience with residents in Anaesthesiology},
+   journal = {Revista espanola de anestesiologia y reanimacion},
+   volume = {70},
+   number = {2},
+   pages = {77-82},
+   abstract = {BACKGROUND: The restrictions to stop COVID-19 pandemic have had a negative impact in simulation, however, it is imperative to develop new strategies that facilitate healthcare education., OBJECTIVE: To describe a simulation in healthcare based on the learning of Non-Technical Skills (NTS) and performed under the restrictions of COVID-19 Pandemic., METHODS: Quasi-experimental study of an educational activity performed through simulation with anaesthesiology residents in November 2020. Twelve residents participated in two consecutive days. A questionnaire was filled related to the performance of NTS that encompasses leadership, teamwork and decision making. The complexity of the scenarios and the NTS results obtained between the two days were analysed. Advantages and challenges were documented when a clinical simulation is performed under COVID-19 restrictions., RESULTS: The global performance of the teams improved when comparing first and second day (79.5% vs 88.6%, p<0.01). Leadership was the worst section rated, however, was the one that showed the best improvement (70% vs 87.5%, p<0.01). The complexity of the simulation cases had no relation with the group performance in leadership and teamwork but affected task management results. General satisfaction was over 75%. The main challenges to develop the activity were the technology required to adapt virtuality to simulation and the time spent for the preparation of it. No cases of COVID-19 were reported within the first month after the activity., CONCLUSION: Clinical simulation can be done in the context of COVID-19 Pandemic, obtaining satisfactory learning results but requiring the adaptation of institutions to the new challenges it implies. Copyright © 2021 Sociedad Espanola de Anestesiologia, Reanimacion y Terapeutica del Dolor. Publicado por Elsevier Espana, S.L.U. All rights reserved.},
+   keywords = {Humans
+*COVID-19
+*Anesthesiology
+Pandemics
+Simulation Training/mt [Methods]
+*Simulation Training
+Delivery of Health Care},
+   ISSN = {2341-1929},
+   DOI = {https://dx.doi.org/10.1016/j.redare.2021.08.001},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med23&NEWS=N&AN=36813026},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5241,
+   author = {Malinverni, Claudia and Brigagao, Jacqueline Isaac Machado and Cuenca, Angela Maria Belloni},
+   title = {The production of health news by the press: the context of the coverage of the 2007/2008 yellow fever epidemic},
+   journal = {A producao de noticias de saude pela imprensa: o contexto da cobertura da epizootia da febre amarela 2007/2008.},
+   volume = {27},
+   number = {7},
+   pages = {2817-2825},
+   abstract = {The COVID-19 pandemic scenario raises the amplification of the debate around the production and circulation of information about epidemics. In this sense, the objective of this article is to discuss how social contexts shape the news, taking as an example the case of the news coverage that transformed an epizootic of yellow fever, in the summer of 2007/2008, into an epidemic of urban yellow fever. This is a qualitative research with journalists who worked in two large circulation newspapers and actively participated in the coverage of the event. The interviews were recorded, transcribed and submitted to discourse analysis, which allowed the identification of three factors that influenced the production of a media epidemic of yellow fever: the working conditions and the modus operandi of the newsrooms; the political-ideological dimension of the newspapers; and the difficulties of translation of technical-scientific information. A critical understanding of the production process of the journalistic text can contribute to the construction of communication strategies that minimize the circulation of misinformation on public health in traditional media (newspapers, magazines, radio, TV and news portals).},
+   keywords = {*COVID-19
+Communication
+Humans
+Mass Media
+Pandemics
+Public Health
+Yellow Fever/ep [Epidemiology]
+Yellow Fever/pc [Prevention & Control]
+*Yellow Fever},
+   ISSN = {1678-4561
+1413-8123},
+   DOI = {https://dx.doi.org/10.1590/1413-81232022277.18312021},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med22&NEWS=N&AN=35730849},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5242,
+   author = {Montauban, P. and Balakumar, C. and Rait, J. and Zarsadias, P. and Iqbal, S. and Aravind, B.},
+   title = {The important role of in-situ simulation in preparing surgeons for the COVID-19 pandemic},
+   journal = {British Journal of Surgery},
+   volume = {108},
+   number = {SUPPL 7},
+   pages = {vii50},
+   abstract = {Background: Effective training is vital when facing viral outbreaks such as the SARS Coronavirus 2 (SARS-CoV-2) outbreak of 2019. The objective of this study was to measure the impact of in-situ simulation on the confidence of the surgical teams of two hospitals in assessing and managing acutely unwell surgical patients who are high-risk or confirmed to have COVID-19. Method(s): This was a quasi-experimental study with a pretest-posttest design. The surgical teams at each hospital participated in multi-disciplinary simulation sessions to explore the assessment and management of a patient requiring emergency surgery who is high risk for COVID-19. The participants were surveyed before and after receiving simulation training to determine their level of confidence on a Visual Analog Scale (VAS) for the premise stated in each of the nine questions in the survey, which represented multiple aspects of the care of these patients. Result(s): 27 participants responded the pre-simulation survey and 24 the one post-simulation. The level of confidence (VAS score) were statistically significantly higher for all nine questions after the simulation. Specific themes were identified for further training and changes in policy. Conclusion(s): In-situ simulation is an effective training method. Its versatility allows it to be set up quickly as rapid-response training in the face of an imminent threat. In this study, it improved the preparedness of two surgical teams for the challenges of the COVID-19 pandemic.},
+   keywords = {adult
+clinical article
+conference abstract
+controlled study
+*coronavirus disease 2019
+emergency surgery
+female
+human
+male
+multicenter study
+*pandemic
+pretest posttest design
+quasi experimental study
+risk assessment
+*simulation training
+*surgeon
+surgery
+surgical patient
+visual analog scale},
+   ISSN = {1365-2168},
+   DOI = {https://dx.doi.org/10.1093/bjs/znab361.180},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=636649005},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5243,
+   author = {Patra, Bichitra Nanda and Rina, Kumari and Padhy, Susanta Kumar},
+   title = {Colossal Breed and Backlash of the 'Sesame Street': Brunt of COVID-19 Pandemic in the 'High-Tech' Era of Learning on Children and Adolescents and Suggestions},
+   journal = {Psychiatria Danubina},
+   volume = {33},
+   number = {4},
+   pages = {600-603},
+   abstract = {The COVID-19 pandemic necessitated the closure of various academic institutions, leaving online learning the only option for continuity of education and curricular activities among children and adolescents. It is unclear whether the adoption of online learning will persist in the post-pandemic period. However, enhanced exposure to gadgets impacts the socio-emotive-adaptive development of young children. It sprouts various short-term as well as long-term deleterious physical and mental health effects among children and adolescents. Research has focused mainly on the epidemiology, risks modeling, pathophysiology, and clinical features of SARS-CoV-2, but the impact of increased exposure to gadgets and technology due to online learning activity and the "digital new-norm" has largely been unnoticed. The enforced/self-quarantine leading to less outdoor activities during this pandemic, may have a cumulative poor health consequence. Early detection and management of those at risk and signs and symptoms of these adverse health effects are important. Awareness regarding these ill-effects on this vulnerable group is relevant for parents, guardians, teachers, mentors, health-care providers, and policy-makers.},
+   keywords = {Adolescent
+*COVID-19
+Child
+Child, Preschool
+Humans
+Mental Health
+Pandemics/pc [Prevention & Control]
+SARS-CoV-2
+*Sesamum},
+   ISSN = {0353-5053},
+   DOI = {https://dx.doi.org/10.24869/psyd.2021.600},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med20&NEWS=N&AN=34928917},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5245,
+   author = {Rocklov, J. and Sjodin, H. and Wilder-Smith, A.},
+   title = {COVID-19 outbreak on the Diamond Princess cruise ship: estimating the epidemic potential and effectiveness of public health countermeasures},
+   journal = {Journal of travel medicine},
+   volume = {27},
+   number = {3},
+   note = {Comment in (CIN)},
+   abstract = {BACKGROUND: Cruise ships carry a large number of people in confined spaces with relative homogeneous mixing. On 3 February, 2020, an outbreak of COVID-19 on cruise ship Diamond Princess was reported with 10 initial cases, following an index case on board around 21-25th January. By 4th February, public health measures such as removal and isolation of ill passengers and quarantine of non-ill passengers were implemented. By 20th February, 619 of 3700 passengers and crew (17%) were tested positive., METHODS: We estimated the basic reproduction number from the initial period of the outbreak using SEIR models. We calibrated the models with transient functions of countermeasures to incidence data. We additionally estimated a counterfactual scenario in absence of countermeasures, and established a model stratified by crew and guests to study the impact of differential contact rates among the groups. We also compared scenarios of an earlier versus later evacuation of the ship., RESULTS: The basic reproduction rate was initially 4 times higher on-board compared to the ${R}_0$ in the epicentre in Wuhan, but the countermeasures lowered it substantially. Based on the modeled initial ${R}_0$ of 14.8, we estimated that without any interventions within the time period of 21 January to 19 February, 2920 out of the 3700 (79%) would have been infected. Isolation and quarantine therefore prevented 2307 cases, and lowered the ${R}_0$ to 1.78. We showed that an early evacuation of all passengers on 3 February would have been associated with 76 infected persons in their incubation time., CONCLUSIONS: The cruise ship conditions clearly amplified an already highly transmissible disease. The public health measures prevented more than 2000 additional cases compared to no interventions. However, evacuating all passengers and crew early on in the outbreak would have prevented many more passengers and crew from infection. Copyright © International Society of Travel Medicine 2020.},
+   keywords = {Basic Reproduction Number
+Betacoronavirus
+COVID-19
+*Communicable Disease Control/mt [Methods]
+*Coronavirus Infections/ep [Epidemiology]
+*Coronavirus Infections/pc [Prevention & Control]
+Humans
+Incidence
+*Models, Statistical
+*Pandemics/pc [Prevention & Control]
+*Pneumonia, Viral/ep [Epidemiology]
+*Pneumonia, Viral/pc [Prevention & Control]
+Quarantine
+SARS-CoV-2
+*Ships},
+   ISSN = {1708-8305
+1195-1982},
+   DOI = {https://dx.doi.org/10.1093/jtm/taaa030},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med17&NEWS=N&AN=32109273},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5246,
+   author = {Shaw, Clara L. and Kennedy, David A.},
+   title = {What the reproductive number R0 can and cannot tell us about COVID-19 dynamics},
+   journal = {Theoretical population biology},
+   volume = {137},
+   pages = {2-9},
+   abstract = {The reproductive number R (or R0, the initial reproductive number in an immune-naive population) has long been successfully used to predict the likelihood of pathogen invasion, to gauge the potential severity of an epidemic, and to set policy around interventions. However, often ignored complexities have generated confusion around use of the metric. This is particularly apparent with the emergent pandemic virus SARS-CoV-2, the causative agent of COVID-19. We address some misconceptions about the predictive ability of the reproductive number, focusing on how it changes over time, varies over space, and relates to epidemic size by referencing the mathematical definition of R and examples from the current pandemic. We hope that a better appreciation of the uses, nuances, and limitations of R and R0 facilitates a better understanding of epidemic spread, epidemic severity, and the effects of interventions in the context of SARS-CoV-2. Copyright © 2021 Elsevier Inc. All rights reserved.},
+   keywords = {Basic Reproduction Number/sn [Statistics & Numerical Data]
+*Basic Reproduction Number
+COVID-19/ep [Epidemiology]
+COVID-19/tm [Transmission]
+*COVID-19
+Forecasting
+Humans
+Models, Statistical
+Pandemics
+Population Health
+SARS-CoV-2/ip [Isolation & Purification]
+United States/ep [Epidemiology]},
+   ISSN = {1096-0325
+0040-5809},
+   DOI = {https://dx.doi.org/10.1016/j.tpb.2020.12.003},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med19&NEWS=N&AN=33417839},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5247,
+   author = {Wang, Y. and Chase, R. and Patel, P. and Ramai, D. and Hedjoudje, A. and Li, S. and Li, T. and Huang, Y. and Badurdeen, D.},
+   title = {WAS THERE INCREASED INPATIENT GASTROSTOMY TUBE PLACEMENT DURING THE 2020 COVID-19 PANDEMIC?},
+   journal = {Gastrointestinal Endoscopy},
+   volume = {97},
+   number = {6 Supplement},
+   pages = {AB375},
+   abstract = {Institutions: Trinity Health of New England, USA; Mayo Clinic in Florida, USA; University of Nevada Las Vegas, USA; Temple University, USA; The University of Utah, USA; SUNY Downstate Health Sciences University, USA; Universite Paris Cite, France. Disclosure compliance: I understand. Participant disclosure: Yichen Wang: NO financial relationship with a commercial interest; Robert Chase: NO financial relationship with a commercial interest; Palakkumar Patel: NO financial relationship with a commercial interest; Daryl Ramai: NO financial relationship with a commercial interest; Abdellah Hedjoudje: NO financial relationship with a commercial interest; Si Li: NO financial relationship with a commercial interest; Tian Li: NO financial relationship with a commercial interest; Yuting Huang: NO financial relationship with a commercial interest; Dilhana Badurdeen: NO financial relationship with a commercial interest. Introduction: We aimed to investigate the nationwide trend of gastrostomy tube (GT) placement during COVID-19 pandemic and discuss its impact on the healthcare system. Method(s): This was a nationwide retrospective trend analysis of GT in adult hospitalizations 2016-2020 using the National Inpatient Sample. We analyzed the total number of GTs placed (percutaneous endoscopic gastrostomy [PEG], GT by interventional radiology [IR], and surgical GT). Predicted total GT placement was estimated using trigonometric regression, which modeled pre-pandemic (Jan 2016 to Feb 2020) monthly gastrostomy volumes. Adjusted linear trend yearly seasonality was used to generate monthly total GT placements during the pandemic. Excess total GT placement during the pandemic (Mar to Dec 2020) was calculated based on the difference between the actual and predicted total GTs placed. Logistic regression was used to compare odds of GT placement before and during pandemic. Result(s): The total number of GTs placed was 200,615 between Mar to Dec 2020. The mean monthly volumes of total GT placements were 18,788 and 20,062 before and during the pandemic. Hospitalization during pandemic was associated with higher odds of GT placement (odds ratio [OR] 1.19, 95% confidence interval [CI] 1.15-1.24, P <.001). This association no longer existed after adjusting for COVID-19 and patient characteristics (age, gender, race, income, and comorbidity) (aOR 1.03, 95% CI 0.99-1.07, P =.130). Figure 1 demonstrates monthly volumes of total GT in all hospitalizations (1a) and non-COVID-19 hospitalizations (1b). Within the 10-month pandemic period, there were 24,376 (95% CI 17,965-30,786) excess GT in total in all adult hospitalizations (Figure 1a highlighted area). After excluding patients who died during hospitalization, there were still 13,748 (95% CI 8,185-19,311) excess total GTs placed. The increase in GT placement was more significant for PEG tubes placed by gastroenterologists (OR 1.33, 95% CI 1.23-1.43, P <.001) compared to GTs placed by interventional radiologists (OR 1.14, 95% CI 1.10-1.18, P <.001) or surgeons (OR 1.08, 95% CI 1.00-1.17, P =.042) (Figure 2). Conclusion(s): Inpatient utilization of GTs, especially PEG tube placement, in the United States increased during the COVID-19 pandemic. This change was likely secondary to COVID-19, as the odds of GT placement during the pandemic were not higher after adjusting for COVID-19 and patient characteristics. Additionally, the monthly volume of GT placement was not higher than expected after excluding hospitalizations with a diagnosis of COVID-19 (Figure 1b). There was a significantly higher population of patients who received GT placement and survived hospitalization during the pandemic in 2020. Accordingly, we anticipate an imminent public health burden related to gastrostomy tube care and treatment of its complications in the coming years. [Formula presented] Figure 1. The trend of total GT performed from 2016 to 2020. 1a, trend of all total GT performed; 1b, trend of total GT performed excluding COVID-19 as a diagnosis. Highlighted: excess GT in total in all adult hospitalizations. [Formula presen ed] Figure 2. The trend of total GT by procedural approach.Copyright © 2023},
+   keywords = {adult
+clinical article
+comorbidity
+complication
+conference abstract
+controlled study
+*coronavirus disease 2019
+female
+gastroenterologist
+gastrostomy
+gender
+health care system
+hospital mortality
+*hospital patient
+hospitalization
+human
+interventional radiologist
+interventional radiology
+male
+multicenter study
+*pandemic
+percutaneous endoscopic gastrostomy
+percutaneous endoscopic gastrostomy tube
+public health
+race
+retrospective study
+seasonal variation
+*stomach tube
+surgeon
+surgery
+United States},
+   ISSN = {0016-5107
+1097-6779},
+   DOI = {https://dx.doi.org/10.1016/j.gie.2023.04.1925},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2025025139},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5248,
+   author = {Wang, Y. and Chase, R. and Patel, P. and Ramai, D. and Hedjoudje, A. and Li, S. and Li, T. and Huang, Y. and Badurdeen, D.},
+   title = {WAS THERE INCREASED INPATIENT GASTROSTOMY TUBE PLACEMENT DURING THE 2020 COVID-19 PANDEMIC?},
+   journal = {Gastrointestinal Endoscopy},
+   volume = {97},
+   number = {6 Supplement},
+   pages = {AB212},
+   abstract = {Institutions: Trinity Health of New England, USA; Mayo Clinic in Florida, USA; University of Nevada Las Vegas, USA; Temple University, USA; The University of Utah, USA; SUNY Downstate Health Sciences University, USA; Universite Paris Cite, France. Disclosure compliance: I understand. Participant disclosure: Yichen Wang: NO financial relationship with a commercial interest; Robert Chase: NO financial relationship with a commercial interest; Palakkumar Patel: NO financial relationship with a commercial interest; Daryl Ramai: NO financial relationship with a commercial interest; Abdellah Hedjoudje: NO financial relationship with a commercial interest; Si Li: NO financial relationship with a commercial interest; Tian Li: NO financial relationship with a commercial interest; Yuting Huang: NO financial relationship with a commercial interest; Dilhana Badurdeen: NO financial relationship with a commercial interest. Introduction: We aimed to investigate the nationwide trend of gastrostomy tube (GT) placement during COVID-19 pandemic and discuss its impact on the healthcare system. Method(s): This was a nationwide retrospective trend analysis of GT in adult hospitalizations 2016-2020 using the National Inpatient Sample. We analyzed the total number of GTs placed (percutaneous endoscopic gastrostomy [PEG], GT by interventional radiology [IR], and surgical GT). Predicted total GT placement was estimated using trigonometric regression, which modeled pre-pandemic (Jan 2016 to Feb 2020) monthly gastrostomy volumes. Adjusted linear trend yearly seasonality was used to generate monthly total GT placements during the pandemic. Excess total GT placement during the pandemic (Mar to Dec 2020) was calculated based on the difference between the actual and predicted total GTs placed. Logistic regression was used to compare odds of GT placement before and during pandemic. Result(s): The total number of GTs placed was 200,615 between Mar to Dec 2020. The mean monthly volumes of total GT placements were 18,788 and 20,062 before and during the pandemic. Hospitalization during pandemic was associated with higher odds of GT placement (odds ratio [OR] 1.19, 95% confidence interval [CI] 1.15-1.24, P <.001). This association no longer existed after adjusting for COVID-19 and patient characteristics (age, gender, race, income, and comorbidity) (aOR 1.03, 95% CI 0.99-1.07, P =.130). Figure 1 demonstrates monthly volumes of total GT in all hospitalizations (1a) and non-COVID-19 hospitalizations (1b). Within the 10-month pandemic period, there were 24,376 (95% CI 17,965-30,786) excess GT in total in all adult hospitalizations (Figure 1a highlighted area). After excluding patients who died during hospitalization, there were still 13,748 (95% CI 8,185-19,311) excess total GTs placed. The increase in GT placement was more significant for PEG tubes placed by gastroenterologists (OR 1.33, 95% CI 1.23-1.43, P <.001) compared to GTs placed by interventional radiologists (OR 1.14, 95% CI 1.10-1.18, P <.001) or surgeons (OR 1.08, 95% CI 1.00-1.17, P =.042) (Figure 2). Conclusion(s): Inpatient utilization of GTs, especially PEG tube placement, in the United States increased during the COVID-19 pandemic. This change was likely secondary to COVID-19, as the odds of GT placement during the pandemic were not higher after adjusting for COVID-19 and patient characteristics. Additionally, the monthly volume of GT placement was not higher than expected after excluding hospitalizations with a diagnosis of COVID-19 (Figure 1b). There was a significantly higher population of patients who received GT placement and survived hospitalization during the pandemic in 2020. Accordingly, we anticipate an imminent public health burden related to gastrostomy tube care and treatment of its complications in the coming years. [Formula presented] Figure 1. The trend of total GT performed from 2016 to 2020. 1a, trend of all total GT performed; 1b, trend of total GT performed excluding COVID-19 as a diagnosis. Highlighted: excess GT in total in all adult hospitalizations. [Formula presen ed] Figure 2. The trend of total GT by procedural approach.Copyright © 2023},
+   keywords = {adult
+clinical article
+comorbidity
+complication
+conference abstract
+controlled study
+*coronavirus disease 2019
+female
+gastroenterologist
+gastrostomy
+gender
+health care system
+hospital mortality
+*hospital patient
+hospitalization
+human
+interventional radiologist
+interventional radiology
+male
+multicenter study
+*pandemic
+percutaneous endoscopic gastrostomy
+percutaneous endoscopic gastrostomy tube
+public health
+race
+retrospective study
+seasonal variation
+*stomach tube
+surgeon
+surgery
+United States},
+   ISSN = {0016-5107
+1097-6779},
+   DOI = {https://dx.doi.org/10.1016/j.gie.2023.04.1917},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=2025024955},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5249,
+   author = {Wirawan, A. and Januraga, P. P.},
+   title = {Forecasting COVID-19 Transmission and Healthcare Capacity in Bali, Indonesia},
+   journal = {Journal of Preventive Medicine and Public Health},
+   volume = {53},
+   number = {3},
+   pages = {158-163},
+   abstract = {Objectives: In the current early phase of the coronavirus disease 2019 (COVID-19) outbreak, Bali needs to prepare to face the escalation of cases, with a particular focus on the readiness of healthcare services. We simulated the future trajectory of the epidemic under current conditions, projected the impact of policy interventions, and analyzed the implications for healthcare capacity. Method(s): Our study was based on the first month of publicly accessible data on new confirmed daily cases. A susceptible, exposed, infected, recovered (SEIR) model for COVID-19 was employed to compare the current dynamics of the disease with those predicted under various scenarios. Result(s): The fitted model for the cumulative number of confirmed cases in Bali indicated an effective reproduction number of 1.4. Interventions have decreased the possible maximum number of cases from 71 125 on day 86 to 22 340 on day 119, and have prolonged the doubling time from about 9 days to 21 days. This corresponds to an approximately 30% reduction in transmissions from cases of mild infections. There will be 2780 available hospital beds, and at the peak (on day 132), the number of severe cases is estimated to be roughly 6105. Of these cases, 1831 will need intensive care unit (ICU) beds, whereas the number of currently available ICU beds is roughly 446. Conclusion(s): The healthcare system in Bali is in danger of collapse; thus, serious efforts are needed to improve COVID-19 interventions and to prepare the healthcare system in Bali to the greatest extent possible.Copyright © 2020 Korean Society for Preventive Medicine. All rights reserved.},
+   keywords = {article
+*coronavirus disease 2019
+disease predisposition
+disease severity
+*disease transmission
+epidemic
+*forecasting
+health care access
+health care policy
+health service
+human
+Indonesia
+intensive care unit
+prediction
+hospital bed},
+   ISSN = {1975-8375},
+   DOI = {https://dx.doi.org/10.3961/JPMPH.20.152},
+   url = {https://www.jpmph.org/upload/pdf/jpmph-20-152.pdf
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2006981763},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5250,
+   author = {Yu, J. and Lu, Y. and Munoz-Justicia, J.},
+   title = {Analyzing spanish news frames on twitter during COVID-19-A network study of El Pais and El Mundo},
+   journal = {International Journal of Environmental Research and Public Health},
+   volume = {17},
+   number = {15},
+   pages = {1-12},
+   abstract = {While COVID-19 is becoming one of the most severe public health crises in the twenty-first century, media coverage about this pandemic is getting more important than ever to make people informed. Drawing on data scraped from Twitter, this study aims to analyze and compare the news updates of two main Spanish newspapers El Pais and El Mundo during the pandemic. Throughout an automatic process of topic modeling and network analysis methods, this study identifies eight news frames for each newspaper's Twitter account. Furthermore, the whole pandemic development process is split into three periods-the pre-crisis period, the lockdown period and the recovery period. The networks of the computed frames are visualized by these three segments. This paper contributes to the understanding of how Spanish news media cover public health crises on social media platforms.Copyright © 2020 by the authors. Licensee MDPI, Basel, Switzerland.},
+   keywords = {article
+*coronavirus disease 2019
+disease course
+disease transmission
+economic aspect
+family life
+human
+mass communication
+*medical information
+mortality rate
+pandemic
+politics
+*public health
+publication
+quarantine
+*social media
+Spain},
+   ISSN = {1661-7827
+1660-4601},
+   DOI = {https://dx.doi.org/10.3390/IJERPH17155414},
+   url = {https://www.mdpi.com/1660-4601/17/15/5414
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2004852009},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5244,
+   author = {Zapata Bedoya, Silvana and Walteros Acero, Diana Marcela and Mercado, Marcela},
+   title = {[Geospatial models for SARS-CoV-2 outbreak control in Cartagena and Barranquilla, Colombia, 2020Modelos geoespaciais para controle de surtos de SARS-CoV-2 em Cartagena e Barranquilla, Colombia, 2020]},
+   journal = {Modelos geoespaciales para control de brotes de SARS-CoV-2 en Cartagena y Barranquilla, Colombia, 2020.},
+   volume = {46},
+   pages = {e26},
+   abstract = {Objective: Determine the temporal and spatial structure of the severe acute respiratory syndrome virus (SARS-CoV-2) that causes coronavirus disease (COVID-19), in the cities of Cartagena and Barranquilla, Colombia, in order to take necessary actions to support contact tracing., Methods: Cross-sectional ecological study with spatial analysis based on kernel densities of variables, including cases, mobile application alerts, population vulnerability, multidimensional poverty index; inverse distance weighted spatial interpolation of active cases; and, finally, the spatial superposition technique as a final result. The database of the National Institute of Health of the cities of Cartagena and Barranquilla and the Department of National Statistics was used., Results: The analysis identified an upward epidemiological trend in cases in the two cities, and determined the spatial direction of disease spread in neighborhoods, through spatial interpolation. Intervention areas were detected in 15 neighborhoods in Cartagena and 13 in Barranquilla, 50 meters around active cases with fewer than 21 days of evolution and by geographical risk layers, as a mechanism to stop the spread of COVID-19., Conclusions: Spatial analysis proved to be a useful complementary methodology for contact tracing, by determining temporal and spatial structure and providing necessary scientific evidence for the application of direct intervention measures, where necessary, to reduce the spread of SARS-CoV-2.},
+   ISSN = {1680-5348
+1020-4989},
+   DOI = {https://dx.doi.org/10.26633/RPSP.2022.26},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=35432500},
+   year = {2022},
+   type = {Journal Article}
+}
+

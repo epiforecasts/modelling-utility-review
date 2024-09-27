@@ -1,0 +1,954 @@
+﻿@article{RN5268,
+   author = {A.A, K. Abdul Hamid and Wan Mohamad Nawi, W. I. A. and Lola, M. S. and Mustafa, W. A. and Abdul Malik, S. M. and Zakaria, S. and Aruchunan, E. and Zainuddin, N. H. and Gobithaasan, R. U. and Abdullah, M. T.},
+   title = {Improvement of Time Forecasting Models Using Machine Learning for Future Pandemic Applications Based on COVID-19 Data 2020-2022},
+   journal = {Diagnostics},
+   volume = {13},
+   number = {6},
+   pages = {1121},
+   abstract = {Improving forecasts, particularly the accuracy, efficiency, and precision of time-series forecasts, is becoming critical for authorities to predict, monitor, and prevent the spread of the Coronavirus disease. However, the results obtained from the predictive models are imprecise and inefficient because the dataset contains linear and non-linear patterns, respectively. Linear models such as autoregressive integrated moving average cannot be used effectively to predict complex time series, so nonlinear approaches are better suited for such a purpose. Therefore, to achieve a more accurate and efficient predictive value of COVID-19 that is closer to the true value of COVID-19, a hybrid approach was implemented. Therefore, the objectives of this study are twofold. The first objective is to propose intelligence-based prediction methods to achieve better prediction results called autoregressive integrated moving average-least-squares support vector machine. The second objective is to investigate the performance of these proposed models by comparing them with the autoregressive integrated moving average, support vector machine, least-squares support vector machine, and autoregressive integrated moving average-support vector machine. Our investigation is based on three COVID-19 real datasets, i.e., daily new cases data, daily new death cases data, and daily new recovered cases data. Then, statistical measures such as mean square error, root mean square error, mean absolute error, and mean absolute percentage error were performed to verify that the proposed models are better than the autoregressive integrated moving average, support vector machine model, least-squares support vector machine, and autoregressive integrated moving average-support vector machine. Empirical results using three recent datasets of known the Coronavirus Disease-19 cases in Malaysia show that the proposed model generates the smallest mean square error, root mean square error, mean absolute error, and mean absolute percentage error values for training and testing datasets compared to the autoregressive integrated moving average, support vector machine, least-squares support vector machine, and autoregressive integrated moving average-support vector machine models. This means that the predicted value of the proposed model is closer to the true value. These results demonstrate that the proposed model can generate estimates more accurately and efficiently. Compared to the autoregressive integrated moving average, support vector machine, least-squares support vector machine, and autoregressive integrated moving average-support vector machine models, our proposed models perform much better in terms of percent error reduction for both training and testing all datasets. Therefore, the proposed model is possibly the most efficient and effective way to improve prediction for future pandemic performance with a higher level of accuracy and efficiency.Copyright © 2023 by the authors.},
+   keywords = {article
+autocorrelation
+comparative study
+controlled study
+*coronavirus disease 2019/di [Diagnosis]
+*coronavirus disease 2019/ep [Epidemiology]
+human
+least squares support vector machine
+*machine learning
+Malaysia
+mathematical parameters
+mean absolute error
+mean squared error
+pandemic
+*predictive model
+predictive value
+public health
+random error
+root mean squared error
+statistical model
+support vector machine
+*time series analysis
+autoregressive integrated moving average support vector machine
+mean absolute percentage error
+*time forecasting model},
+   ISSN = {2075-4418 (electronic)
+2075-4418},
+   DOI = {https://dx.doi.org/10.3390/diagnostics13061121},
+   url = {http://www.mdpi.com/journal/diagnostics/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2022330769},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5267,
+   author = {Abbasimehr, Hossein and Paki, Reza and Bahrini, Aram},
+   title = {A novel approach based on combining deep learning models with statistical methods for COVID-19 time series forecasting},
+   journal = {Neural computing & applications},
+   volume = {34},
+   number = {4},
+   pages = {3135-3149},
+   abstract = {The COVID-19 pandemic has disrupted the economy and businesses and impacted all facets of people's lives. It is critical to forecast the number of infected cases to make accurate decisions on the necessary measures to control the outbreak. While deep learning models have proved to be effective in this context, time series augmentation can improve their performance. In this paper, we use time series augmentation techniques to create new time series that take into account the characteristics of the original series, which we then use to generate enough samples to fit deep learning models properly. The proposed method is applied in the context of COVID-19 time series forecasting using three deep learning techniques, (1) the long short-term memory, (2) gated recurrent units, and (3) convolutional neural network. In terms of symmetric mean absolute percentage error and root mean square error measures, the proposed method significantly improves the performance of long short-term memory and convolutional neural networks. Also, the improvement is average for the gated recurrent units. Finally, we present a summary of the top augmentation model as well as a visual representation of the actual and forecasted data for each country. Copyright © The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature 2021.},
+   ISSN = {0941-0643},
+   DOI = {https://dx.doi.org/10.1007/s00521-021-06548-9},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=34658536},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN4016,
+   author = {Adiga, Aniruddha and Dubhashi, Devdatt and Lewis, Bryan and Marathe, Madhav and Venkatramanan, Srinivasan and Vullikanti, Anil},
+   title = {Mathematical Models for COVID-19 Pandemic: A Comparative Analysis},
+   journal = {Journal of the Indian Institute of Science},
+   volume = {100},
+   number = {4},
+   pages = {793-807},
+   note = {Update of (UOF)},
+   abstract = {COVID-19 pandemic represents an unprecedented global health crisis in the last 100 years. Its economic, social and health impact continues to grow and is likely to end up as one of the worst global disasters since the 1918 pandemic and the World Wars. Mathematical models have played an important role in the ongoing crisis; they have been used to inform public policies and have been instrumental in many of the social distancing measures that were instituted worldwide. In this article, we review some of the important mathematical models used to support the ongoing planning and response efforts. These models differ in their use, their mathematical form and their scope. Copyright © Indian Institute of Science 2020.},
+   ISSN = {0970-4140
+0019-4964},
+   DOI = {https://dx.doi.org/10.1007/s41745-020-00200-6},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm5&NEWS=N&AN=33144763
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7596173/pdf/41745_2020_Article_200.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5266,
+   author = {AlQadi, H. and Bani-Yaghoub, M.},
+   title = {Incorporating global dynamics to improve the accuracy of disease models: Example of a COVID-19 SIR model},
+   journal = {PLoS ONE},
+   volume = {17},
+   number = {4 April},
+   pages = {e0265815},
+   abstract = {Mathematical models of infectious diseases exhibit robust dynamics, such as stable endemic, disease-free equilibriums or convergence of the solutions to periodic epidemic waves. The present work shows that the accuracy of such dynamics can be significantly improved by including global effects of host movements in disease models. To demonstrate improved accuracy, we extended a standard Susceptible-Infected-Recovered (SIR) model by incorporating the global dynamics of the COVID-19 pandemic. The extended SIR model assumes three possibilities for susceptible individuals traveling outside of their community: * They can return to the community without any exposure to the infection. * They can be exposed and develop symptoms after returning to the community. * They can be tested positively during the trip and remain quarantined until fully recovered. To examine the predictive accuracy of the extended SIR model, we studied the prevalence of the COVID-19 infection in six randomly selected cities and states in the United States: Kansas City, Saint Louis, San Francisco, Missouri, Illinois, and Arizona. The extended SIR model was parameterized using a two-step model-fitting algorithm. The extended SIR model significantly outperformed the standard SIR model and revealed oscillatory behaviors with an increasing trend of infected individuals. In conclusion, the analytics and predictive accuracy of disease models can be significantly improved by incorporating the global dynamics of the infection.Copyright: © 2022 AlQadi, Bani-Yaghoub. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {algorithm
+article
+controlled study
+*coronavirus disease 2019/ep [Epidemiology]
+disease course
+disease transmission
+*global health
+health care policy
+human
+population research
+population size
+prediction
+quarantine
+risk factor
+*susceptible infected recovered model
+United States
+*global dynamics},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0265815},
+   url = {https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0265815&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2017672292},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5265,
+   author = {Alsinglawi, Belal and Mubin, Omar and Alnajjar, Fady and Kheirallah, Khalid and Elkhodr, Mahmoud and Al Zobbi, Mohammed and Novoa, Mauricio and Arsalan, Mudassar and Poly, Tahmina Nasrin and Gochoo, Munkhjargal and Khan, Gulfaraz and Dev, Kapal},
+   title = {A simulated measurement for COVID-19 pandemic using the effective reproductive number on an empirical portion of population: epidemiological models},
+   journal = {Neural computing & applications},
+   pages = {1-9},
+   abstract = {COVID-19 as a global pandemic has had an unprecedented impact on the entire world. Projecting the future spread of the virus in relation to its characteristics for a specific suite of countries against a temporal trend can provide public health guidance to governments and organizations. Therefore, this paper presented an epidemiological comparison of the traditional SEIR model with an extended and modified version of the same model by splitting the infected compartment into asymptomatic mild and symptomatic severe. We then exposed our derived layered model into two distinct case studies with variations in mitigation strategies and non-pharmaceutical interventions (NPIs) as a matter of benchmarking and comparison. We focused on exploring the United Arab Emirates (a small yet urban centre (where clear sequential stages NPIs were implemented). Further, we concentrated on extending the models by utilizing the effective reproductive number (R t) estimated against time, a more realistic than the static R 0, to assess the potential impact of NPIs within each case study. Compared to the traditional SEIR model, the results supported the modified model as being more sensitive in terms of peaks of simulated cases and flattening determinations. Copyright © The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature 2021.},
+   ISSN = {0941-0643},
+   DOI = {https://dx.doi.org/10.1007/s00521-021-06579-2},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medp&NEWS=N&AN=34658535},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5264,
+   author = {Bosse, N. I. and Abbott, S. and Cori, A. and van Leeuwen, E. and Bracher, J. and Funk, S.},
+   title = {Scoring epidemiological forecasts on transformed scales},
+   journal = {PLoS Computational Biology},
+   volume = {19},
+   number = {8 August},
+   pages = {e1011393},
+   abstract = {Forecast evaluation is essential for the development of predictive epidemic models and can inform their use for public health decision-making. Common scores to evaluate epidemiological forecasts are the Continuous Ranked Probability Score (CRPS) and the Weighted Interval Score (WIS), which can be seen as measures of the absolute distance between the forecast distribution and the observation. However, applying these scores directly to predicted and observed incidence counts may not be the most appropriate due to the exponential nature of epidemic processes and the varying magnitudes of observed values across space and time. In this paper, we argue that transforming counts before applying scores such as the CRPS or WIS can effectively mitigate these difficulties and yield epidemiologically meaningful and easily interpretable results. Using the CRPS on log-transformed values as an example, we list three attractive properties: Firstly, it can be interpreted as a probabilistic version of a relative error. Secondly, it reflects how well models predicted the time-varying epidemic growth rate. And lastly, using arguments on variance-stabilizing transformations, it can be shown that under the assumption of a quadratic mean-variance relationship, the logarithmic transformation leads to expected CRPS values which are independent of the order of magnitude of the predicted quantity. Applying a transformation of log (x + 1) to data and forecasts from the European COVID-19 Forecast Hub, we find that it changes model rankings regardless of stratification by forecast date, location or target types. Situations in which models missed the beginning of upward swings are more strongly emphasised while failing to predict a downturn following a peak is less severely penalised when scoring transformed forecasts as opposed to untransformed ones. We conclude that appropriate transformations, of which the natural logarithm is only one particularly attractive option, should be considered when assessing the performance of different models in the context of infectious disease incidence.Copyright: © 2023 Bosse et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+*biotransformation
+coronavirus disease 2019
+death
+epidemic
+*epidemiological model
+error
+*forecasting
+growth rate
+incidence
+mathematical analysis
+mathematical model
+outcome assessment
+prediction
+probability
+public health
+qualitative research
+regression analysis
+regression model
+*scoring system
+skill},
+   ISSN = {1553-734X
+1553-7358},
+   DOI = {https://dx.doi.org/10.1371/journal.pcbi.1011393},
+   url = {https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011393
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2026939775},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5263,
+   author = {Canedo, M. C. and Lopes, T. I. B. and Rossato, L. and Nunes, I. B. and Faccin, I. D. and Salome, T. M. and Simionatto, S.},
+   title = {Impact of COVID-19 pandemic in the Brazilian maternal mortality ratio: A comparative analysis of Neural Networks Autoregression, Holt-Winters exponential smoothing, and Autoregressive Integrated Moving Average models},
+   journal = {PLoS ONE},
+   volume = {19},
+   number = {1 January},
+   pages = {e0296064},
+   abstract = {Background and objectives The acute respiratory infection caused by severe acute respiratory syndrome coronavirus disease (COVID-19) has resulted in increased mortality among pregnant, puerperal, and neonates. Brazil has the highest number of maternal deaths and a distressing fatality rate of 7.2%, more than double the country's current mortality rate of 2.8%. This study investigates the impact of the COVID-19 pandemic on the Brazilian Maternal Mortality Ratio (BMMR) and forecasts the BMMR up to 2025. Methods To assess the impact of the COVID-19 pandemic on the BMMR, we employed Holt-Winters, Autoregressive Integrated Moving Average (ARIMA), and Neural Networks Autoregression (NNA). We utilized a retrospective time series spanning twenty-five years (1996-2021) to forecast the BMMR under both a COVID-19 pandemic scenario and a controlled COVID-19 scenario. Results Brazil consistently exhibited high maternal mortality values (mean BMMR [1996-2019] = 57.99 +/-6.34/100,000 live births) according to World Health Organization criteria. The country experienced its highest mortality peak in the historical BMMR series in the second quarter of 2021 (197.75/100,000 live births), representing a more than 200% increase compared to the previous period. Holt-Winter and ARIMA models demonstrated better agreement with prediction results beyond the sample data, although NNA provided a better fit to previous data. Conclusions Our study revealed an increase in BMMR and its temporal correlation with COVID-19 incidence. Additionally, it showed that Holt-Winter and ARIMA models can be employed for BMMR forecasting with lower errors. This information can assist governments and public health agencies in making timely and informed decisions.Copyright © 2024 Canedo et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+artificial neural network
+Bayesian learning
+Brazil
+Brazilian
+comparative study
+computer model
+*coronavirus disease 2019
+female
+forecasting
+human
+live birth
+*maternal mortality
+mortality
+*mortality rate
+observational study
+*pandemic
+prediction
+puerperium
+retrospective study
+seasonal variation
+Severe acute respiratory syndrome coronavirus 2
+time series analysis
+World Health Organization
+computer
+data analysis software
+autoregressive integrated moving average model
+*brazilian maternal mortality ratio
+Holt Winters Exponential Smoothing
+neural networks autoregression
+RStudio statistical software Version 1.4.1717
+Xeon Silver 4214 Processors},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0296064},
+   url = {https://journals.plos.org//plosone/article?id=10.1371/journal.pone.0296064
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2030150813},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN5269,
+   author = {Chuang, H. Y. and Chien, T. W. and Chou, W. and Wang, C. Y. and Tsai, K. T.},
+   title = {Comparison of prediction accuracies between two mathematical models for the assessment of COVID-19 damage at the early stage and throughout 2020},
+   journal = {Medicine (United States)},
+   volume = {101},
+   number = {32},
+   pages = {E29718},
+   abstract = {Background: The negative impacts of COVID-19 (ImpactCOVID) on public health are commonly assessed using the cumulative numbers of confirmed cases (CNCCs). However, whether different mathematical models yield disparate results based on varying time frames remains unclear. This study aimed to compare the differences in prediction accuracy between 2 proposed COVID-19 models, develop an angle index that can be objectively used to evaluate ImpactCOVID, compare the differences in angle indexes across countries/regions worldwide, and examine the difference in determining the inflection point (IP) on the CNCCs between the 2 models. Method(s): Data were downloaded from the GitHub website. Two mathematical models were examined in 2 time-frame scenarios during the COVID-19 pandemic (the early 20-day stage and the entire year of 2020). Angle index was determined by the ratio (=CNCCs at IP/IP days). The R2model and mean absolute percentage error (MAPE) were used to evaluate the model's prediction accuracy in the 2 time-frame scenarios. Comparisons were made using 3 visualizations: Line-chart plots, choropleth maps, and forest plots. Result(s): Exponential growth (EXPO) and item response theory (IRT) models had identical prediction power at the earlier outbreak stage. The IRT model had a higher model R2and smaller MAPE than the EXPO model in 2020. Hubei Province in China had the highest angle index at the early stage, and India, California (US), and the United Kingdom had the highest angle indexes in 2020. The IRT model was superior to the EXPO model in determining the IP on an Ogive curve. Conclusion(s): Both proposed models can be used to measure ImpactCOVID. However, the IRT model (superior to EXPO in the long-term and Ogive-type data) is recommended for epidemiologists and policymakers to measure ImpactCOVID in the future.Copyright © 2022 Lippincott Williams and Wilkins. All rights reserved.},
+   keywords = {California
+China
+controlled study
+*coronavirus disease 2019
+growth
+human
+India
+*mathematical model
+pandemic
+review
+United Kingdom},
+   ISSN = {0025-7974
+1536-5964},
+   DOI = {https://dx.doi.org/10.1097/MD.0000000000029718},
+   url = {https://journals.lww.com/md-journal/pages/default.aspx
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2019798764},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5262,
+   author = {Chumachenko, D. and Dudkina, T. and Yakovlev, S. and Chumachenko, T.},
+   title = {Effective Utilization of Data for Predicting COVID-19 Dynamics: An Exploration through Machine Learning Models},
+   journal = {International Journal of Telemedicine and Applications},
+   volume = {2023},
+   pages = {9962100},
+   abstract = {This study is centered around the COVID-19 pandemic which has posed a global health concern for over three years. It emphasizes the importance of effectively utilizing epidemic simulation models for informed decision-making concerning epidemic control. The challenge lies in appropriately choosing, adapting, and interpreting these models. The research constructs three statistical machine learning models to predict the spread of COVID-19 in specific regions and evaluates their performance using real COVID-19 incidence data. The paper presents short-term (3, 7, 14, 21, and 30 days) forecasts of COVID-19 morbidity and mortality for Germany, Japan, South Korea, and Ukraine. The precision of each model was scrutinized based on the type of input data used. Recommendations are provided on how various data sources can enhance the interpretation quality of machine learning models predicting infectious disease dynamics. The initial findings suggest the need for the comprehensive utilization of all available data, favoring cumulative data during holiday-rich periods and daily data otherwise. To minimize the absolute error, databases should be compiled using daily morbidity and mortality rates.Copyright © 2023 Dmytro Chumachenko et al.},
+   keywords = {article
+computer heuristics
+*coronavirus disease 2019
+data base
+decision tree
+forecasting
+Germany
+human
+Japan
+*machine learning
+morbidity
+mortality
+South Korea
+support vector machine},
+   ISSN = {1687-6415
+1687-6423},
+   DOI = {https://dx.doi.org/10.1155/2023/9962100},
+   url = {http://www.hindawi.com/journals/ijta/biblio/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2029517238},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5261,
+   author = {Desai, Prathamesh S.},
+   title = {News Sentiment Informed Time-series Analyzing AI (SITALA) to curb the spread of COVID-19 in Houston},
+   journal = {Expert systems with applications},
+   volume = {180},
+   pages = {115104},
+   abstract = {Coronavirus disease (COVID-19) has evolved into a pandemic with many unknowns. Houston, located in the Harris County of Texas, is becoming the next hotspot of this pandemic. With a severe decline in international and inter-state travel, a model at the county level is needed as opposed to the state or country level. Existing approaches have a few drawbacks. Firstly, the data used is the number of COVID-19 positive cases instead of positivity. The former is a function of the number of tests carried out while the number of tests normalizes the latter. Positivity gives a better picture of the spread of this pandemic as, with time, more tests are being administered. Positivity under 5% has been desired for the reopening of businesses to almost 100% capacity. Secondly, the data used by models like SEIRD (Susceptible, Exposed, Infectious, Recovered, and Deceased) lacks information about the sentiment of people concerning coronavirus. Thirdly, models that make use of social media posts might have too much noise and misinformation. On the other hand, news sentiment can capture long-term effects of hidden variables like public policy, opinions of local doctors, and disobedience of state-wide mandates. The present study introduces a new artificial intelligence (i.e., AI) model, viz., Sentiment Informed Time-series Analyzing AI (SITALA), trained on COVID-19 test positivity data and news sentiment from over 2750 news articles for Harris county. The news sentiment was obtained using IBM Watson Discovery News. SITALA is inspired by Google-Wavenet architecture and makes use of TensorFlow. The mean absolute error for the training dataset of 66 consecutive days is 2.76, and that for the test dataset of 22 consecutive days is 9.6. A cone of uncertainty is provided within which future COVID-19 test positivity has been shown to fall with high accuracy. The model predictions fare better than a published Bayesian-based SEIRD model. The model forecasts that in order to curb the spread of coronavirus in Houston, a sustained negative news sentiment (e.g., death count for COVID-19 will grow at an alarming rate in Houston if mask orders are not followed) will be desirable. Public policymakers may use SITALA to set the tone of the local policies and mandates. Copyright © 2021 Elsevier Ltd. All rights reserved.},
+   ISSN = {0957-4174},
+   DOI = {https://dx.doi.org/10.1016/j.eswa.2021.115104},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=33942002},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5270,
+   author = {Etu, Egbe-Etu and Monplaisir, Leslie and Masoud, Sara and Arslanturk, Suzan and Emakhu, Joshua and Tenebe, Imokhai and Miller, Joseph B. and Hagerman, Tom and Jourdan, Daniel and Krupp, Seth},
+   title = {A Comparison of Univariate and Multivariate Forecasting Models Predicting Emergency Department Patient Arrivals during the COVID-19 Pandemic},
+   journal = {Healthcare (Basel, Switzerland)},
+   volume = {10},
+   number = {6},
+   abstract = {The COVID-19 pandemic has heightened the existing concern about the uncertainty surrounding patient arrival and the overutilization of resources in emergency departments (EDs). The prediction of variations in patient arrivals is vital for managing limited healthcare resources and facilitating data-driven resource planning. The objective of this study was to forecast ED patient arrivals during a pandemic over different time horizons. A secondary objective was to compare the performance of different forecasting models in predicting ED patient arrivals. We included all ED patient encounters at an urban teaching hospital between January 2019 and December 2020. We divided the data into training and testing datasets and applied univariate and multivariable forecasting models to predict daily ED visits. The influence of COVID-19 lockdown and climatic factors were included in the multivariable models. The model evaluation consisted of the root mean square error (RMSE) and mean absolute error (MAE) over different forecasting horizons. Our exploratory analysis illustrated that monthly and weekly patterns impact daily demand for care. The Holt-Winters approach outperformed all other univariate and multivariable forecasting models for short-term predictions, while the Long Short-Term Memory approach performed best in extended predictions. The developed forecasting models are able to accurately predict ED patient arrivals and peaks during a surge when tested on two years of data from a high-volume urban ED. These short- and long-term prediction models can potentially enhance ED and hospital resource planning.},
+   ISSN = {2227-9032},
+   DOI = {https://dx.doi.org/10.3390/healthcare10061120},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=35742171},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5260,
+   author = {Fairley, M. and Rao, I. J. and Brandeau, M. L. and Qian, G. L. and Gonsalves, G. S.},
+   title = {Surveillance for endemic infectious disease outbreaks: Adaptive sampling using profile likelihood estimation},
+   journal = {Statistics in Medicine},
+   volume = {41},
+   number = {17},
+   pages = {3336-3348},
+   abstract = {Outbreaks of an endemic infectious disease can occur when the disease is introduced into a highly susceptible subpopulation or when the disease enters a network of connected individuals. For example, significant HIV outbreaks among people who inject drugs have occurred in at least half a dozen US states in recent years. This motivates the current study: how can limited testing resources be allocated across geographic regions to rapidly detect outbreaks of an endemic infectious disease? We develop an adaptive sampling algorithm that uses profile likelihood to estimate the distribution of the number of positive tests that would occur for each location in a future time period if that location were sampled. Sampling is performed in the location with the highest estimated probability of triggering an outbreak alarm in the next time period. The alarm function is determined by a semiparametric likelihood ratio test. We compare the profile likelihood sampling (PLS) method numerically to uniform random sampling (URS) and Thompson sampling (TS). TS was worse than URS when the outbreak occurred in a location with lower initial prevalence than other locations. PLS had lower time to outbreak detection than TS in some but not all scenarios, but was always better than URS even when the outbreak occurred in a location with a lower initial prevalence than other locations. PLS provides an effective and reliable method for rapidly detecting endemic disease outbreaks that is robust to this uncertainty.Copyright © 2022 John Wiley & Sons Ltd.},
+   keywords = {article
+*communicable disease/ep [Epidemiology]
+controlled study
+*disease surveillance
+*endemic disease/ep [Epidemiology]
+*epidemic/ep [Epidemiology]
+geographic distribution
+human
+Human immunodeficiency virus
+*Human immunodeficiency virus infection/ep [Epidemiology]
+*maximum likelihood method
+prevalence
+probability
+public health
+resource shortage
+*sampling
+simulation
+uncertainty},
+   ISSN = {0277-6715
+1097-0258},
+   DOI = {https://dx.doi.org/10.1002/sim.9420},
+   url = {http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0258
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2016476452},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5259,
+   author = {Galanter, W. and Rodriguez-Fernandez, J. M. and Chow, K. and Harford, S. and Kochendorfer, K. M. and Pishgar, M. and Theis, J. and Zulueta, J. and Darabi, H.},
+   title = {Predicting clinical outcomes among hospitalized COVID-19 patients using both local and published models},
+   journal = {BMC medical informatics and decision making},
+   volume = {21},
+   number = {1},
+   pages = {224},
+   abstract = {BACKGROUND: Many models are published which predict outcomes in hospitalized COVID-19 patients. The generalizability of many is unknown. We evaluated the performance of selected models from the literature and our own models to predict outcomes in patients at our institution. METHOD(S): We searched the literature for models predicting outcomes in inpatients with COVID-19. We produced models of mortality or criticality (mortality or ICU admission) in a development cohort. We tested external models which provided sufficient information and our models using a test cohort of our most recent patients. The performance of models was compared using the area under the receiver operator curve (AUC). RESULT(S): Our literature review yielded 41 papers. Of those, 8 were found to have sufficient documentation and concordance with features available in our cohort to implement in our test cohort. All models were from Chinese patients. One model predicted criticality and seven mortality. Tested against the test cohort, internal models had an AUC of 0.84 (0.74-0.94) for mortality and 0.83 (0.76-0.90) for criticality. The best external model had an AUC of 0.89 (0.82-0.96) using three variables, another an AUC of 0.84 (0.78-0.91) using ten variables. AUC's ranged from 0.68 to 0.89. On average, models tested were unable to produce predictions in 27% of patients due to missing lab data. CONCLUSION(S): Despite differences in pandemic timeline, race, and socio-cultural healthcare context some models derived in China performed well. For healthcare organizations considering implementation of an external model, concordance between the features used in the model and features available in their own patients may be important. Analysis of both local and external models should be done to help decide on what prediction method is used to provide clinical decision support to clinicians treating COVID-19 patients as well as what lab tests should be included in order sets.Copyright © 2021. The Author(s).},
+   keywords = {China
+hospitalization
+human
+pandemic
+retrospective study},
+   ISSN = {1472-6947 (electronic)
+1472-6947},
+   DOI = {https://dx.doi.org/10.1186/s12911-021-01576-w},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=635718717},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5258,
+   author = {Gomez-Cravioto, Daniela A. and Diaz-Ramos, Ramon E. and Cantu-Ortiz, Francisco J. and Ceballos, Hector G.},
+   title = {Data Analysis and Forecasting of the COVID-19 Spread: A Comparison of Recurrent Neural Networks and Time Series Models},
+   journal = {Cognitive computation},
+   pages = {1-12},
+   abstract = {To understand and approach the spread of the SARS-CoV-2 epidemic, machine learning offers fundamental tools. This study presents the use of machine learning techniques for projecting COVID-19 infections and deaths in Mexico. The research has three main objectives: first, to identify which function adjusts the best to the infected population growth in Mexico; second, to determine the feature importance of climate and mobility; third, to compare the results of a traditional time series statistical model with a modern approach in machine learning. The motivation for this work is to support health care providers in their preparation and planning. The methods compared are linear, polynomial, and generalized logistic regression models to describe the growth of COVID-19 incidents in Mexico. Additionally, machine learning and time series techniques are used to identify feature importance and perform forecasting for daily cases and fatalities. The study uses the publicly available data sets from the John Hopkins University of Medicine in conjunction with the mobility rates obtained from Google's Mobility Reports and climate variables acquired from the Weather Online API. The results suggest that the logistic growth model fits best the pandemic's behavior, that there is enough correlation of climate and mobility variables with the disease numbers, and that the Long short-term memory network can be exploited for predicting daily cases. Given this, we propose a model to predict daily cases and fatalities for SARS-CoV-2 using time series data, mobility, and weather variables. Copyright © The Author(s) 2021.},
+   ISSN = {1866-9956},
+   DOI = {https://dx.doi.org/10.1007/s12559-021-09885-y},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medp&NEWS=N&AN=34104256},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5257,
+   author = {Guo, Ziyuan and Lin, Qingyi and Meng, Xuhui},
+   title = {A Comparative Study on Deep Learning Models for COVID-19 Forecast},
+   journal = {Healthcare (Basel, Switzerland)},
+   volume = {11},
+   number = {17},
+   abstract = {The COVID-19 pandemic has led to a global health crisis with significant morbidity, mortality, and socioeconomic disruptions. Understanding and predicting the dynamics of COVID-19 are crucial for public health interventions, resource allocation, and policy decisions. By developing accurate models, informed public health strategies can be devised, resource allocation can be optimized, and virus transmission can be reduced. Various mathematical and computational models have been developed to estimate transmission dynamics and forecast the pandemic's trajectories. However, the evolving nature of COVID-19 demands innovative approaches to enhance prediction accuracy. The machine learning technique, particularly the deep neural networks (DNNs), offers promising solutions by leveraging diverse data sources to improve prevalence predictions. In this study, three typical DNNs, including the Long Short-Term Memory (LSTM) network, Physics-informed Neural Network (PINN), and Deep Operator Network (DeepONet), are employed to model and forecast COVID-19 spread. The training and testing data used in this work are the global COVID-19 cases in the year of 2021 from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. A seven-day moving average as well as the normalization techniques are employed to stabilize the training of deep learning models. We systematically investigate the effect of the number of training data on the predicted accuracy as well as the capability of long-term forecast in each model. Based on the relative L2 errors between the predictions from deep learning models and the reference solutions, the DeepONet, which is capable of learning hidden physics given the training data, outperforms the other two approaches in all test cases, making it a reliable tool for accurate forecasting the dynamics of COVID-19.},
+   ISSN = {2227-9032},
+   DOI = {https://dx.doi.org/10.3390/healthcare11172400},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm8&NEWS=N&AN=37685434},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5256,
+   author = {Kafieh, R. and Arian, R. and Saeedizadeh, N. and Amini, Z. and Serej, N. D. and Minaee, S. and Yadav, S. K. and Vaezi, A. and Rezaei, N. and Haghjooy Javanmard, S.},
+   title = {COVID-19 in Iran: Forecasting Pandemic Using Deep Learning},
+   journal = {Computational and Mathematical Methods in Medicine},
+   volume = {2021},
+   pages = {6927985},
+   abstract = {COVID-19 has led to a pandemic, affecting almost all countries in a few months. In this work, we applied selected deep learning models including multilayer perceptron, random forest, and different versions of long short-term memory (LSTM), using three data sources to train the models, including COVID-19 occurrences, basic information like coded country names, and detailed information like population, and area of different countries. The main goal is to forecast the outbreak in nine countries (Iran, Germany, Italy, Japan, Korea, Switzerland, Spain, China, and the USA). The performances of the models are measured using four metrics, including mean average percentage error (MAPE), root mean square error (RMSE), normalized RMSE (NRMSE), and R2. The best performance was found for a modified version of LSTM, called M-LSTM (winner model), to forecast the future trajectory of the pandemic in the mentioned countries. For this purpose, we collected the data from January 22 till July 30, 2020, for training, and from 1 August 2020 to 31 August 2020, for the testing phase. Through experimental results, the winner model achieved reasonably accurate predictions (MAPE, RMSE, NRMSE, and R2 are 0.509, 458.12, 0.001624, and 0.99997, respectively). Furthermore, we stopped the training of the model on some dates related to main country actions to investigate the effect of country actions on predictions by the model.Copyright © 2021 Rahele Kafieh et al.},
+   keywords = {article
+China
+*coronavirus disease 2019
+*deep learning
+epidemic
+*forecasting
+Germany
+human
+Iran
+Italy
+Japan
+Korea
+long short term memory network
+multilayer perceptron
+multivariate analysis
+*pandemic
+public policy
+qualitative analysis
+quantitative analysis
+random forest
+Spain
+Switzerland
+United States},
+   ISSN = {1748-670X
+1748-6718},
+   DOI = {https://dx.doi.org/10.1155/2021/6927985},
+   url = {http://www.hindawi.com/journals/cmmm/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2011316221},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5255,
+   author = {Kafieh, Rahele and Saeedizadeh, Narges and Arian, Roya and Amini, Zahra and Serej, Nasim Dadashi and Vaezi, Atefeh and Javanmard, Shaghayegh Haghjooy},
+   title = {Isfahan and Covid-19: Deep spatiotemporal representation},
+   journal = {Chaos, solitons, and fractals},
+   volume = {141},
+   pages = {110339},
+   abstract = {The coronavirus COVID-19 is affecting 213 countries and territories around the world. Iran was one of the first affected countries by this virus. Isfahan, as the third most populated province of Iran, experienced a noticeable epidemic. The prediction of epidemic size, peak value, and peak time can help policymakers in correct decisions. In this study, deep learning is selected as a powerful tool for forecasting this epidemic in Isfahan. A combination of effective Social Determinant of Health (SDH) and the occurrences of COVID-19 data are used as spatiotemporal input by using time-series information from different locations. Different models are utilized, and the best performance is found to be for a tailored type of long short-term memory (LSTM). This new method incorporates the mutual effect of all classes (confirmed/ death / recovered) in the prediction process. The future trajectory of the outbreak in Isfahan is forecasted with the proposed model. The paper demonstrates the positive effect of adding SDHs in pandemic prediction. Furthermore, the effectiveness of different SDHs is discussed, and the most effective terms are introduced. The method expresses high ability in both short- and long- term forecasting of the outbreak. The model proves that in predicting one class (like the number of confirmed cases), the effect of other accompanying numbers (like death and recovered cases) cannot be ignored. In conclusion, the superiorities of this model (particularity the long term predication ability) turn it into a reliable tool for helping the health decision-makers. Copyright © 2020 Elsevier Ltd. All rights reserved.},
+   ISSN = {0960-0779},
+   DOI = {https://dx.doi.org/10.1016/j.chaos.2020.110339},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm5&NEWS=N&AN=33041534},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5254,
+   author = {Kanagarathinam, Karthick and Algehyne, Ebrahem A. and Sekar, Kavaskar},
+   title = {Analysis of 'earlyR' epidemic model and Time Series model for prediction of COVID-19 registered cases},
+   journal = {Materials today. Proceedings},
+   abstract = {The COVID-19 is an epidemic that causes respiratory infection. The forecasted data will help the policy makers to take precautionary measures and to control the epidemic spread. The two models were adopted for forecasting the daily newly registered cases of COVID-19 namely 'earlyR' epidemic model and ARIMA model. In earlyR epidemic model, the reported values of serial interval of COVID-19 with gamma distribution have been used to estimate the value of R0 and 'projections' package is used to obtain epidemic trajectories by fitting the existing COVID-19 India data, serial interval distribution, and obtained R0 value of respective states. The ARIMA model is developed by using the 'auto.arima' function to evaluate the values of (p, d, q) and 'forecast' package is used to predict the new infected cases. The methodology evaluation shows that ARIMA model gives the better accuracy compared to earlyR epidemic model. Copyright © 2020 Elsevier Ltd. All rights reserved. Selection and peer-review under responsibility of the scientific committee of the Emerging Trends in Materials Science, Technology and Engineering.},
+   ISSN = {2214-7853},
+   DOI = {https://dx.doi.org/10.1016/j.matpr.2020.10.086},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medp&NEWS=N&AN=33078097},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5253,
+   author = {Kim, J. and Lawson, A. B. and Neelon, B. and Korte, J. E. and Eberth, J. M. and Chowell, G.},
+   title = {Evaluation of Bayesian spatiotemporal infectious disease models for prospective surveillance analysis},
+   journal = {BMC medical research methodology},
+   volume = {23},
+   number = {1},
+   pages = {171},
+   abstract = {BACKGROUND: COVID-19 brought enormous challenges to public health surveillance and underscored the importance of developing and maintaining robust systems for accurate surveillance. As public health data collection efforts expand, there is a critical need for infectious disease modeling researchers to continue to develop prospective surveillance metrics and statistical models to accommodate the modeling of large disease counts and variability. This paper evaluated different likelihoods for the disease count model and various spatiotemporal mean models for prospective surveillance. METHOD(S): We evaluated Bayesian spatiotemporal models, which are the foundation for model-based infectious disease surveillance metrics. Bayesian spatiotemporal mean models based on the Poisson and the negative binomial likelihoods were evaluated with the different lengths of past data usage. We compared their goodness of fit and short-term prediction performance with both simulated epidemic data and real data from the COVID-19 pandemic. RESULT(S): The simulation results show that the negative binomial likelihood-based models show better goodness of fit results than Poisson likelihood-based models as deemed by smaller deviance information criteria (DIC) values. However, Poisson models yield smaller mean square error (MSE) and mean absolute one-step prediction error (MAOSPE) results when we use a shorter length of the past data such as 7 and 3 time periods. Real COVID-19 data analysis of New Jersey and South Carolina shows similar results for the goodness of fit and short-term prediction results. Negative binomial-based mean models showed better performance when we used the past data of 52 time periods. Poisson-based mean models showed comparable goodness of fit performance and smaller MSE and MAOSPE results when we used the past data of 7 and 3 time periods. CONCLUSION(S): We evaluate these models and provide future infectious disease outbreak modeling guidelines for Bayesian spatiotemporal analysis. Our choice of the likelihood and spatiotemporal mean models was influenced by both historical data length and variability. With a longer length of past data usage and more over-dispersed data, the negative binomial likelihood shows a better model fit than the Poisson likelihood. However, as we use a shorter length of the past data for our surveillance analysis, the difference between the Poisson and the negative binomial models becomes smaller. In this case, the Poisson likelihood shows robust posterior mean estimate and short-term prediction results.Copyright © 2023. The Author(s).},
+   keywords = {Bayes theorem
+*communicable disease/ep [Epidemiology]
+*coronavirus disease 2019/ep [Epidemiology]
+human
+pandemic
+prospective study
+statistical model},
+   ISSN = {1471-2288 (electronic)
+1471-2288},
+   DOI = {https://dx.doi.org/10.1186/s12874-023-01987-5},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=641859511},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5252,
+   author = {Kumar, Yogesh and Koul, Apeksha and Kaur, Sukhpreet and Hu, Yu-Chen},
+   title = {Machine Learning and Deep Learning Based Time Series Prediction and Forecasting of Ten Nations' COVID-19 Pandemic},
+   journal = {SN computer science},
+   volume = {4},
+   number = {1},
+   pages = {91},
+   abstract = {In the paper, the authors investigated and predicted the future environmental circumstances of a COVID-19 to minimize its effects using artificial intelligence techniques. The experimental investigation of COVID-19 instances has been performed in ten countries, including India, the United States, Russia, Argentina, Brazil, Colombia, Italy, Turkey, Germany, and France using machine learning, deep learning, and time series models. The confirmed, deceased, and recovered datasets from January 22, 2020, to May 29, 2021, of Novel COVID-19 cases were considered from the Kaggle COVID dataset repository. The country-wise Exploratory Data Analysis visually represents the active, recovered, closed, and death cases from March 2020 to May 2021. The data are pre-processed and scaled using a MinMax scaler to extract and normalize the features to obtain an accurate prediction rate. The proposed methodology employs Random Forest Regressor, Decision Tree Regressor, K Nearest Regressor, Lasso Regression, Linear Regression, Bayesian Regression, Theilsen Regression, Kernel Ridge Regressor, RANSAC Regressor, XG Boost, Elastic Net Regressor, Facebook Prophet Model, Holt Model, Stacked Long Short-Term Memory, and Stacked Gated Recurrent Units to predict active COVID-19 confirmed, death, and recovered cases. Out of different machine learning, deep learning, and time series models, Random Forest Regressor, Facebook Prophet, and Stacked LSTM outperformed to predict the best results for COVID-19 instances with the lowest root-mean-square and highest R 2 score values. Copyright © The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd 2022, Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.},
+   ISSN = {2661-8907},
+   DOI = {https://dx.doi.org/10.1007/s42979-022-01493-3},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm8&NEWS=N&AN=36532634},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5251,
+   author = {Lima, Leonardo S.},
+   title = {Dynamics based on analysis of public data for spreading of disease},
+   journal = {Scientific reports},
+   volume = {11},
+   number = {1},
+   pages = {12177},
+   abstract = {The stochastic model for epidemic spreading of the novel coronavirus disease based on the data set supply by the public health agencies in countries as Brazil, United States and India is investigated. We perform a numerical analysis using the stochastic differential equation in Ito's calculus for the estimating of novel cases daily, as well as analytical calculations solving the correspondent Fokker-Planck equation for the probability density distribution of novel cases, P(N(t), t). Our results display that the model based in the Ito's diffusion fits well to the results due to uncertainty in the official data and to the number of tests realized in populations of each country.},
+   keywords = {*COVID-19/ep [Epidemiology]
+*COVID-19/tm [Transmission]
+*Databases, Factual
+Humans
+*Models, Statistical
+Stochastic Processes
+Uncertainty},
+   ISSN = {2045-2322},
+   DOI = {https://dx.doi.org/10.1038/s41598-021-91024-6},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med20&NEWS=N&AN=34108505},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5271,
+   author = {Meakin, S. and Abbott, S. and Bosse, N. and Munday, J. and Gruson, H. and Hellewell, J. and Sherratt, K. and Chapman, L. A. C. and Prem, K. and Klepac, P. and Jombart, T. and Knight, G. M. and Jafari, Y. and Flasche, S. and Waites, W. and Jit, M. and Eggo, R. M. and Villabona-Arenas, C. J. and Russell, T. W. and Medley, G. and Edmunds, W. J. and Davies, N. G. and Liu, Y. and Hue, S. and Brady, O. and Pung, R. and Abbas, K. and Gimma, A. and Mee, P. and Endo, A. and Clifford, S. and Sun, F. Y. and McCarthy, C. V. and Quilty, B. J. and Rosello, A. and Sandmann, F. G. and Barnard, R. C. and Kucharski, A. J. and Procter, S. R. and Jarvis, C. I. and Gibbs, H. P. and Hodgson, D. and Lowe, R. and Atkins, K. E. and Koltai, M. and Pearson, C. A. B. and Finch, E. and Wong, K. L. M. and Quaife, M. and O'Reilly, K. and Tully, D. C. and Funk, S.},
+   title = {Comparative assessment of methods for short-term forecasts of COVID-19 hospital admissions in England at the local level},
+   journal = {BMC Medicine},
+   volume = {20},
+   number = {1},
+   pages = {86},
+   abstract = {Background: Forecasting healthcare demand is essential in epidemic settings, both to inform situational awareness and facilitate resource planning. Ideally, forecasts should be robust across time and locations. During the COVID-19 pandemic in England, it is an ongoing concern that demand for hospital care for COVID-19 patients in England will exceed available resources. Method(s): We made weekly forecasts of daily COVID-19 hospital admissions for National Health Service (NHS) Trusts in England between August 2020 and April 2021 using three disease-agnostic forecasting models: a mean ensemble of autoregressive time series models, a linear regression model with 7-day-lagged local cases as a predictor, and a scaled convolution of local cases and a delay distribution. We compared their point and probabilistic accuracy to a mean-ensemble of them all and to a simple baseline model of no change from the last day of admissions. We measured predictive performance using the weighted interval score (WIS) and considered how this changed in different scenarios (the length of the predictive horizon, the date on which the forecast was made, and by location), as well as how much admissions forecasts improved when future cases were known. Result(s): All models outperformed the baseline in the majority of scenarios. Forecasting accuracy varied by forecast date and location, depending on the trajectory of the outbreak, and all individual models had instances where they were the top- or bottom-ranked model. Forecasts produced by the mean-ensemble were both the most accurate and most consistently accurate forecasts amongst all the models considered. Forecasting accuracy was improved when using future observed, rather than forecast, cases, especially at longer forecast horizons. Conclusion(s): Assuming no change in current admissions is rarely better than including at least a trend. Using confirmed COVID-19 cases as a predictor can improve admissions forecasts in some scenarios, but this is variable and depends on the ability to make consistently good case forecasts. However, ensemble forecasts can make forecasts that make consistently more accurate forecasts across time and locations. Given minimal requirements on data and computation, our admissions forecasting ensemble could be used to anticipate healthcare needs in future epidemic or pandemic settings.Copyright © 2022, The Author(s).},
+   keywords = {article
+comparative study
+controlled study
+*coronavirus disease 2019/ep [Epidemiology]
+data accuracy
+England
+*forecasting
+health care access
+health care need
+*hospital admission
+hospital care
+human
+national health service
+pandemic/ep [Epidemiology]},
+   ISSN = {1741-7015 (electronic)
+1741-7015},
+   DOI = {https://dx.doi.org/10.1186/s12916-022-02271-x},
+   url = {http://www.biomedcentral.com/bmcmed/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2015104224},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5272,
+   author = {Naeem, Muhammad and Yu, Jian and Aamir, Muhammad and Khan, Sajjad Ahmad and Adeleye, Olayinka and Khan, Zardad},
+   title = {Comparative analysis of machine learning approaches to analyze and predict the COVID-19 outbreak},
+   journal = {PeerJ. Computer science},
+   volume = {7},
+   pages = {e746},
+   abstract = {BACKGROUND: Forecasting the time of forthcoming pandemic reduces the impact of diseases by taking precautionary steps such as public health messaging and raising the consciousness of doctors. With the continuous and rapid increase in the cumulative incidence of COVID-19, statistical and outbreak prediction models including various machine learning (ML) models are being used by the research community to track and predict the trend of the epidemic, and also in developing appropriate strategies to combat and manage its spread., METHODS: In this paper, we present a comparative analysis of various ML approaches including Support Vector Machine, Random Forest, K-Nearest Neighbor and Artificial Neural Network in predicting the COVID-19 outbreak in the epidemiological domain. We first apply the autoregressive distributed lag (ARDL) method to identify and model the short and long-run relationships of the time-series COVID-19 datasets. That is, we determine the lags between a response variable and its respective explanatory time series variables as independent variables. Then, the resulting significant variables concerning their lags are used in the regression model selected by the ARDL for predicting and forecasting the trend of the epidemic., RESULTS: Statistical measures-Root Mean Square Error (RMSE), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE) and Symmetric Mean Absolute Percentage Error (SMAPE)-are used for model accuracy. The values of MAPE for the best-selected models for confirmed, recovered and deaths cases are 0.003, 0.006 and 0.115, respectively, which falls under the category of highly accurate forecasts. In addition, we computed 15 days ahead forecast for the daily deaths, recovered, and confirm patients and the cases fluctuated across time in all aspects. Besides, the results reveal the advantages of ML algorithms for supporting the decision-making of evolving short-term policies. Copyright © 2021 Naeem et al.},
+   ISSN = {2376-5992},
+   DOI = {https://dx.doi.org/10.7717/peerj-cs.746},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=35036527},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5273,
+   author = {Nicora, Giovanna and Catalano, Michele and Bortolotto, Chandra and Achilli, Marina Francesca and Messana, Gaia and Lo Tito, Antonio and Consonni, Alessio and Cutti, Sara and Comotto, Federico and Stella, Giulia Maria and Corsico, Angelo and Perlini, Stefano and Bellazzi, Riccardo and Bruno, Raffaele and Preda, Lorenzo},
+   title = {Bayesian Networks in the Management of Hospital Admissions: A Comparison between Explainable AI and Black Box AI during the Pandemic},
+   journal = {Journal of imaging},
+   volume = {10},
+   number = {5},
+   abstract = {Artificial Intelligence (AI) and Machine Learning (ML) approaches that could learn from large data sources have been identified as useful tools to support clinicians in their decisional process; AI and ML implementations have had a rapid acceleration during the recent COVID-19 pandemic. However, many ML classifiers are "black box" to the final user, since their underlying reasoning process is often obscure. Additionally, the performance of such models suffers from poor generalization ability in the presence of dataset shifts. Here, we present a comparison between an explainable-by-design ("white box") model (Bayesian Network (BN)) versus a black box model (Random Forest), both studied with the aim of supporting clinicians of Policlinico San Matteo University Hospital in Pavia (Italy) during the triage of COVID-19 patients. Our aim is to evaluate whether the BN predictive performances are comparable with those of a widely used but less explainable ML model such as Random Forest and to test the generalization ability of the ML models across different waves of the pandemic.},
+   ISSN = {2313-433X},
+   DOI = {https://dx.doi.org/10.3390/jimaging10050117},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=38786571},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN5274,
+   author = {Pena, Victor Hugo and Espinosa, Alejandra},
+   title = {[Predictive modeling to estimate the demand for intensive care hospital beds nationwide in the context of the COVID-19 pandemic]},
+   journal = {Modelamiento predictivo para el calculo de demanda de camas hospitalarias de cuidados intensivos a nivel nacional en el marco de la pandemia por COVID-19.},
+   volume = {20},
+   number = {9},
+   pages = {e8039},
+   abstract = {INTRODUCTION: SARS CoV-2 pandemic is pressing hard on the responsiveness of health systems worldwide, notably concerning the massive surge in demand for intensive care hospital beds., AIM: This study proposes a methodology to estimate the saturation moment of hospital intensive care beds (critical care beds) and determine the number of units required to compensate for this saturation., METHODS: A total of 22,016 patients with diagnostic confirmation for COVID-19 caused by SARS-CoV-2 were analyzed between March 4 and May 5, 2020, nationwide. Based on information from the Chilean Ministry of Health and ministerial announcements in the media, the overall availability of critical care beds was estimated at 1,900 to 2,000. The Gompertz function was used to estimate the expected number of COVID-19 patients and to assess their exposure to the available supply of intensive care beds in various possible scenarios, taking into account the supply of total critical care beds, the average occupational index, and the demand for COVID-19 patients who would require an intensive care bed., RESULTS: A 100% occupancy of critical care beds could be reached between May 11 and May 27. This condition could be extended for around 48 days, depending on how the expected over-demand is managed., CONCLUSION: A simple, easily interpretable, and applicable to all levels (nationwide, regionwide, municipalities, and hospitals) model is offered as a contribution to managing the expected demand for the coming weeks and helping reduce the adverse effects of the COVID-19 pandemic.},
+   keywords = {COVID-19
+Chile/ep [Epidemiology]
+*Coronavirus Infections/ep [Epidemiology]
+*Hospital Bed Capacity/sn [Statistics & Numerical Data]
+Humans
+*Intensive Care Units/sd [Supply & Distribution]
+*Models, Statistical
+Pandemics
+*Pneumonia, Viral/ep [Epidemiology]},
+   ISSN = {0717-6384},
+   DOI = {https://dx.doi.org/10.5867/medwave.2020.09.8039},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=33031358},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5275,
+   author = {Perone, G.},
+   title = {Comparison of ARIMA, ETS, NNAR, TBATS and hybrid models to forecast the second wave of COVID-19 hospitalizations in Italy},
+   journal = {European Journal of Health Economics},
+   volume = {23},
+   number = {6},
+   pages = {917-940},
+   abstract = {The coronavirus disease (COVID-19) is a severe, ongoing, novel pandemic that emerged in Wuhan, China, in December 2019. As of January 21, 2021, the virus had infected approximately 100 million people, causing over 2 million deaths. This article analyzed several time series forecasting methods to predict the spread of COVID-19 during the pandemic's second wave in Italy (the period after October 13, 2020). The autoregressive moving average (ARIMA) model, innovations state space models for exponential smoothing (ETS), the neural network autoregression (NNAR) model, the trigonometric exponential smoothing state space model with Box-Cox transformation, ARMA errors, and trend and seasonal components (TBATS), and all of their feasible hybrid combinations were employed to forecast the number of patients hospitalized with mild symptoms and the number of patients hospitalized in the intensive care units (ICU). The data for the period February 21, 2020-October 13, 2020 were extracted from the website of the Italian Ministry of Health (www.salute.gov.it). The results showed that (i) hybrid models were better at capturing the linear, nonlinear, and seasonal pandemic patterns, significantly outperforming the respective single models for both time series, and (ii) the numbers of COVID-19-related hospitalizations of patients with mild symptoms and in the ICU were projected to increase rapidly from October 2020 to mid-November 2020. According to the estimations, the necessary ordinary and intensive care beds were expected to double in 10 days and to triple in approximately 20 days. These predictions were consistent with the observed trend, demonstrating that hybrid models may facilitate public health authorities' decision-making, especially in the short-term.Copyright © 2021, The Author(s).},
+   keywords = {adult
+article
+artificial neural network
+autocorrelation
+comparative study
+*coronavirus disease 2019/di [Diagnosis]
+*coronavirus disease 2019/ep [Epidemiology]
+decision making
+deep neural network
+empirical mode decomposition
+feasibility study
+feed forward neural network
+generalized regression neural network
+hospital patient
+human
+intensive care
+Italy
+mathematical model
+mean absolute error
+observational study
+pandemic
+prediction
+*predictive model
+public health
+radial basis function neural network
+random forest
+ridge regression
+root mean squared error
+seasonal variation
+social media
+statistical model
+support vector machine
+time series analysis
+*autoregressive moving average
+*box cox transformation
+*exponential smoothing
+*neural network autoregression
+*trigonometric exponential smoothing state space},
+   ISSN = {1618-7598
+1618-7601},
+   DOI = {https://dx.doi.org/10.1007/s10198-021-01347-4},
+   url = {https://link.springer.de/link/service/journals/10198/index.htm
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2013355612},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5276,
+   author = {Purkayastha, S. and Bhattacharyya, R. and Bhaduri, R. and Kundu, R. and Gu, X. and Salvatore, M. and Ray, D. and Mishra, S. and Mukherjee, B.},
+   title = {A comparison of five epidemiological models for transmission of SARS-CoV-2 in India},
+   journal = {BMC Infectious Diseases},
+   volume = {21},
+   number = {1},
+   pages = {533},
+   abstract = {Background: Many popular disease transmission models have helped nations respond to the COVID-19 pandemic by informing decisions about pandemic planning, resource allocation, implementation of social distancing measures, lockdowns, and other non-pharmaceutical interventions. We study how five epidemiological models forecast and assess the course of the pandemic in India: a baseline curve-fitting model, an extended SIR (eSIR) model, two extended SEIR (SAPHIRE and SEIR-fansy) models, and a semi-mechanistic Bayesian hierarchical model (ICM). Method(s): Using COVID-19 case-recovery-death count data reported in India from March 15 to October 15 to train the models, we generate predictions from each of the five models from October 16 to December 31. To compare prediction accuracy with respect to reported cumulative and active case counts and reported cumulative death counts, we compute the symmetric mean absolute prediction error (SMAPE) for each of the five models. For reported cumulative cases and deaths, we compute Pearson's and Lin's correlation coefficients to investigate how well the projected and observed reported counts agree. We also present underreporting factors when available, and comment on uncertainty of projections from each model. Result(s): For active case counts, SMAPE values are 35.14% (SEIR-fansy) and 37.96% (eSIR). For cumulative case counts, SMAPE values are 6.89% (baseline), 6.59% (eSIR), 2.25% (SAPHIRE) and 2.29% (SEIR-fansy). For cumulative death counts, the SMAPE values are 4.74% (SEIR-fansy), 8.94% (eSIR) and 0.77% (ICM). Three models (SAPHIRE, SEIR-fansy and ICM) return total (sum of reported and unreported) cumulative case counts as well. We compute underreporting factors as of October 31 and note that for cumulative cases, the SEIR-fansy model yields an underreporting factor of 7.25 and ICM model yields 4.54 for the same quantity. For total (sum of reported and unreported) cumulative deaths the SEIR-fansy model reports an underreporting factor of 2.97. On October 31, we observe 8.18 million cumulative reported cases, while the projections (in millions) from the baseline model are 8.71 (95% credible interval: 8.63-8.80), while eSIR yields 8.35 (7.19-9.60), SAPHIRE returns 8.17 (7.90-8.52) and SEIR-fansy projects 8.51 (8.18-8.85) million cases. Cumulative case projections from the eSIR model have the highest uncertainty in terms of width of 95% credible intervals, followed by those from SAPHIRE, the baseline model and finally SEIR-fansy. Conclusion(s): In this comparative paper, we describe five different models used to study the transmission dynamics of the SARS-Cov-2 virus in India. While simulation studies are the only gold standard way to compare the accuracy of the models, here we were uniquely poised to compare the projected case-counts against observed data on a test period. The largest variability across models is observed in predicting the "total" number of infections including reported and unreported cases (on which we have no validation data). The degree of under-reporting has been a major concern in India and is characterized in this report. Overall, the SEIR-fansy model appeared to be a good choice with publicly available R-package and desired flexibility plus accuracy.Copyright © 2021, The Author(s).},
+   keywords = {algorithm
+comparative study
+computer model
+*coronavirus disease 2019/ep [Epidemiology]
+gold standard
+human
+India
+measurement accuracy
+mortality rate
+nonhuman
+pandemic
+prediction
+process model
+review
+sample size
+Severe acute respiratory syndrome coronavirus 2
+*virus transmission},
+   ISSN = {1471-2334 (electronic)
+1471-2334},
+   DOI = {https://dx.doi.org/10.1186/s12879-021-06077-9},
+   url = {http://www.biomedcentral.com/bmcinfectdis/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2012340733},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5277,
+   author = {Rguig, A. and Cherkaoui, I. and McCarron, M. and Oumzil, H. and Triki, S. and Elmbarki, H. and Bimouhen, A. and El Falaki, F. and Regragui, Z. and Ihazmad, H. and Nejjari, C. and Youbi, M.},
+   title = {Establishing seasonal and alert influenza thresholds in Morocco},
+   journal = {BMC public health},
+   volume = {20},
+   number = {1},
+   pages = {1029},
+   abstract = {BACKGROUND: Several statistical methods of variable complexity have been developed to establish thresholds for influenza activity that may be used to inform public health guidance. We compared the results of two methods and explored how they worked to characterize the 2018 influenza season performance-2018 season. METHOD(S): Historical data from the 2005/2006 to 2016/2018 influenza season performance seasons were provided by a network of 412 primary health centers in charge of influenza like illness (ILI) sentinel surveillance. We used the WHO averages and the moving epidemic method (MEM) to evaluate the proportion of ILI visits among all outpatient consultations (ILI%) as a proxy for influenza activity. We also used the MEM method to evaluate three seasons of composite data (ILI% multiplied by percent of ILI with laboratory-confirmed influenza) as recommended by WHO. RESULT(S): The WHO method estimated the seasonal ILI% threshold at 0.9%. The annual epidemic period began on average at week 46 and lasted an average of 18weeks. The MEM model estimated the epidemic threshold (corresponding to the WHO seasonal threshold) at 1.5% of ILI visits among all outpatient consultations. The annual epidemic period began on week 49 and lasted on average 14weeks. Intensity thresholds were similar using both methods. When using the composite measure, the MEM method showed a clearer estimate of the beginning of the influenza epidemic, which was coincident with a sharp increase in confirmed ILI cases. CONCLUSION(S): We found that the threshold methodology presented in the WHO manual is simple to implement and easy to adopt for use by the Moroccan influenza surveillance system. The MEM method is more statistically sophisticated and may allow a better detection of the start of seasonal epidemics. Incorporation of virologic data into the composite parameter as recommended by WHO has the potential to increase the accuracy of seasonal threshold estimation.},
+   keywords = {ambulatory care
+disease notification
+epidemic
+human
+influenza/ep [Epidemiology]
+measurement accuracy
+Morocco
+patient referral
+public health
+season
+*sentinel surveillance
+World Health Organization},
+   ISSN = {1471-2458 (electronic)
+1471-2458},
+   DOI = {https://dx.doi.org/10.1186/s12889-020-09145-y},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=632237457},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5278,
+   author = {Sah, S. and Surendiran, B. and Dhanalakshmi, R. and Mohanty, S. N. and Alenezi, F. and Polat, K.},
+   title = {Forecasting COVID-19 Pandemic Using Prophet, ARIMA, and Hybrid Stacked LSTM-GRU Models in India},
+   journal = {Computational and Mathematical Methods in Medicine},
+   volume = {2022},
+   pages = {1556025},
+   abstract = {Due to the proliferation of COVID-19, the world is in a terrible condition and human life is at risk. The SARS-CoV-2 virus had a significant impact on public health, social issues, and financial issues. Thousands of individuals are infected on a regular basis in India, which is one of the populations most seriously impacted by the pandemic. Despite modern medical and technical technology, predicting the spread of the virus has been extremely difficult. Predictive models have been used by health systems such as hospitals, to get insight into the influence of COVID-19 on outbreaks and possible resources, by minimizing the dangers of transmission. As a result, the main focus of this research is on building a COVID-19 predictive analytic technique. In the Indian dataset, Prophet, ARIMA, and stacked LSTM-GRU models were employed to forecast the number of confirmed and active cases. State-of-the-art models such as the recurrent neural network (RNN), gated recurrent unit (GRU), long short-term memory (LSTM), linear regression, polynomial regression, autoregressive integrated moving average (ARIMA), and Prophet were used to compare the outcomes of the prediction. After predictive research, the stacked LSTM-GRU model forecast was found to be more consistent than existing models, with better prediction results. Although the stacked model necessitates a large dataset for training, it aids in creating a higher level of abstraction in the final results and the maximization of the model's memory size. The GRU, on the other hand, assists in vanishing gradient resolution. The study findings reveal that the proposed stacked LSTM and GRU model outperforms all other models in terms of R square and RMSE and that the coupled stacked LSTM and GRU model outperforms all other models in terms of R square and RMSE. This forecasting aids in determining the future transmission paths of the virus.Copyright © 2022 Sweeti Sah et al.},
+   keywords = {article
+autocorrelation
+controlled study
+*coronavirus disease 2019/ep [Epidemiology]
+data analysis
+epidemic
+*gated recurrent unit network
+health status
+human
+India
+linear regression analysis
+*long short term memory network
+outcome assessment
+pandemic
+polynomial regression analysis
+predictive model
+predictive value
+recurrent neural network
+seasonal variation
+*autoregressive integrated moving average},
+   ISSN = {1748-670X
+1748-6718},
+   DOI = {https://dx.doi.org/10.1155/2022/1556025},
+   url = {http://www.hindawi.com/journals/cmmm/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2018196256},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5279,
+   author = {Sciannameo, Veronica and Azzolina, Danila and Lanera, Corrado and Acar, Aslihan Senturk and Corciulo, Maria Assunta and Comoretto, Rosanna Irene and Berchialla, Paola and Gregori, Dario},
+   title = {Fitting Early Phases of the COVID-19 Outbreak: A Comparison of the Performances of Used Models},
+   journal = {Healthcare (Basel, Switzerland)},
+   volume = {11},
+   number = {16},
+   abstract = {The COVID-19 outbreak involved a spread of prediction efforts, especially in the early pandemic phase. A better understanding of the epidemiological implications of the different models seems crucial for tailoring prevention policies. This study aims to explore the concordance and discrepancies in outbreak prediction produced by models implemented and used in the first wave of the epidemic. To evaluate the performance of the model, an analysis was carried out on Italian pandemic data from February 24, 2020. The epidemic models were fitted to data collected at 20, 30, 40, 50, 60, 70, 80, 90, and 98 days (the entire time series). At each time step, we made predictions until May 31, 2020. The Mean Absolute Error (MAE) and the Mean Absolute Percentage Error (MAPE) were calculated. The GAM model is the most suitable parameterization for predicting the number of new cases; exponential or Poisson models help predict the cumulative number of cases. When the goal is to predict the epidemic peak, GAM, ARIMA, or Bayesian models are preferable. However, the prediction of the pandemic peak could be made carefully during the early stages of the epidemic because the forecast is affected by high uncertainty and may very likely produce the wrong results.},
+   ISSN = {2227-9032},
+   DOI = {https://dx.doi.org/10.3390/healthcare11162363},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm8&NEWS=N&AN=37628560},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5280,
+   author = {Tapak, L. and Hamidi, O. and Fathian, M. and Karami, M.},
+   title = {Comparative evaluation of time series models for predicting influenza outbreaks: application of influenza-like illness data from sentinel sites of healthcare centers in Iran},
+   journal = {BMC research notes},
+   volume = {12},
+   number = {1},
+   pages = {353},
+   abstract = {OBJECTIVE: Forecasting the time of future outbreaks would minimize the impact of diseases by taking preventive steps including public health messaging and raising awareness of clinicians for timely treatment and diagnosis. The present study investigated the accuracy of support vector machine, artificial neural-network, and random-forest time series models in influenza like illness (ILI) modeling and outbreaks detection. The models were applied to a data set of weekly ILI frequencies in Iran. The root mean square errors (RMSE), mean absolute errors (MAE), and intra-class correlation coefficient (ICC) statistics were employed as evaluation criteria. RESULT(S): It was indicated that the random-forest time series model outperformed other three methods in modeling weekly ILI frequencies (RMSE=22.78, MAE=14.99 and ICC=0.88 for the test set). In addition neural-network was better in outbreaks detection with total accuracy of 0.889 for the test set. The results showed that the used time series models had promising performances suggesting they could be effectively applied for predicting weekly ILI frequencies and outbreaks.},
+   keywords = {comparative study
+epidemic
+*health care facility
+human
+influenza/ep [Epidemiology]
+Iran
+*statistical model
+time factor},
+   ISSN = {1756-0500 (electronic)
+1756-0500},
+   DOI = {https://dx.doi.org/10.1186/s13104-019-4393-y},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=628503288},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5281,
+   author = {Tariq, M. U. and Ismail, S. B.},
+   title = {Deep learning in public health: Comparative predictive models for COVID-19 case forecasting},
+   journal = {PLoS ONE},
+   volume = {19},
+   number = {3 March},
+   pages = {e0294289},
+   abstract = {The COVID-19 pandemic has had a significant impact on both the United Arab Emirates (UAE) and Malaysia, emphasizing the importance of developing accurate and reliable forecasting mechanisms to guide public health responses and policies. In this study, we compared several cutting-edge deep learning models, including Long Short-Term Memory (LSTM), bidirectional LSTM, Convolutional Neural Networks (CNN), hybrid CNN-LSTM, Multilayer Perceptron's, and Recurrent Neural Networks (RNN), to project COVID-19 cases in the aforementioned regions. These models were calibrated and evaluated using a comprehensive dataset that includes confirmed case counts, demographic data, and relevant socioeconomic factors. To enhance the performance of these models, Bayesian optimization techniques were employed. Subsequently, the models were re-evaluated to compare their effectiveness. Analytic approaches, both predictive and retrospective in nature, were used to interpret the data. Our primary objective was to determine the most effective model for predicting COVID-19 cases in the United Arab Emirates (UAE) and Malaysia. The findings indicate that the selected deep learning algorithms were proficient in forecasting COVID-19 cases, although their efficacy varied across different models. After a thorough evaluation, the model architectures most suitable for the specific conditions in the UAE and Malaysia were identified. Our study contributes significantly to the ongoing efforts to combat the COVID-19 pandemic, providing crucial insights into the application of sophisticated deep learning algorithms for the precise and timely forecasting of COVID-19 cases. These insights hold substantial value for shaping public health strategies, enabling authorities to develop targeted and evidence-based interventions to manage the virus spread and its impact on the populations of the UAE and Malaysia. The study confirms the usefulness of deep learning methodologies in efficiently processing complex datasets and generating reliable projections, a skill of great importance in healthcare and professional settings.Copyright © 2024 Tariq, Ismail. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+artificial intelligence
+artificial neural network
+Bayesian network
+computer assisted tomography
+convolutional neural network
+*coronavirus disease 2019
+*deep learning
+*forecasting
+health care facility
+health care system
+human
+learning algorithm
+long short term memory network
+machine learning
+Malaysia
+multilayer perceptron
+pandemic
+*predictive model
+*public health
+recurrent neural network
+retrospective study
+socioeconomics
+United Arab Emirates},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0294289},
+   url = {https://journals.plos.org//plosone/article?id=10.1371/journal.pone.0294289
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2031002245},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN5282,
+   author = {Ward, M. A. and Stanley, A. and Deeth, L. E. and Deardon, R. and Feng, Z. and Trotz-Williams, L. A.},
+   title = {Methods for detecting seasonal influenza epidemics using a school absenteeism surveillance system},
+   journal = {BMC public health},
+   volume = {19},
+   number = {1},
+   pages = {1232},
+   abstract = {BACKGROUND: School absenteeism data have been collected daily by the public health unit in Wellington-Dufferin-Guelph, Ontario since 2008. To date, a threshold-based approach has been implemented to raise alerts for community-wide and within-school illness outbreaks. We investigate several statistical modelling approaches to using school absenteeism for influenza surveillance at the regional level, and compare their performances using two metrics. METHOD(S): Daily absenteeism percentages from elementary and secondary schools, and report dates for influenza cases, were obtained from Wellington-Dufferin-Guelph Public Health. Several absenteeism data aggregations were explored, including using the average across all schools or only using schools of one type. A 10% absence threshold, exponentially weighted moving average model, logistic regression with and without seasonality terms, day of week indicators, and random intercepts for school year, and generalized estimating equations were used as epidemic detection methods for seasonal influenza. In the regression models, absenteeism data with various lags were used as predictor variables, and missing values in the datasets used for parameter estimation were handled either by deletion or linear interpolation. The epidemic detection methods were compared using a false alarm rate (FAR) as well as a metric for alarm timeliness. RESULT(S): All model-based epidemic detection methods were found to decrease the FAR when compared to the 10% absence threshold. Regression models outperformed the exponentially weighted moving average model and including seasonality terms and a random intercept for school year generally resulted in fewer false alarms. The best-performing model, a seasonal logistic regression model with random intercept for school year and a day of week indicator where parameters were estimated using absenteeism data that had missing values linearly interpolated, produced a FAR of 0.299, compared to the pre-existing threshold method which at best gave a FAR of 0.827. CONCLUSION(S): School absenteeism can be a useful tool for alerting public health to upcoming influenza epidemics in Wellington-Dufferin-Guelph. Logistic regression with seasonality terms and a random intercept for school year was effective at maximizing true alarms while minimizing false alarms on historical data from this region.},
+   keywords = {*absenteeism
+adolescent
+child
+*epidemic
+health survey
+human
+influenza/ep [Epidemiology]
+Ontario
+*procedures
+*school
+season},
+   ISSN = {1471-2458 (electronic)
+1471-2458},
+   DOI = {https://dx.doi.org/10.1186/s12889-019-7521-7},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=629231070},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5283,
+   author = {Wei, Wudi and Wang, Gang and Tao, Xing and Luo, Qiang and Chen, Lixiang and Bao, Xiuli and Liu, Yuxuan and Jiang, Junjun and Liang, Hao and Ye, Li},
+   title = {Time series prediction for the epidemic trends of monkeypox using the ARIMA, exponential smoothing, GM (1, 1) and LSTM deep learning methods},
+   journal = {The Journal of general virology},
+   volume = {104},
+   number = {4},
+   abstract = {Monkeypox is a critical public health emergency with international implications. Few confirmed monkeypox cases had previously been reported outside endemic countries. However, since May 2022, the number of monkeypox infections has increased exponentially in non-endemic countries, especially in North America and Europe. The objective of this study was to develop optimal models for predicting daily cumulative confirmed monkeypox cases to help improve public health strategies. Autoregressive integrated moving average (ARIMA), exponential smoothing, long short-term memory (LSTM) and GM (1, 1) models were employed to fit the cumulative cases in the world, the USA, Spain, Germany, the UK and France. Performance was evaluated by minimum mean absolute percentage error (MAPE), among other metrics. The ARIMA (2, 2, 1) model performed best on the global monkeypox dataset, with a MAPE value of 0.040, while ARIMA (2, 2, 3) performed the best on the USA and French datasets, with MAPE values of 0.164 and 0.043, respectively. The exponential smoothing model showed superior performance on the Spanish, German and UK datasets, with MAPE values of 0.043, 0.015 and 0.021, respectively. In conclusion, an appropriate model should be selected according to the local epidemic characteristics, which is crucial for monitoring the monkeypox epidemic. Monkeypox epidemics remain severe, especially in North America and Europe, e.g. in the USA and Spain. The development of a comprehensive, evidence-based scientific programme at all levels is critical to controlling the spread of monkeypox infection.},
+   keywords = {Humans
+*Deep Learning
+*Mpox (monkeypox)
+Time Factors
+*Epidemics
+France/ep [Epidemiology]
+Models, Statistical},
+   ISSN = {1465-2099
+0022-1317},
+   DOI = {https://dx.doi.org/10.1099/jgv.0.001839},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med23&NEWS=N&AN=37022959},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5284,
+   author = {White, L. A. and McCorvie, R. and Crow, D. and Jain, S. and Leon, T. M.},
+   title = {Assessing the accuracy of California county level COVID-19 hospitalization forecasts to inform public policy decision making},
+   journal = {BMC public health},
+   volume = {23},
+   number = {1},
+   pages = {782},
+   abstract = {BACKGROUND: The COVID-19 pandemic has highlighted the role of infectious disease forecasting in informing public policy. However, significant barriers remain for effectively linking infectious disease forecasts to public health decision making, including a lack of model validation. Forecasting model performance and accuracy should be evaluated retrospectively to understand under which conditions models were reliable and could be improved in the future. METHOD(S): Using archived forecasts from the California Department of Public Health's California COVID Assessment Tool ( https://calcat.covid19.ca.gov/cacovidmodels/ ), we compared how well different forecasting models predicted COVID-19 hospitalization census across California counties and regions during periods of Alpha, Delta, and Omicron variant predominance. RESULT(S): Based on mean absolute error estimates, forecasting models had variable performance across counties and through time. When accounting for model availability across counties and dates, some individual models performed consistently better than the ensemble model, but model rankings still differed across counties. Local transmission trends, variant prevalence, and county population size were informative predictors for determining which model performed best for a given county based on a random forest classification analysis. Overall, the ensemble model performed worse in less populous counties, in part because of fewer model contributors in these locations. CONCLUSION(S): Ensemble model predictions could be improved by incorporating geographic heterogeneity in model coverage and performance. Consistency in model reporting and improved model validation can strengthen the role of infectious disease forecasting in real-time public health decision making.Copyright © 2023. The Author(s).},
+   keywords = {California
+*communicable disease/ep [Epidemiology]
+*coronavirus disease 2019/ep [Epidemiology]
+decision making
+forecasting
+hospitalization
+human
+pandemic
+public policy
+retrospective study
+Severe acute respiratory syndrome coronavirus 2},
+   ISSN = {1471-2458 (electronic)
+1471-2458},
+   DOI = {https://dx.doi.org/10.1186/s12889-023-15649-0},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=641166056},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5285,
+   author = {Yan, Z. and Wang, D. and Yang, M. and Li, Z. and Gong, X. and Wu, D. and Zhai, L. and Zhang, W. and Wang, Y.},
+   title = {Prediction and analysis of COVID-19 daily new cases and cumulative cases: times series forecasting and machine learning models},
+   journal = {BMC Infectious Diseases},
+   volume = {22},
+   number = {1},
+   pages = {495},
+   abstract = {Background: COVID-19 poses a severe threat to global human health, especially the USA, Brazil, and India cases continue to increase dynamically, which has a far-reaching impact on people's health, social activities, and the local economic situation. Method(s): The study proposed the ARIMA, SARIMA and Prophet models to predict daily new cases and cumulative confirmed cases in the USA, Brazil and India over the next 30 days based on the COVID-19 new confirmed cases and cumulative confirmed cases data set(May 1, 2020, and November 30, 2021) published by the official WHO, Three models were implemented in the R 4.1.1 software with forecast and prophet package. The performance of different models was evaluated by using root mean square error (RMSE), mean absolute error (MAE) and mean absolute percentage error (MAPE). Result(s): Through the fitting and prediction of daily new case data, we reveal that the Prophet model has more advantages in the prediction of the COVID-19 of the USA, which could compose data components and capture periodic characteristics when the data changes significantly, while SARIMA is more likely to appear over-fitting in the USA. And the SARIMA model captured a seven-day period hidden in daily COVID-19 new cases from 3 countries. While in the prediction of new cumulative cases, the ARIMA model has a better ability to fit and predict the data with a positive growth trend in different countries(Brazil and India). Conclusion(s): This study can shed light on understanding the outbreak trends and give an insight into the epidemiological control of these regions. Further, the prediction of the Prophet model showed sufficient accuracy in the daily COVID-19 new cases of the USA. The ARIMA model is suitable for predicting Brazil and India, which can help take precautions and policy formulation for this epidemic in other countries.Copyright © 2022, The Author(s).},
+   keywords = {article
+Brazil
+controlled study
+*coronavirus disease 2019/ep [Epidemiology]
+*coronavirus disease 2019/pc [Prevention]
+disease surveillance
+epidemic/ep [Epidemiology]
+epidemic/pc [Prevention]
+*forecasting
+health care policy
+human
+India
+infection control
+*machine learning
+major clinical study
+morbidity
+prediction
+*time series analysis
+trend study
+United States
+World Health Organization},
+   ISSN = {1471-2334 (electronic)
+1471-2334},
+   DOI = {https://dx.doi.org/10.1186/s12879-022-07472-6},
+   url = {http://www.biomedcentral.com/bmcinfectdis/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2017244551},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5286,
+   author = {Zhang, Yangyi and Tang, Sui and Yu, Guo},
+   title = {An interpretable hybrid predictive model of COVID-19 cases using autoregressive model and LSTM},
+   journal = {Scientific reports},
+   volume = {13},
+   number = {1},
+   pages = {6708},
+   abstract = {The Coronavirus Disease 2019 (COVID-19) has had a profound impact on global health and economy, making it crucial to build accurate and interpretable data-driven predictive models for COVID-19 cases to improve public policy making. The extremely large scale of the pandemic and the intrinsically changing transmission characteristics pose a great challenge for effectively predicting COVID-19 cases. To address this challenge, we propose a novel hybrid model in which the interpretability of the Autoregressive model (AR) and the predictive power of the long short-term memory neural networks (LSTM) join forces. The proposed hybrid model is formalized as a neural network with an architecture that connects two composing model blocks, of which the relative contribution is decided data-adaptively in the training procedure. We demonstrate the favorable performance of the hybrid model over its two single composing models as well as other popular predictive models through comprehensive numerical studies on two data sources under multiple evaluation metrics. Specifically, in county-level data of 8 California counties, our hybrid model achieves 4.173% MAPE, outperforming the composing AR (5.629%) and LSTM (4.934%) alone on average. In country-level datasets, our hybrid model outperforms the widely-used predictive models such as AR, LSTM, Support Vector Machines, Gradient Boosting, and Random Forest, in predicting the COVID-19 cases in Japan, Canada, Brazil, Argentina, Singapore, Italy, and the United Kingdom. In addition to the predictive performance, we illustrate the interpretability of our proposed hybrid model using the estimated AR component, which is a key feature that is not shared by most black-box predictive models for COVID-19 cases. Our study provides a new and promising direction for building effective and interpretable data-driven models for COVID-19 cases, which could have significant implications for public health policy making and control of the current COVID-19 and potential future pandemics. Copyright © 2023. The Author(s).},
+   keywords = {Humans
+COVID-19/ep [Epidemiology]
+*COVID-19
+Neural Networks, Computer
+Global Health
+Forecasting
+Pandemics},
+   ISSN = {2045-2322},
+   DOI = {https://dx.doi.org/10.1038/s41598-023-33685-z},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med23&NEWS=N&AN=37185289},
+   year = {2023},
+   type = {Journal Article}
+}
+

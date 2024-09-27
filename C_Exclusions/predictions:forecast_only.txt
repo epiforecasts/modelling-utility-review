@@ -1,0 +1,1330 @@
+﻿@article{RN5338,
+   author = {Abbasimehr, Hossein and Paki, Reza},
+   title = {Prediction of COVID-19 confirmed cases combining deep learning methods and Bayesian optimization},
+   journal = {Chaos, solitons, and fractals},
+   volume = {142},
+   pages = {110511},
+   abstract = {COVID-19 virus has encountered people in the world with numerous problems. Given the negative impacts of COVID-19 on all aspects of people's lives, especially health and economy, accurately forecasting the number of cases infected with this virus can help governments to make accurate decisions on the interventions that must be taken. In this study, we propose three hybrid approaches for forecasting COVID-19 time series methods based on combining three deep learning models such as multi-head attention, long short-term memory (LSTM), and convolutional neural network (CNN) with the Bayesian optimization algorithm. All models are designed based on the multiple-output forecasting strategy, which allows the forecasting of the multiple time points. The Bayesian optimization method automatically selects the best hyperparameters for each model and enhances forecasting performance. Using the publicly available epidemical data acquired from Johns Hopkins University's Coronavirus Resource Center, we conducted our experiments and evaluated the proposed models against the benchmark model. The results of experiments exhibit the superiority of the deep learning models over the benchmark model both for short-term forecasting and long-horizon forecasting. In particular, the mean SMAPE of the best deep learning model is 0.25 for the short-term forecasting (10 days ahead). Also, for long-horizon forecasting, the best deep learning model obtains the mean SMAPE of 2.59. Copyright © 2020 Elsevier Ltd. All rights reserved.},
+   ISSN = {0960-0779},
+   DOI = {https://dx.doi.org/10.1016/j.chaos.2020.110511},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=33281305},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5337,
+   author = {Al-Aamri, A. K. and Al-Harrasi, A. A. and Aal-Abdulsalam, A. K. and Al-Maniri, A. A. and Padmadas, S. S.},
+   title = {Forecasting the SARS COVID-19 pandemic and critical care resources threshold in the Gulf Cooperation Council (GCC) countries: Population analysis of aggregate data},
+   journal = {BMJ Open},
+   volume = {11},
+   number = {5},
+   pages = {e044102},
+   abstract = {Objective To generate cross-national forecasts of COVID-19 trajectories and quantify the associated impact on essential critical care resources for disease management in Gulf Cooperation Council (GCC) countries. Design Population-level aggregate analysis. Setting Bahrain, Kuwait, Oman, Qatar, United Arab Emirates (UAE) and Saudi Arabia. Methods We applied an extended time-dependent SEICRD compartmental model to predict the flow of people between six states, susceptible-exposed-infected-critical-recovery-death, accounting for community mitigation strategies and the latent period between exposure and infected and contagious states. Then, we used the WHO Adaptt Surge Planning Tool to predict intensive care unit (ICU) and human resources capacity based on predicted daily active and cumulative infections from the SEICRD model. Main outcome measures Predicted COVID-19 infections, deaths, and ICU and human resources capacity for disease management. Results COVID-19 infections vary daily from 498 per million in Bahrain to over 300 per million in UAE and Qatar, to 9 per million in Saudi Arabia. The cumulative number of deaths varies from 302 per million in Oman to 89 in Qatar. UAE attained its first peak as early as 21 April 2020, whereas Oman had its peak on 29 August 2020. In absolute terms, Saudi Arabia is predicted to have the highest COVID-19 mortality burden, followed by UAE and Oman. The predicted maximum number of COVID-19-infected patients in need of oxygen therapy during the peak of emergency admissions varies between 690 in Bahrain, 1440 in Oman and over 10 000 in Saudi Arabia. Conclusion Although most GCC countries have managed to flatten the epidemiological curve by August 2020, trends since November 2020 show potential increase in new infections. The pandemic is predicted to recede by August 2021, provided the existing infection control measures continue effectively and consistently across all countries. Current health infrastructure including the provision of ICUs and nursing staff seem adequate, but health systems should keep ICUs ready to manage critically ill patients.Copyright © Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.},
+   keywords = {article
+Bahrain
+compartment model
+*coronavirus disease 2019
+disease management
+extracorporeal oxygenation
+*forecasting
+government
+health care
+human
+*intensive care
+intensive care unit
+Kuwait
+mortality
+Oman
+oxygen therapy
+*pandemic
+Qatar
+renal replacement therapy
+Saudi Arabia
+United Arab Emirates
+World Health Organization},
+   ISSN = {2044-6055 (electronic)
+2044-6055},
+   DOI = {https://dx.doi.org/10.1136/bmjopen-2020-044102},
+   url = {http://bmjopen.bmj.com/content/early/by/section
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=634995159},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5336,
+   author = {Ali, M. and Khan, D. M. and Aamir, M. and Khalil, U. and Khan, Z.},
+   title = {Forecasting COVID-19 in Pakistan},
+   journal = {PLoS ONE},
+   volume = {15},
+   number = {11 November},
+   pages = {e0242762},
+   abstract = {Objectives Forecasting epidemics like COVID-19 is of crucial importance, it will not only help the governments but also, the medical practitioners to know the future trajectory of the spread, which might help them with the best possible treatments, precautionary measures and protections. In this study, the popular autoregressive integrated moving average (ARIMA) will be used to forecast the cumulative number of confirmed, recovered cases, and the number of deaths in Pakistan from COVID-19 spanning June 25, 2020 to July 04, 2020 (10 days ahead forecast). Methods To meet the desire objectives, data for this study have been taken from the Ministry of National Health Service of Pakistan's website from February 27, 2020 to June 24, 2020. Two different ARIMA models will be used to obtain the next 10 days ahead point and 95% interval forecast of the cumulative confirmed cases, recovered cases, and deaths. Statistical software, RStudio, with "forecast", "ggplot2", "tseries", and "seasonal" packages have been used for data analysis. Results The forecasted cumulative confirmed cases, recovered, and the number of deaths up to July 04, 2020 are 231239 with a 95% prediction interval of (219648, 242832), 111616 with a prediction interval of (101063, 122168), and 5043 with a 95% prediction interval of (4791, 5295) respectively. Statistical measures i.e. root mean square error (RMSE) and mean absolute error (MAE) are used for model accuracy. It is evident from the analysis results that the ARIMA and seasonal ARIMA model is better than the other time series models in terms of forecasting accuracy and hence recommended to be used for forecasting epidemics like COVID-19. Conclusion It is concluded from this study that the forecasting accuracy of ARIMA models in terms of RMSE, and MAE are better than the other time series models, and therefore could be considered a good forecasting tool in forecasting the spread, recoveries, and deaths from the current outbreak of COVID-19. Besides, this study can also help the decision-makers in developing short-term strategies with regards to the current number of disease occurrences until an appropriate medication is developed.Copyright © 2020 Ali et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+*coronavirus disease 2019/di [Diagnosis]
+*coronavirus disease 2019/ep [Epidemiology]
+data analysis
+decision making
+epidemic
+*forecasting
+human
+major clinical study
+*mathematical model
+measurement accuracy
+mortality rate
+national health service
+Pakistan
+web browser},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/JOURNAL.PONE.02427620},
+   url = {https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-1073112
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2013395379},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5335,
+   author = {Aljaaf, A. J. and Mohsin, T. M. and Al-Jumeily, D. and Alloghani, M.},
+   title = {A fusion of data science and feed-forward neural network-based modelling of COVID-19 outbreak forecasting in IRAQ},
+   journal = {Journal of Biomedical Informatics},
+   volume = {118},
+   pages = {103766},
+   abstract = {Background: Iraq is among the countries affected by the COVID-19 pandemic. As of 2 August 2020, 129,151 COVID-19 cases were confirmed, including 91,949 recovered cases and 4,867 deaths. After the announcement of lockdown in early April 2020, situation in Iraq was getting steady until late May 2020, when daily COVID-19 infections have raised suddenly due to gradual easing of lockdown restrictions. In this context, it is important to develop a forecasting model to evaluate the COVID-19 outbreak in Iraq and so to guide future health policy. Method(s): COVID-19 lag data were made available by the University of Anbar through their online analytical platform (https://www.uoanbar.edu.iq/covid/), engaged with the day-to-day figures form the Iraqi health authorities. 154 days of patient data were provided covering the period from 2 March 2020 to 2 August 2020. An ensemble of feed-forward neural networks has been adopted to forecast COVID-19 outbreak in Iraq. Also, this study highlights some key questions about this pandemic using data analytics. Result(s): Forecasting were achieved with accuracy of 87.6% for daily infections, 82.4% for daily recovered cases, and 84.3% for daily deaths. It is anticipated that COVID-19 infections in Iraq will reach about 308,996 cases by the end of September 2020, including 228,551 to recover and 9,477 deaths. Conclusion(s): The applications of artificial neural networks supported by advanced data analytics represent a promising solution through which to realise intelligent solutions, enabling the space of analytical operations to drive a national health policy to contain COVID-19 pandemic.Copyright © 2021 Elsevier Inc.},
+   keywords = {article
+benchmarking
+controlled study
+*coronavirus disease 2019
+*data science
+*feed forward neural network
+*forecasting
+human
+Iraq
+major clinical study
+mortality
+probability
+time series analysis},
+   ISSN = {1532-0464},
+   DOI = {https://dx.doi.org/10.1016/j.jbi.2021.103766},
+   url = {http://www.elsevier.com/inca/publications/store/6/2/2/8/5/7/index.htt
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2011863649},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5334,
+   author = {Alnaji, Lulah},
+   title = {Machine learning in epidemiology: Neural networks forecasting of monkeypox cases},
+   journal = {PloS one},
+   volume = {19},
+   number = {5},
+   pages = {e0300216},
+   abstract = {This study integrates advanced machine learning techniques, namely Artificial Neural Networks, Long Short-Term Memory, and Gated Recurrent Unit models, to forecast monkeypox outbreaks in Canada, Spain, the USA, and Portugal. The research focuses on the effectiveness of these models in predicting the spread and severity of cases using data from June 3 to December 31, 2022, and evaluates them against test data from January 1 to February 7, 2023. The study highlights the potential of neural networks in epidemiology, especially concerning recent monkeypox outbreaks. It provides a comparative analysis of the models, emphasizing their capabilities in public health strategies. The research identifies optimal model configurations and underscores the efficiency of the Levenberg-Marquardt algorithm in training. The findings suggest that ANN models, particularly those with optimized Root Mean Squared Error, Mean Absolute Percentage Error, and the Coefficient of Determination values, are effective in infectious disease forecasting and can significantly enhance public health responses. Copyright: © 2024 Lulah Alnaji. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {*Neural Networks, Computer
+*Machine Learning
+Humans
+Forecasting/mt [Methods]
+*Forecasting
+Mpox (monkeypox)/ep [Epidemiology]
+*Mpox (monkeypox)
+Portugal/ep [Epidemiology]
+Spain/ep [Epidemiology]
+Disease Outbreaks
+Canada/ep [Epidemiology]
+United States/ep [Epidemiology]
+Algorithms},
+   ISSN = {1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0300216},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medl&NEWS=N&AN=38691574},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN5333,
+   author = {Alsayed, A. and Sadir, H. and Kamil, R. and Sari, H.},
+   title = {Prediction of epidemic peak and infected cases for COVID-19 disease in Malaysia, 2020},
+   journal = {International Journal of Environmental Research and Public Health},
+   volume = {17},
+   number = {11},
+   pages = {1-15},
+   abstract = {The coronavirus COVID-19 has recently started to spread rapidly in Malaysia. The number of total infected cases has increased to 3662 on 05 April 2020, leading to the country being placed under lockdown. As the main public concern is whether the current situation will continue for the next few months, this study aims to predict the epidemic peak using the Susceptible-Exposed-Infectious-Recovered (SEIR) model, with incorporation of the mortality cases. The infection rate was estimated using the Genetic Algorithm (GA), while the Adaptive Neuro-Fuzzy Inference System (ANFIS) model was used to provide short-time forecasting of the number of infected cases. The results show that the estimated infection rate is 0.228 +/- 0.013, while the basic reproductive number is 2.28 +/- 0.13. The epidemic peak of COVID-19 in Malaysia could be reached on 26 July 2020, with an uncertain period of 30 days (12 July-11 August). Possible interventions by the government to reduce the infection rate by 25% over two or three months would delay the epidemic peak by 30 and 46 days, respectively. The forecasting results using the ANFIS model show a low Normalized Root Mean Square Error (NRMSE) of 0.041; a low Mean Absolute Percentage Error (MAPE) of 2.45%; and a high coefficient of determination (R2) of 0.9964. The results also show that an intervention has a great effect on delaying the epidemic peak and a longer intervention period would reduce the epidemic size at the peak. The study provides important information for public health providers and the government to control the COVID-19 epidemic.Copyright © 2020 by the authors. Licensee MDPI, Basel, Switzerland.},
+   keywords = {article
+calibration
+*coronavirus disease 2019/ep [Epidemiology]
+*epidemic/ep [Epidemiology]
+forecasting
+fuzzy system
+genetic algorithm
+human
+Malaysia
+model
+mortality
+prediction
+uncertainty
+validation process},
+   ISSN = {1661-7827
+1660-4601},
+   DOI = {https://dx.doi.org/10.3390/ijerph17114076},
+   url = {https://www.mdpi.com/1660-4601/17/11/4076/pdf
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2004519080},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5332,
+   author = {Amaral, F. and Casaca, W. and Oishi, C. M. and Cuminato, J. A.},
+   title = {Towards Providing Effective Data-Driven Responses to Predict the Covid-19 in Sao Paulo and Brazil},
+   journal = {Sensors (Basel, Switzerland)},
+   volume = {21},
+   number = {2},
+   abstract = {Sao Paulo is the most populous state in Brazil, home to around 22% of the country's population. The total number of Covid-19-infected people in Sao Paulo has reached more than 1 million, while its total death toll stands at 25% of all the country's fatalities. Joining the Brazilian academia efforts in the fight against Covid-19, in this paper we describe a unified framework for monitoring and forecasting the Covid-19 progress in the state of Sao Paulo. More specifically, a freely available, online platform to collect and exploit Covid-19 time-series data is presented, supporting decision-makers while still allowing the general public to interact with data from different regions of the state. Moreover, a novel forecasting data-driven method has also been proposed, by combining the so-called Susceptible-Infectious-Recovered-Deceased model with machine learning strategies to better fit the mathematical model's coefficients for predicting Infections, Recoveries, Deaths, and Viral Reproduction Numbers. We show that the obtained predictor is capable of dealing with badly conditioned data samples while still delivering accurate 10-day predictions. Our integrated computational system can be used for guiding government actions mainly in two basic aspects: real-time data assessment and dynamic predictions of Covid-19 curves for different regions of the state. We extend our analysis and investigation to inspect the virus spreading in Brazil in its regions. Finally, experiments involving the Covid-19 advance in other countries are also given.},
+   keywords = {Brazil
+epidemiology
+forecasting
+human
+isolation and purification
+machine learning
+statistical analysis
+virology},
+   ISSN = {1424-8220 (electronic)
+1424-8220},
+   DOI = {https://dx.doi.org/10.3390/s21020540},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=634048770},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5331,
+   author = {Angulo, W. and Ramirez, J. M. and De Cecchis, D. and Primera, J. and Pacheco, H. and Rodriguez-Roman, E.},
+   title = {A modified SEIR model to predict the behavior of the early stage in coronavirus and coronavirus-like outbreaks},
+   journal = {Scientific reports},
+   volume = {11},
+   number = {1},
+   pages = {16331},
+   abstract = {COVID-19 is a highly infectious disease that emerged in China at the end of 2019. The COVID-19 pandemic is the first known pandemic caused by a coronavirus, namely, the new and emerging SARS-CoV-2 coronavirus. In the present work, we present simulations of the initial outbreak of this new coronavirus using a modified transmission rate SEIR model that takes into account the impact of government actions and the perception of risk by individuals in reaction to the proportion of fatal cases. The parameters related to these effects were fitted to the number of infected cases in the 33 provinces of China. The data for Hubei Province, the probable site of origin of the current pandemic, were considered as a particular case for the simulation and showed that the theoretical model reproduces the behavior of the data, thus indicating the importance of combining government actions and individual risk perceptions when the proportion of fatal cases is greater than [Formula: see text]. The results show that the adjusted model reproduces the behavior of the data quite well for some provinces, suggesting that the spread of the disease differs when different actions are evaluated. The proposed model could help to predict outbreaks of viruses with a biological and molecular structure similar to that of SARS-CoV-2.Copyright © 2021. The Author(s).},
+   keywords = {biology
+China
+computer simulation
+Coronavirus infection/ep [Epidemiology]
+*epidemic
+government
+health care policy
+human
+pathophysiology
+risk assessment
+statistical analysis
+*theoretical model},
+   ISSN = {2045-2322 (electronic)
+2045-2322},
+   DOI = {https://dx.doi.org/10.1038/s41598-021-95785-y},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=635874628},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5330,
+   author = {Anirudh, A.},
+   title = {Mathematical modeling and the transmission dynamics in predicting the Covid-19 - What next in combating the pandemic},
+   journal = {Infectious Disease Modelling},
+   volume = {5},
+   pages = {366-374},
+   abstract = {Mathematical predictions in combating the epidemics are yet to reach its perfection. The rapid spread, the ways, and the procedures involved in containment of a pandemic demand the earliest understanding in finding solutions in line with the habitual, physiological, biological, and environmental aspects of life with better computerised mathematical modeling and predictions. Epidemiology models are key tools in public health management programs despite having a high level of uncertainty in each one of these models. This paper describes the outcome and the challenges of SIR, SEIR, SEIRU, SIRD, SLIAR, ARIMA, SIDARTHE, etc models used in prediction of spread, peak, and reduction of Covid-19 cases.Copyright © 2020 The Authors},
+   keywords = {article
+*coronavirus disease 2019/ep [Epidemiology]
+disease surveillance
+*disease transmission
+environmental temperature
+human
+intensive care unit
+mathematical analysis
+*mathematical model
+*pandemic
+population size
+prevalence
+risk factor
+stochastic model},
+   ISSN = {2468-0427},
+   DOI = {https://dx.doi.org/10.1016/j.idm.2020.06.002},
+   url = {http://www.keaipublishing.com/en/journals/infectious-disease-modelling/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2006948370},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5329,
+   author = {Aravamuthan, S. and Mandujano Reyes, J. F. and Yandell, B. S. and Dopfer, D.},
+   title = {Real-time estimation and forecasting of COVID-19 cases and hospitalizations in Wisconsin HERC regions for public health decision making processes},
+   journal = {BMC public health},
+   volume = {23},
+   number = {1},
+   pages = {359},
+   abstract = {BACKGROUND: The spread of the COVID-19 (SARS-CoV-2) and the surging number of cases across the United States have resulted in full hospitals and exhausted health care workers. Limited availability and questionable reliability of the data make outbreak prediction and resource planning difficult. Any estimates or forecasts are subject to high uncertainty and low accuracy to measure such components. The aim of this study is to apply, automate, and assess a Bayesian time series model for the real-time estimation and forecasting of COVID-19 cases and number of hospitalizations in Wisconsin healthcare emergency readiness coalition (HERC) regions. METHOD(S): This study makes use of the publicly available Wisconsin COVID-19 historical data by county. Cases and effective time-varying reproduction number [Formula: see text] by the HERC region over time are estimated using Bayesian latent variable models. Hospitalizations are estimated by the HERC region over time using a Bayesian regression model. Cases, effective Rt, and hospitalizations are forecasted over a 1-day, 3-day, and 7-day time horizon using the last 28 days of data, and the 20%, 50%, and 90% Bayesian credible intervals of the forecasts are calculated. The frequentist coverage probability is compared to the Bayesian credible level to evaluate performance. RESULT(S): For cases and effective [Formula: see text], all three time horizons outperform the three credible levels of the forecast. For hospitalizations, all three time horizons outperform the 20% and 50% credible intervals of the forecast. On the contrary, the 1-day and 3-day periods underperform the 90% credible intervals. Questions about uncertainty quantification should be re-calculated using the frequentist coverage probability of the Bayesian credible interval based on observed data for all three metrics. CONCLUSION(S): We present an approach to automate the real-time estimation and forecasting of cases and hospitalizations and corresponding uncertainty using publicly available data. The models were able to infer short-term trends consistent with reported values at the HERC region level. Additionally, the models were able to accurately forecast and estimate the uncertainty of the measurements. This study can help identify the most affected regions and major outbreaks in the near future. The workflow can be adapted to other geographic regions, states, and even countries where decision-making processes are supported in real-time by the proposed modeling system.Copyright © 2023. The Author(s).},
+   keywords = {Bayes theorem
+epidemiology
+forecasting
+hospitalization
+human
+public health
+reproducibility
+uncertainty
+United States
+Wisconsin},
+   ISSN = {1471-2458 (electronic)
+1471-2458},
+   DOI = {https://dx.doi.org/10.1186/s12889-023-15160-6},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=640378037},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5328,
+   author = {ArunKumar, K. E. and Kalaga, Dinesh V. and Sai Kumar, Ch Mohan and Chilkoor, Govinda and Kawaji, Masahiro and Brenza, Timothy M.},
+   title = {Forecasting the dynamics of cumulative COVID-19 cases (confirmed, recovered and deaths) for top-16 countries using statistical machine learning models: Auto-Regressive Integrated Moving Average (ARIMA) and Seasonal Auto-Regressive Integrated Moving Average (SARIMA)},
+   journal = {Applied soft computing},
+   volume = {103},
+   pages = {107161},
+   abstract = {Most countries are reopening or considering lifting the stringent prevention policies such as lockdowns, consequently, daily coronavirus disease (COVID-19) cases (confirmed, recovered and deaths) are increasing significantly. As of July 25th, there are 16.5 million global cumulative confirmed cases, 9.4 million cumulative recovered cases and 0.65 million deaths. There is a tremendous necessity of supervising and estimating future COVID-19 cases to control the spread and help countries prepare their healthcare systems. In this study, time-series models - Auto-Regressive Integrated Moving Average (ARIMA) and Seasonal Auto-Regressive Integrated Moving Average (SARIMA) are used to forecast the epidemiological trends of the COVID-19 pandemic for top-16 countries where 70%-80% of global cumulative cases are located. Initial combinations of the model parameters were selected using the auto-ARIMA model followed by finding the optimized model parameters based on the best fit between the predictions and test data. Analytical tools Auto-Correlation function (ACF), Partial Auto-Correlation Function (PACF), Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC) were used to assess the reliability of the models. Evaluation metrics Mean Absolute Error (MAE), Mean Square Error (MSE), Root Mean Square Error (RMSE) and Mean Absolute Percent Error (MAPE) were used as criteria for selecting the best model. A case study was presented where the statistical methodology was discussed in detail for model selection and the procedure for forecasting the COVID-19 cases of the USA. Best model parameters of ARIMA and SARIMA for each country are selected manually and the optimized parameters are then used to forecast the COVID-19 cases. Forecasted trends for confirmed and recovered cases showed an exponential rise for countries such as the United States, Brazil, South Africa, Colombia, Bangladesh, India, Mexico and Pakistan. Similarly, trends for cumulative deaths showed an exponential rise for countries Brazil, South Africa, Chile, Colombia, Bangladesh, India, Mexico, Iran, Peru, and Russia. SARIMA model predictions are more realistic than that of the ARIMA model predictions confirming the existence of seasonality in COVID-19 data. The results of this study not only shed light on the future trends of the COVID-19 outbreak in top-16 countries but also guide these countries to prepare their health care policies for the ongoing pandemic. The data used in this work is obtained from publicly available John Hopkins University's COVID-19 database. Copyright © 2021 Elsevier B.V. All rights reserved.},
+   ISSN = {1568-4946},
+   DOI = {https://dx.doi.org/10.1016/j.asoc.2021.107161},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=33584158},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5327,
+   author = {Bartolomeo, N. and Trerotoli, P. and Serio, G.},
+   title = {Short-term forecast in the early stage of the COVID-19 outbreak in Italy. Application of a weighted and cumulative average daily growth rate to an exponential decay model},
+   journal = {Infectious Disease Modelling},
+   volume = {6},
+   pages = {212-221},
+   abstract = {To estimate the size of the novel coronavirus (COVID-19) outbreak in the early stage in Italy, this paper introduces the cumulated and weighted average daily growth rate (WR) to evaluate an epidemic curve. On the basis of an exponential decay model (EDM), we provide estimations of the WR in four-time intervals from February 27 to April 07, 2020. By calibrating the parameters of the EDM to the reported data in Hubei Province of China, we also attempt to forecast the evolution of the outbreak. We compare the EDM applied to WR and the Gompertz model, which is based on exponential decay and is often used to estimate cumulative events. Specifically, we assess the performance of each model to short-term forecast of the epidemic, and to predict the final epidemic size. Based on the official counts for confirmed cases, the model applied to data from February 27 until the 17th of March estimate that the cumulative number of infected in Italy could reach 131,280 (with a credibility interval 71,415-263,501) by April 25 (credibility interval April 12 to May 3). With the data available until the 24st of March the peak date should be reached on May 3 (April 23 to May 23) with 197,179 cumulative infections expected (130,033-315,269); with data available until the 31st of March the peak should be reached on May 4 (April 25 to May 18) with 202,210 cumulative infections expected (155.235-270,737); with data available until the 07st of April the peak should be reached on May 3 (April 26 to May 11) with 191,586 (160,861-232,023) cumulative infections expected. Based on the average mean absolute percentage error (MAPE), cumulated infections forecasts provided by the EDM applied to WR performed better across all scenarios than the Gompertz model. An exponential decay model applied to the cumulated and weighted average daily growth rate appears to be useful in estimating the number of cases and peak of the COVID-19 outbreak in Italy and the model was more reliable in the exponential growth phase.Copyright © 2021 The Authors},
+   keywords = {article
+*coronavirus disease 2019
+disease transmission
+growth curve
+*growth rate
+human
+Italy
+*population projection
+public health
+seasonal variation
+temperature},
+   ISSN = {2468-0427},
+   DOI = {https://dx.doi.org/10.1016/j.idm.2020.12.007},
+   url = {http://www.keaipublishing.com/en/journals/infectious-disease-modelling/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2010576631},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5326,
+   author = {Bastos, S. B. and Cajueiro, D. O.},
+   title = {Modeling and forecasting the early evolution of the Covid-19 pandemic in Brazil},
+   journal = {Scientific reports},
+   volume = {10},
+   number = {1},
+   pages = {19457},
+   abstract = {We model and forecast the early evolution of the COVID-19 pandemic in Brazil using Brazilian recent data from February 25, 2020 to March 30, 2020. This early period accounts for unawareness of the epidemiological characteristics of the disease in a new territory, sub-notification of the real numbers of infected people and the timely introduction of social distancing policies to flatten the spread of the disease. We use two variations of the SIR model and we include a parameter that comprises the effects of social distancing measures. Short and long term forecasts show that the social distancing policy imposed by the government is able to flatten the pattern of infection of the COVID-19. However, our results also show that if this policy does not last enough time, it is only able to shift the peak of infection into the future keeping the value of the peak in almost the same value. Furthermore, our long term simulations forecast the optimal date to end the policy. Finally, we show that the proportion of asymptomatic individuals affects the amplitude of the peak of symptomatic infected, suggesting that it is important to test the population.},
+   keywords = {Brazil
+Coronavirus infection/ep [Epidemiology]
+forecasting
+human
+pandemic
+*statistical model
+time factor
+virus pneumonia/ep [Epidemiology]},
+   ISSN = {2045-2322 (electronic)
+2045-2322},
+   DOI = {https://dx.doi.org/10.1038/s41598-020-76257-1},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=633400993},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5325,
+   author = {Bata, Mo'tamad H. and Carriveau, Rupp and Ting, David S. K. and Davison, Matt and Smit, Anneke R.},
+   title = {COVID-19 infected cases in Canada: Short-term forecasting models},
+   journal = {PloS one},
+   volume = {17},
+   number = {9},
+   pages = {e0270182},
+   abstract = {Governments have implemented different interventions and response models to combat the spread of COVID-19. The necessary intensity and frequency of control measures require us to project the number of infected cases. Three short-term forecasting models were proposed to predict the total number of infected cases in Canada for a number of days ahead. The proposed models were evaluated on how their performance degrades with increased forecast horizon, and improves with increased historical data by which to estimate them. For the data analyzed, our results show that 7 to 10 weeks of historical data points are enough to produce good fits for a two-weeks predictive model of infected case numbers with a NRMSE of 1% to 2%. The preferred model is an important quick-deployment tool to support data-informed short-term pandemic related decision-making at all levels of governance.},
+   keywords = {COVID-19/ep [Epidemiology]
+*COVID-19
+Canada/ep [Epidemiology]
+Forecasting
+Humans
+Models, Statistical
+Pandemics/pc [Prevention & Control]},
+   ISSN = {1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0270182},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med22&NEWS=N&AN=36137098},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5324,
+   author = {Bedi, Punam and Dhiman, Shivani and Gole, Pushkar and Gupta, Neha and Jindal, Vinita},
+   title = {Prediction of COVID-19 Trend in India and Its Four Worst-Affected States Using Modified SEIRD and LSTM Models},
+   journal = {SN computer science},
+   volume = {2},
+   number = {3},
+   pages = {224},
+   abstract = {Since the beginning of COVID-19 (corona virus disease 2019), the Indian government implemented several policies and restrictions to curtail its spread. The timely decisions taken by the government helped in decelerating the spread of COVID-19 to a large extent. Despite these decisions, the pandemic continues to spread. Future predictions about the spread can be helpful for future policy-making, i.e., to plan and control the COVID-19 spread. Further, it is observed throughout the world that asymptomatic corona cases play a major role in the spread of the disease. This motivated us to include such cases for accurate trend prediction. India was chosen for the study as the population and population density is very high for India, resulting in the spread of the disease at high speed. In this paper, the modified SEIRD (susceptible-exposed-infected-recovered-deceased) model is proposed for predicting the trend and peak of COVID-19 in India and its four worst-affected states. The modified SEIRD model is based on the SEIRD model, which also uses an asymptomatic exposed population that is asymptomatic but infectious for the predictions. Further, a deep learning-based long short-term memory (LSTM) model is also used for trend prediction in this paper. Predictions of LSTM are compared with the predictions obtained from the proposed modified SEIRD model for the next 30 days. The epidemiological data up to 6th September 2020 have been used for carrying out predictions in this paper. Different lockdowns imposed by the Indian government have also been used in modeling and analyzing the proposed modified SEIRD model. Copyright © The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd 2021.},
+   ISSN = {2661-8907},
+   DOI = {https://dx.doi.org/10.1007/s42979-021-00598-5},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=33899004},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5323,
+   author = {Bhadoria, R. S. and Sharma, N. and Pandey, M. K. and Pandey, B.},
+   title = {Asymptomatic community spread of coronavirus disease 2019( COVID 19) outbreak prediction using logistic regression},
+   journal = {European Journal of Molecular and Clinical Medicine},
+   volume = {7},
+   number = {6},
+   pages = {2849-2863},
+   abstract = {Corona virus disease (COVID-19) pandemic has become a major threat to the entire world. Antidotes and proper medications are still not found and determined to get cure from such virus. The report from World Health Organization (WHO) remits the COVID-19 as severe acute respiratory syndrome (SARS). Such virus is transmitted into human body via a respiratory droplets. Even, major symptoms for coronavirus patience are - tiredness, severe fever and dry cough but in most of the cases such symtoms are not found. This variety of coronavirus symptoms are termed as asymptomatic symptoms. The identification for such disease is very important into human body so that this can be stopped as community spread and reduces the effect of this as global pandemic. This paper provides an extensive study and predicts the outbreak of this disease with the aid of classification techniques of under machine learning. So that, the number of cases related to COVID-19 can be identified and subsequent arrangements have been made from the respective governments and medical doctors for future. Initially, this prediction model is implemented for short-term interval and later, such model based on internet of thing and machine learning, can also be set for estimating into long-term intervals for global as well as Indian perspective. Thelogistic regression and decisiontree techniqueshave been used for such cases predictions for this epidemic.Copyright © 2020 Ubiquity Press. All rights reserved.},
+   keywords = {Andhra Pradesh
+article
+*asymptomatic disease
+case finding
+China
+classification algorithm
+*community acquired infection
+*coronavirus disease 2019
+decision tree
+epidemic
+France
+human
+India
+internet of things
+Italy
+logistic regression analysis
+machine learning
+mortality
+pandemic
+particle swarm optimization
+*prediction
+Rajasthan
+Russian Federation
+Spain
+Tamil Nadu
+United Kingdom
+United States
+Uttar Pradesh
+*virus transmission},
+   ISSN = {2515-8260 (electronic)
+2515-8260},
+   url = {https://ejmcm.com/pdf_5344_d046519bdbcb6df46a1cf59b3259632b.html
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2010507921},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5322,
+   author = {Bhapkar, H. R. and Mahalle, P. N. and Sable, N. P. and Shinde, G. R.},
+   title = {COVID-19 Global Prediction: A Mathematical Approach based on Data Trend Lines and Probability},
+   journal = {NeuroQuantology},
+   volume = {20},
+   number = {8},
+   pages = {8262-8281},
+   abstract = {To better understand data and its possible consequences, mathematical models are the must. For COVID-19 outbreak, it helps predict and therefore, policies are guidelines can be designed accordingly. In this study, we define the practical prediction model for COVID 19 by considering the different essentials such as the total number of cases, recovery cases and death cases. The special grading for countries involves the government policies as well as the involvement of the society intended for controlling COVID 19. We investigate trend lines for the data with the help of correlation coefficients and coefficient of determination. The linear and the second-degree equations help to make predictions of active patients of COVID 19 in the future. The study of existing data patterns is done and is used to predict the spread of COVID in the world. This analysis assists us to decide the futuristic guidelines, requirements, and policies for governing the spread of COVID 19.Copyright © 2022, Anka Publishers. All rights reserved.},
+   keywords = {article
+artificial intelligence
+*coronavirus disease 2019
+correlation coefficient
+human
+immune response
+lockdown
+machine learning
+*mathematical model
+mathematical parameters
+nonhuman
+*prediction
+*probability
+social distancing
+stochastic model
+*trend study},
+   ISSN = {1303-5150 (electronic)
+1303-5150},
+   DOI = {https://dx.doi.org/10.14704/nq.2022.20.8.NQ44850},
+   url = {https://www.neuroquantology.com/data-cms/articles/20220903081331pmNQ44849.pdf
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2017915668},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5321,
+   author = {Bhaskar, A. and Ponnuraja, C. and Srinivasan, R. and Padmanaban, S.},
+   title = {Distribution and growth rate of COVID-19 outbreak in Tamil Nadu: A log-linear regression approach},
+   journal = {Indian journal of public health},
+   volume = {64},
+   number = {Supplementement},
+   pages = {S188-S191},
+   abstract = {Background: Most of the countries are affected with the pandemic outbreak of the coronavirus infection. Understanding the severity and distribution in various regions will help in planning the controlling measures. Objective(s): The objective was to assess the distribution and growth rate of COVID-19 infection in Tamil Nadu, India. Method(s): The data on the number of infections of COVID-19 have been obtained from the media reports released by the Government of Tamil Nadu. The data contain information on the incidence of the disease for the first 41 days of the outbreak started on March 7, 2020. Log-linear model has been used to estimate the progression of the COVID-19 infection in Tamil Nadu. Separate models were employed to model the growth rate and decay rate of the disease. Spatial Poisson regression was used to identify the high-risk areas in the state. Result(s): : The models estimated the doubling time for the number of cases in growth phase as 3.96 (95% confidence interval [CI]: 2.70, 9.42) days and halving time in the decay phase as 12.08 (95% CI: 6.79, 54.78) days. The estimated median reproduction numbers were 1.88 (min = 1.09, max = 2.51) and 0.76 (min = 0.56, max = 0.99) in the growth and decay phases, respectively. The spatial Poisson regression identified 11 districts as high risk. Conclusion(s): The results indicate that the outbreak is showing decay in the number of infections of the disease which highlights the effectiveness of controlling measures.},
+   keywords = {Betacoronavirus
+coronavirus disease 2019
+Coronavirus infection/ep [Epidemiology]
+human
+incidence
+India
+pandemic
+spatial analysis
+statistical analysis
+statistical model
+virus pneumonia/ep [Epidemiology]},
+   ISSN = {0019-557X},
+   DOI = {https://dx.doi.org/10.4103/ijph.IJPH_502_20},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=631984123},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5320,
+   author = {Bhattacharyya, Arinjita and Chakraborty, Tanujit and Rai, Shesh N.},
+   title = {Stochastic forecasting of COVID-19 daily new cases across countries with a novel hybrid time series model},
+   journal = {Nonlinear dynamics},
+   volume = {107},
+   number = {3},
+   pages = {3025-3040},
+   abstract = {An unprecedented outbreak of the novel coronavirus (COVID-19) in the form of peculiar pneumonia has spread globally since its first case in Wuhan province, China, in December 2019. Soon after, the infected cases and mortality increased rapidly. The future of the pandemic's progress was uncertain, and thus, predicting it became crucial for public health researchers. These predictions help the effective allocation of health-care resources, stockpiling, and help in strategic planning for clinicians, government authorities, and public health policymakers after understanding the extent of the effect. The main objective of this paper is to develop a hybrid forecasting model that can generate real-time out-of-sample forecasts of COVID-19 outbreaks for five profoundly affected countries, namely the USA, Brazil, India, the UK, and Canada. A novel hybrid approach based on the Theta method and autoregressive neural network (ARNN) model, named Theta-ARNN (TARNN) model, is developed. Daily new cases of COVID-19 are nonlinear, non-stationary, and volatile; thus, a single specific model cannot be ideal for future prediction of the pandemic. However, the newly introduced hybrid forecasting model with an acceptable prediction error rate can help healthcare and government for effective planning and resource allocation. The proposed method outperforms traditional univariate and hybrid forecasting models for the test datasets on an average. Copyright © The Author(s), under exclusive licence to Springer Nature B.V. 2021.},
+   ISSN = {0924-090X},
+   DOI = {https://dx.doi.org/10.1007/s11071-021-07099-3},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=35039713},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5319,
+   author = {Blangiardo, Marta and Cameletti, Michela and Pirani, Monica and Corsetti, Gianni and Battaglini, Marco and Baio, Gianluca},
+   title = {Estimating weekly excess mortality at sub-national level in Italy during the COVID-19 pandemic},
+   journal = {PloS one},
+   volume = {15},
+   number = {10},
+   pages = {e0240286},
+   abstract = {In this study we present the first comprehensive analysis of the spatio-temporal differences in excess mortality during the COVID-19 pandemic in Italy. We used a population-based design on all-cause mortality data, for the 7,904 Italian municipalities. We estimated sex-specific weekly mortality rates for each municipality, based on the first four months of 2016-2019, while adjusting for age, localised temporal trends and the effect of temperature. Then, we predicted all-cause weekly deaths and mortality rates at municipality level for the same period in 2020, based on the modelled spatio-temporal trends. Lombardia showed higher mortality rates than expected from the end of February, with 23,946 (23,013 to 24,786) total excess deaths. North-West and North-East regions showed one week lag, with higher mortality from the beginning of March and 6,942 (6,142 to 7,667) and 8,033 (7,061 to 9,044) total excess deaths respectively. We observed marked geographical differences also at municipality level. For males, the city of Bergamo (Lombardia) showed the largest percent excess, 88.9% (81.9% to 95.2%), at the peak of the pandemic. An excess of 84.2% (73.8% to 93.4%) was also estimated at the same time for males in the city of Pesaro (Central Italy), in stark contrast with the rest of the region, which does not show evidence of excess deaths. We provided a fully probabilistic analysis of excess mortality during the COVID-19 pandemic at sub-national level, suggesting a differential direct and indirect effect in space and time. Our model can be used to help policy-makers target measures locally to contain the burden on the health-care system as well as reducing social and economic consequences. Additionally, this framework can be used for real-time mortality surveillance, continuous monitoring of local temporal trends and to flag where and when mortality rates deviate from the expected range, which might suggest a second wave of the pandemic.},
+   keywords = {Bayes Theorem
+Betacoronavirus/ip [Isolation & Purification]
+COVID-19
+*Cause of Death/td [Trends]
+*Coronavirus Infections/ep [Epidemiology]
+Coronavirus Infections/mo [Mortality]
+Coronavirus Infections/vi [Virology]
+*Databases, Factual
+Female
+Humans
+Italy/ep [Epidemiology]
+Male
+Models, Theoretical
+Pandemics
+*Pneumonia, Viral/ep [Epidemiology]
+Pneumonia, Viral/mo [Mortality]
+Pneumonia, Viral/vi [Virology]
+SARS-CoV-2},
+   ISSN = {1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0240286},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=33035253},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5318,
+   author = {Brunner, N. and Kuhleitner, M.},
+   title = {Bertalanffy-Putter models for the first wave of the COVID-19 outbreak},
+   journal = {Infectious Disease Modelling},
+   volume = {6},
+   pages = {532-544},
+   abstract = {The COVID-19 pandemics challenges governments across the world. To develop adequate responses, they need accurate models for the spread of the disease. Using least squares, we fitted Bertalanffy-Putter (BP) trend curves to data about the first wave of the COVID-19 pandemic of 2020 from 49 countries and provinces where the peak of the first wave had been passed. BP-models achieved excellent fits (R-squared above 99%) to all data. Using them to smoothen the data, in the median one could forecast that the final count (asymptotic limit) of infections and fatalities would be 2.48 times (95% confidence limits 2.42-2.6) and 2.67 times (2.39-2.765) the total count at the respective peak (inflection point). By comparison, using logistic growth would evaluate this ratio as 2.00 for all data. The case fatality rate, defined as the quotient of the asymptotic limits of fatalities and confirmed infections, was in the median 4.85% (confidence limits 4.4%-6.5%). Our result supports the strategies of governments that kept the epidemic peak low, as then in the median fewer infections and fewer fatalities could be expected.Copyright © 2021 The Authors},
+   keywords = {article
+case fatality rate
+*coronavirus disease 2019
+epidemic
+forecasting
+growth curve
+human
+least square analysis
+public health
+simulated annealing},
+   ISSN = {2468-0427},
+   DOI = {https://dx.doi.org/10.1016/j.idm.2021.03.003},
+   url = {http://www.keaipublishing.com/en/journals/infectious-disease-modelling/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2011399742},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5317,
+   author = {Busari, S. I. and Samson, T. K.},
+   title = {Modelling and forecasting new cases of Covid-19 in Nigeria: Comparison of regression, ARIMA and machine learning models},
+   journal = {Scientific African},
+   volume = {18},
+   pages = {e01404},
+   abstract = {Covid-19 remains a global pandemic threatening hundreds of countries in the world. The impact of Covid-19 has been felt in almost every aspect of life and it has introduced globally, a new normal of livelihood. This global pandemic has triggered unparalleled global health and economic crisis. Therefore, modelling and forecasting the dynamics of this pandemic is very crucial as it will help in decision making and strategic planning. Nigeria as the most populous country in Africa and most populous black nation in the world has been adversely affected by Covid-19 pandemic. This study models and compares forecasting performance of regression, ARIMA and Machine Learning models in predicting new cases of Covid-19 in Nigeria. The study obtained data on daily new cases of Covid-19 in Nigeria between 27th February, 2020 and 30th November, 2021. Graphical analysis showed that Nigeria had witnessed three waves of Covid-19 with the first wave between 27th February, 2020 and 23rd October, 2020, the second wave between 24th October, 2020 and 20th June, 2021 and the third wave between 21st June, 2021 and 30th November, 2021. The second wave recorded the highest spikes in new cases compared to the first wave and third wave. Result reveals that in terms of forecasting performance, inverse regression model outperformed other regression models considered as it shows lowest RMSE of 0.4130 compared with other regression models. Also, the ARIMA (4, 1, 4) outperformed other ARIMA models as it reveals the highest R2 of 0.856 (85.6%), least RMSE (0.6364), AIC (-8.6024) and BIC (-8.5299). Result reveals that Fine tree which is one of the Machine Learning models is more reliable in forecasting new cases of Covid-19 in Nigeria compared to other models as Fine tree gave the highest R2 of 0.90 (90.0%) and least RMSE of 0.22165. Result of 15 days forecasting indicates that Covid-19 pandemic is not over yet in Nigeria as new cases of Covid-19 is projected to increase on 15/12/2021 with predicted new cases of 988 compared with that of 14/12/2021, where only 729 new cases was predicted. This therefore emphasizes the need to strengthen and maintain the existing Covid-19 preventive measures in Nigeria. Copyright © 2022 The Author(s).},
+   ISSN = {2468-2276},
+   DOI = {https://dx.doi.org/10.1016/j.sciaf.2022.e01404},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=36310608},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5316,
+   author = {Caldwell, Wendy K. and Fairchild, Geoffrey and Del Valle, Sara Y.},
+   title = {Surveilling Influenza Incidence With Centers for Disease Control and Prevention Web Traffic Data: Demonstration Using a Novel Dataset},
+   journal = {Journal of medical Internet research},
+   volume = {22},
+   number = {7},
+   pages = {e14337},
+   abstract = {BACKGROUND: Influenza epidemics result in a public health and economic burden worldwide. Traditional surveillance techniques, which rely on doctor visits, provide data with a delay of 1 to 2 weeks. A means of obtaining real-time data and forecasting future outbreaks is desirable to provide more timely responses to influenza epidemics., OBJECTIVE: This study aimed to present the first implementation of a novel dataset by demonstrating its ability to supplement traditional disease surveillance at multiple spatial resolutions., METHODS: We used internet traffic data from the Centers for Disease Control and Prevention (CDC) website to determine the potential usability of this data source. We tested the traffic generated by 10 influenza-related pages in 8 states and 9 census divisions within the United States and compared it against clinical surveillance data., RESULTS: Our results yielded an r2 value of 0.955 in the most successful case, promising results for some cases, and unsuccessful results for other cases. In the interest of scientific transparency to further the understanding of when internet data streams are an appropriate supplemental data source, we also included negative results (ie, unsuccessful models). Models that focused on a single influenza season were more successful than those that attempted to model multiple influenza seasons. Geographic resolution appeared to play a key role, with national and regional models being more successful, overall, than models at the state level., CONCLUSIONS: These results demonstrate that internet data may be able to complement traditional influenza surveillance in some cases but not in others. Specifically, our results show that the CDC website traffic may inform national- and division-level models but not models for each individual state. In addition, our results show better agreement when the data were broken up by seasons instead of aggregated over several years. We anticipate that this work will lead to more complex nowcasting and forecasting models using this data stream. Copyright ©Wendy K Caldwell, Geoffrey Fairchild, Sara Y Del Valle. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 03.07.2020.},
+   keywords = {*Centers for Disease Control and Prevention, U.S./st [Standards]
+Data Analysis
+Humans
+Incidence
+*Influenza, Human/ep [Epidemiology]
+Internet
+Public Health
+United States},
+   ISSN = {1438-8871},
+   DOI = {https://dx.doi.org/10.2196/14337},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32437327},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5315,
+   author = {Canino, Maria Pia and Cesario, Eugenio and Vinci, Andrea and Zarin, Shabnam},
+   title = {Epidemic forecasting based on mobility patterns: an approach and experimental evaluation on COVID-19 Data},
+   journal = {Social network analysis and mining},
+   volume = {12},
+   number = {1},
+   pages = {116},
+   abstract = {During an epidemic, decision-makers in public health need accurate predictions of the future case numbers, in order to control the spread of new cases and allow efficient resource planning for hospital needs and capacities. In particular, considering that infectious diseases are spread through human-human transmissions, the analysis of spatio-temporal mobility data can play a fundamental role to enable epidemic forecasting. This paper presents the design and implementation of a predictive approach, based on spatial analysis and regressive models, to discover spatio-temporal predictive epidemic patterns from mobility and infection data. The experimental evaluation, performed on mobility and COVID-19 data collected in the city of Chicago, is aimed to assess the effectiveness of the approach in a real-world scenario. Copyright © The Author(s) 2022.},
+   ISSN = {1869-5450},
+   DOI = {https://dx.doi.org/10.1007/s13278-022-00932-6},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm7&NEWS=N&AN=35996384},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5314,
+   author = {Chen, D. G. and Chen, X. and Chen, J. K.},
+   title = {Reconstructing and forecasting the COVID-19 epidemic in the United States using a 5-parameter logistic growth model},
+   journal = {Global health research and policy},
+   volume = {5},
+   pages = {25},
+   abstract = {Background: Many studies have modeled and predicted the spread of COVID-19 (coronavirus disease 2019) in the U.S. using data that begins with the first reported cases. However, the shortage of testing services to detect infected persons makes this approach subject to error due to its underdetection of early cases in the U.S. Our new approach overcomes this limitation and provides data supporting the public policy decisions intended to combat the spread of COVID-19 epidemic. Method(s): We used Centers for Disease Control and Prevention data documenting the daily new and cumulative cases of confirmed COVID-19 in the U.S. from January 22 to April 6, 2020, and reconstructed the epidemic using a 5-parameter logistic growth model. We fitted our model to data from a 2-week window (i.e., from March 21 to April 4, approximately one incubation period) during which large-scale testing was being conducted. With parameters obtained from this modeling, we reconstructed and predicted the growth of the epidemic and evaluated the extent and potential effects of underdetection. Result(s): The data fit the model satisfactorily. The estimated daily growth rate was 16.8% overall with 95% CI: [15.95, 17.76%], suggesting a doubling period of 4days. Based on the modeling result, the tipping point at which new cases will begin to decline will be on April 7th, 2020, with a peak of 32,860 new cases on that day. By the end of the epidemic, at least 792,548 (95% CI: [789,162, 795,934]) will be infected in the U.S. Based on our model, a total of 12,029 cases were not detected between January 22 (when the first case was detected in the U.S.) and April 4. Conclusion(s): Our findings demonstrate the utility of a 5-parameter logistic growth model with reliable data that comes from a specified period during which governmental interventions were appropriately implemented. Beyond informing public health decision-making, our model adds a tool for more faithfully capturing the spread of the COVID-19 epidemic.Copyright © The Author(s) 2020.},
+   keywords = {*epidemic
+*epidemiology
+forecasting
+human
+*procedures
+statistical model
+United States},
+   ISSN = {2397-0642 (electronic)
+2397-0642},
+   DOI = {https://dx.doi.org/10.1186/s41256-020-00152-5},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=637590352},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5313,
+   author = {Chen, H. and Xiao, M.},
+   title = {Seasonality of influenza-like illness and short-term forecasting model in Chongqing from 2010 to 2022},
+   journal = {BMC Infectious Diseases},
+   volume = {24},
+   number = {1},
+   pages = {432},
+   abstract = {Background: Influenza-like illness (ILI) imposes a significant burden on patients, employers and society. However, there is no analysis and prediction at the hospital level in Chongqing. We aimed to characterize the seasonality of ILI, examine age heterogeneity in visits, and predict ILI peaks and assess whether they affect hospital operations. Method(s): The multiplicative decomposition model was employed to decompose the trend and seasonality of ILI, and the Seasonal Auto-Regressive Integrated Moving Average with exogenous factors (SARIMAX) model was used for the trend and short-term prediction of ILI. We used Grid Search and Akaike information criterion (AIC) to calibrate and verify the optimal hyperparameters, and verified the residuals of the multiplicative decomposition and SARIMAX model, which are both white noise. Result(s): During the 12-year study period, ILI showed a continuous upward trend, peaking in winter (Dec. - Jan.) and a small spike in May-June in the 2-4-year-old high-risk group for severe disease. The mean length of stay (LOS) in ILI peaked around summer (about Aug.), and the LOS in the 0-1 and >= 65 years old severely high-risk group was more irregular than the others. We found some anomalies in the predictive analysis of the test set, which were basically consistent with the dynamic zero-COVID policy at the time. Conclusion(s): The ILI patient visits showed a clear cyclical and seasonal pattern. ILI prevention and control activities can be conducted seasonally on an annual basis, and age heterogeneity should be considered in the health resource planning. Targeted immunization policies are essential to mitigate potential pandemic threats. The SARIMAX model has good short-term forecasting ability and accuracy. It can help explore the epidemiological characteristics of ILI and provide an early warning and decision-making basis for the allocation of medical resources related to ILI visits.Copyright © The Author(s) 2024.},
+   keywords = {adolescent
+adult
+aged
+article
+child
+coronavirus disease 2019
+emergency ward
+female
+*flu like syndrome
+*forecasting
+hospitalization
+human
+ICD-10
+infant
+length of stay
+male
+newborn
+outpatient
+prediction
+prevalence
+*seasonal variation
+time series analysis
+data analysis software
+Python 3.10
+Stata 17.0},
+   ISSN = {1471-2334 (electronic)
+1471-2334},
+   DOI = {https://dx.doi.org/10.1186/s12879-024-09301-4},
+   url = {https://bmcinfectdis.biomedcentral.com/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2029544456},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN5312,
+   author = {Chen, L. P. and Zhang, Q. and Yi, G. Y. and He, W.},
+   title = {Model-based forecasting for Canadian COVID-19 data},
+   journal = {PLoS ONE},
+   volume = {16},
+   number = {1 January},
+   pages = {e0244536},
+   abstract = {Background Since March 11, 2020 when the World Health Organization (WHO) declared the COVID-19 pandemic, the number of infected cases, the number of deaths, and the number of affected countries have climbed rapidly. To understand the impact of COVID-19 on public health, many studies have been conducted for various countries. To complement the available work, in this article we examine Canadian COVID-19 data for the period of March 18, 2020 to August 16, 2020 with the aim to forecast the dynamic trend in a short term. Method We focus our attention on Canadian data and analyze the four provinces, Ontario, Alberta, British Columbia, and Quebec, which have the most severe situations in Canada. To build predictive models and conduct prediction, we employ three models, smooth transition autoregressive (STAR) models, neural network (NN) models, and susceptible-infected-removed (SIR) models, to fit time series data of confirmed cases in the four provinces separately. In comparison, we also analyze the data of daily infections in two states of USA, Texas and New York state, for the period of March 18, 2020 to August 16, 2020. We emphasize that different models make different assumptions which are basically difficult to validate. Yet invoking different models allows us to examine the data from different angles, thus, helping reveal the underlying trajectory of the development of COVID-19 in Canada. Finding The examinations of the data dated from March 18, 2020 to August 11, 2020 show that the STAR, NN, and SIR models may output different results, though the differences are small in some cases. Prediction over a short term period incurs smaller prediction variability than over a long term period, as expected. The NN method tends to outperform other two methods. All the methods forecast an upward trend in all the four Canadian provinces for the period of August 12, 2020 to August 23, 2020, though the degree varies from method to method. This research offers model-based insights into the pandemic evolvement in Canada.Copyright: © 2021 Chen et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {adult
+age distribution
+aged
+Alberta
+article
+*artificial neural network
+British Columbia
+*computer prediction
+controlled study
+*coronavirus disease 2019
+data analysis
+female
+geographic distribution
+human
+illness trajectory
+major clinical study
+male
+middle aged
+New York
+Ontario
+Quebec
+sex difference
+*statistical model
+Texas
+time series analysis
+trend study
+very elderly
+*smooth transition autoregressive model
+*susceptible infected removed model},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0244536},
+   url = {https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0244536&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2010861451},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5311,
+   author = {Chen, Yili and He, Haoming and Liu, Dakang and Zhang, Xie and Wang, Jingpei and Yang, Yixiao},
+   title = {Prediction of asymptomatic COVID-19 infections based on complex network},
+   journal = {Optimal control applications & methods},
+   abstract = {Novel coronavirus pneumonia (COVID-19) epidemic outbreak at the end of 2019 and threaten global public health, social stability, and economic development, which is characterized by highly contagious and asymptomatic infections. At present, governments around the world are taking decisive action to limit the human and economic impact of COVID-19, but very few interventions have been made to target the transmission of asymptomatic infected individuals. Thus, it is a quite crucial and complex problem to make accurate forecasts of epidemic trends, which many types of research dedicated to deal with it. In this article, we set up a novel COVID-19 transmission model by introducing traditional SEIR (susceptible-exposed-infected-removed) disease transmission models into complex network and propose an effective prediction algorithm based on the traditional machine learning algorithm TrustRank, which can predict asymptomatic infected individuals in a population contact network. Our simulation results show that our method largely outperforms the graph neural network algorithm for new coronary pneumonia prediction and our method is also robust and gives good results even if the network information is incomplete. Copyright © 2021 John Wiley & Sons Ltd.},
+   ISSN = {0143-2087},
+   DOI = {https://dx.doi.org/10.1002/oca.2806},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medp&NEWS=N&AN=34908628},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5310,
+   author = {Cherniaev, I. A. and Chernavin, P. F. and Tsvetkov, A. I. and Chugaev, Y. P. and Cherniaeva, U. I. and Chernavin, N. P.},
+   title = {Forecasting Trends in the Tuberculosis Epidemic Situation in the Region of the Russian Federation by Dynamic Simulation Model},
+   journal = {Studies in health technology and informatics},
+   volume = {299},
+   pages = {235-241},
+   abstract = {The spread of a new coronavirus infection in the last two years together with HIV infection preserves and even increases the potential for the spread of tuberculosis in the world. Sverdlovsk oblast (SO) of Russian Federation is the region with high levels of HIV and tuberculosis (TB). The search for new methods of forecasting of the future epidemic situation for tuberculosis has become particularly relevant. The aim was to develop an effective method for predicting the epidemic situation of tuberculosis using an artificial intelligence (AI) method in the format of a dynamic simulation model based on AI technologies. Statistical data was loaded from the state statistical reporting on TB patients for the period 2007-2017. The parameters were controlled through a system of inequalities. The proposed SDM made it possible to identify and reliably calculate trends of TB epidemiological indicators. Comparison of the predicted values made in 2017 with the actual values of 2018-2021 revealed a reliable coincidence of the trend of movement of TB epidemiological indicators in the region, the maximum deviation was no more than 14.82%. The forecast results obtained with SDM are quite suitable for practical use. Especially, in operational resource planning of measures to counteract the spread of tuberculosis at the regional level.},
+   keywords = {artificial intelligence
+*epidemic
+forecasting
+human
+*Human immunodeficiency virus infection/ep [Epidemiology]
+Russian Federation
+*tuberculosis/ep [Epidemiology]},
+   ISSN = {1879-8365 (electronic)
+1879-8365},
+   DOI = {https://dx.doi.org/10.3233/SHTI220990},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=639433555},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5309,
+   author = {Chertok, D. and Konchak, C. and Shah, N. and Singh, K. and Au, L. and Hammernik, J. and Murray, B. and Solomonides, A. and Wang, E. and Halasyamani, L.},
+   title = {An operationally implementable model for predicting the effects of an infectious disease on a comprehensive regional healthcare system},
+   journal = {PLoS ONE},
+   volume = {16},
+   number = {10 October 2021},
+   pages = {e0258710},
+   abstract = {An operationally implementable predictive model has been developed to forecast the number of COVID-19 infections in the patient population, hospital floor and ICU censuses, ventilator and related supply chain demand. The model is intended for clinical, operational, financial and supply chain leaders and executives of a comprehensive healthcare system responsible for making decisions that depend on epidemiological contingencies. This paper describes the model that was implemented at NorthShore University HealthSystem and is applicable to any communicable disease whose risk of reinfection for the duration of the pandemic is negligible.Copyright © 2021 Chertok et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+communicable disease
+*coronavirus disease 2019
+epidemiological data
+forecasting
+*health care system
+hospital
+infection rate
+infection sensitivity
+intensive care unit
+leadership
+*mathematical model
+medical decision making
+pandemic
+population research
+prediction
+prevalence
+reinfection
+risk assessment
+vaccination
+mechanical ventilator},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0258710},
+   url = {https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0258710&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed22&NEWS=N&AN=2015214206},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5308,
+   author = {Churches, Timothy and Jorm, Louisa},
+   title = {Flexible, Freely Available Stochastic Individual Contact Model for Exploring COVID-19 Intervention and Control Strategies: Development and Simulation},
+   journal = {JMIR public health and surveillance},
+   volume = {6},
+   number = {3},
+   pages = {e18965},
+   abstract = {BACKGROUND: Throughout March 2020, leaders in countries across the world were making crucial decisions about how and when to implement public health interventions to combat the coronavirus disease (COVID-19). They urgently needed tools to help them to explore what will work best in their specific circumstances of epidemic size and spread, and feasible intervention scenarios., OBJECTIVE: We sought to rapidly develop a flexible, freely available simulation model for use by modelers and researchers to allow investigation of how various public health interventions implemented at various time points might change the shape of the COVID-19 epidemic curve., METHODS: "COVOID" (COVID-19 Open-Source Infection Dynamics) is a stochastic individual contact model (ICM), which extends the ICMs provided by the open-source EpiModel package for the R statistical computing environment. To demonstrate its use and inform urgent decisions on March 30, 2020, we modeled similar intervention scenarios to those reported by other investigators using various model types, as well as novel scenarios. The scenarios involved isolation of cases, moderate social distancing, and stricter population "lockdowns" enacted over varying time periods in a hypothetical population of 100,000 people. On April 30, 2020, we simulated the epidemic curve for the three contiguous local areas (population 287,344) in eastern Sydney, Australia that recorded 5.3% of Australian cases of COVID-19 through to April 30, 2020, under five different intervention scenarios and compared the modeled predictions with the observed epidemic curve for these areas., RESULTS: COVOID allocates each member of a population to one of seven compartments. The number of times individuals in the various compartments interact with each other and their probability of transmitting infection at each interaction can be varied to simulate the effects of interventions. Using COVOID on March 30, 2020, we were able to replicate the epidemic response patterns to specific social distancing intervention scenarios reported by others. The simulated curve for three local areas of Sydney from March 1 to April 30, 2020, was similar to the observed epidemic curve in terms of peak numbers of cases, total numbers of cases, and duration under a scenario representing the public health measures that were actually enacted, including case isolation and ramp-up of testing and social distancing measures., CONCLUSIONS: COVOID allows rapid modeling of many potential intervention scenarios, can be tailored to diverse settings, and requires only standard computing infrastructure. It replicates the epidemic curves produced by other models that require highly detailed population-level data, and its predicted epidemic curve, using parameters simulating the public health measures that were enacted, was similar in form to that actually observed in Sydney, Australia. Our team and collaborators are currently developing an extended open-source COVOID package comprising of a suite of tools to explore intervention scenarios using several categories of models. Copyright ©Timothy Churches, Louisa Jorm. Originally published in JMIR Public Health and Surveillance (http://publichealth.jmir.org), 18.09.2020.},
+   keywords = {Australia
+Betacoronavirus
+COVID-19
+*Contact Tracing
+Coronavirus
+Coronavirus Infections/ep [Epidemiology]
+*Coronavirus Infections/pc [Prevention & Control]
+Coronavirus Infections/tm [Transmission]
+Coronavirus Infections/vi [Virology]
+Epidemics
+Humans
+*Models, Biological
+*Pandemics/pc [Prevention & Control]
+Pneumonia, Viral/ep [Epidemiology]
+*Pneumonia, Viral/pc [Prevention & Control]
+Pneumonia, Viral/tm [Transmission]
+Pneumonia, Viral/vi [Virology]
+*Public Health
+Quarantine
+SARS-CoV-2
+*Social Isolation},
+   ISSN = {2369-2960},
+   DOI = {https://dx.doi.org/10.2196/18965},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med18&NEWS=N&AN=32568729},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5307,
+   author = {Dai, H. and Cao, W. and Tong, X. and Yao, Y. and Peng, F. and Zhu, J. and Tian, Y.},
+   title = {Global prediction model for COVID-19 pandemic with the characteristics of the multiple peaks and local fluctuations},
+   journal = {BMC medical research methodology},
+   volume = {22},
+   number = {1},
+   pages = {137},
+   abstract = {BACKGROUND: With the spread of COVID-19, the time-series prediction of COVID-19 has become a research hotspot. Unlike previous epidemics, COVID-19 has a new pattern of long-time series, large fluctuations, and multiple peaks. Traditional dynamical models are limited to curves with short-time series, single peak, smoothness, and symmetry. Secondly, most of these models have unknown parameters, which bring greater ambiguity and uncertainty. There are still major shortcomings in the integration of multiple factors, such as human interventions, environmental factors, and transmission mechanisms. METHOD(S): A dynamical model with only infected humans and removed humans was established. Then the process of COVID-19 spread was segmented using a local smoother. The change of infection rate at different stages was quantified using the continuous and periodic Logistic growth function to quantitatively describe the comprehensive effects of natural and human factors. Then, a non-linear variable and NO2 concentrations were introduced to qualify the number of people who have been prevented from infection through human interventions. RESULT(S): The experiments and analysis showed the R2 of fitting for the US, UK, India, Brazil, Russia, and Germany was 0.841, 0.977, 0.974, 0.659, 0.992, and 0.753, respectively. The prediction accuracy of the US, UK, India, Brazil, Russia, and Germany in October was 0.331, 0.127, 0.112, 0.376, 0.043, and 0.445, respectively. CONCLUSION(S): The model can not only better describe the effects of human interventions but also better simulate the temporal evolution of COVID-19 with local fluctuations and multiple peaks, which can provide valuable assistant decision-making information.Copyright © 2022. The Author(s).},
+   keywords = {Brazil
+epidemiology
+human
+India
+pandemic},
+   ISSN = {1471-2288 (electronic)
+1471-2288},
+   DOI = {https://dx.doi.org/10.1186/s12874-022-01604-x},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed23&NEWS=N&AN=637997349},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5306,
+   author = {Dai, S. and Han, L.},
+   title = {Influenza surveillance with Baidu index and attention-based long short-term memory model},
+   journal = {PLoS ONE},
+   volume = {18},
+   number = {1 January},
+   pages = {e0280834},
+   abstract = {Background The prediction and prevention of influenza is a public health issue of great concern, and the study of timely acquisition of influenza transmission trend has become an important research topic. For achieving more quicker and accurate detection and prediction, the data recorded on the Internet, especially on the search engine from Google or Baidu are widely introduced into this field. Moreover, with the development of intelligent technology and machine learning algorithm, many updated and advanced trend tracking and forecasting methods are also being used in this research problem. Methods In this paper, a new recurrent neural network architecture, attention-based long short-term memory model is proposed for influenza surveillance. This is a kind of deep learning model which is trained by processing from Baidu Index series so as to fit the real influenza survey time series. Previous studies on influenza surveillance by Baidu Index mostly used traditional autoregressive moving average model or classical machine learning models such as logarithmic linear regression, support vector regression or multi-layer perception model to fit influenza like illness data, which less considered the deep learning structure. Meanwhile, some new model that considered the deep learning structure did not take into account the application of Baidu index data. This study considers introducing the recurrent neural network with long short-term memory combined with attention mechanism into the influenza surveillance research model, which not only fits the research problems well in model structure, but also provides research methods based on Baidu index. Results The actual survey data and Baidu Index data are used to train and test the proposed attention-based long short-term memory model and the other comparison models, so as to iterate the value of the model parameters, and to describe and predict the influenza epidemic situation. The experimental results show that our proposed model has better performance in the mean absolute error, mean absolute percentage error, index of agreement and other indicators than the other comparison models. Conclusion Our proposed attention-based long short-term memory model vividly verifies the ability of this attention-based long short-term memory structure for better surveillance and prediction the trend of influenza. In comparison with some of the latest models and methods in this research field, the model we proposed is also excellent in effect, even more lightweight and robust. Future research direction can consider fusing multimodal data based on this model and developing more application scenarios.Copyright © 2023 Dai, Han. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {algorithm
+article
+*data analysis
+deep learning
+disease surveillance
+disease transmission
+epidemic
+human
+*influenza
+*long short term memory network
+machine learning
+mathematical model
+mean absolute error
+outpatient
+prediction
+public health
+training
+*Baidu Index},
+   ISSN = {1932-6203 (electronic)
+1932-6203},
+   DOI = {https://dx.doi.org/10.1371/journal.pone.0280834},
+   url = {https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0280834&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=2022400285},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5305,
+   author = {Dash, Sujata and Chakraborty, Chinmay and Giri, Sourav K. and Pani, Subhendu Kumar},
+   title = {Intelligent computing on time-series data analysis and prediction of COVID-19 pandemics},
+   journal = {Pattern recognition letters},
+   volume = {151},
+   pages = {69-75},
+   abstract = {Covid-19 disease caused by novel coronavirus (SARS-CoV-2) is a highly contagious epidemic that originated in Wuhan, Hubei Province of China in late December 2019. World Health Organization (WHO) declared Covid-19 as a pandemic on 12th March 2020. Researchers and policy makers are designing strategies to control the pandemic in order to minimize its impact on human health and economy round the clock. The SARS-CoV-2 virus transmits mostly through respiratory droplets and through contaminated surfacesin human body.Securing an appropriate level of safety during the pandemic situation is a highly problematic issue which resulted from the transportation sector which has been hit hard by COVID-19. This paper focuses on developing an intelligent computing model for forecasting the outbreak of COVID-19. The Facebook Prophet model predicts 90 days future values including the peak date of the confirmed cases of COVID-19 for six worst hit countries of the world including India and six high incidence states of India. The model also identifies five significant changepoints in the growth curve of confirmed cases of India which indicate the impact of the interventions imposed by Government of India on the growth rate of the infection. The goodness-of-fit of the model measures 85% MAPE for all six countries and all six states of India. The above computational analysis may be able to throw some light on planning and management of healthcare system and infrastructure. Copyright © 2021 Published by Elsevier B.V.},
+   ISSN = {0167-8655},
+   DOI = {https://dx.doi.org/10.1016/j.patrec.2021.07.027},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=34413555},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5304,
+   author = {Demertzis, K. and Tsiotas, D. and Magafas, L.},
+   title = {Modeling and forecasting the covid-19 temporal spread in Greece: An exploratory approach based on complex network defined splines},
+   journal = {International Journal of Environmental Research and Public Health},
+   volume = {17},
+   number = {13},
+   pages = {1-18},
+   abstract = {Within the complex framework of anti-COVID-19 health management, where the criteria of diagnostic testing, the availability of public-health resources and services, and the applied anti-COVID-19 policies vary between countries, the reliability and accuracy in the modeling of temporal spread can prove to be effective in the worldwide fight against the disease. This paper applies an exploratory time-series analysis to the evolution of the disease in Greece, which currently suggests a success story of COVID-19 management. The proposed method builds on a recent conceptualization of detecting connective communities in a time-series and develops a novel spline regression model where the knot vector is determined by the community detection in the complex network. Overall, the study contributes to the COVID-19 research by proposing a free of disconnected past-data and reliable framework of forecasting, which can facilitate decision-making and management of the available health resources.Copyright © 2020 by the authors. Licensee MDPI, Basel, Switzerland.},
+   keywords = {adult
+aged
+article
+clinical decision making
+conceptual framework
+*coronavirus disease 2019
+cross-sectional study
+Greece
+health care planning
+human
+major clinical study
+*mathematical model
+*prediction
+public health service
+virus detection
+*virus virulence},
+   ISSN = {1661-7827
+1660-4601},
+   DOI = {https://dx.doi.org/10.3390/ijerph17134693},
+   url = {https://www.mdpi.com/1660-4601/17/13/4693/pdf
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2004652781},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5303,
+   author = {Di Pilla, Andrea and Federico, Bruno and Orsini, Diego and Damiani, Gianfranco and Specchia, Maria Lucia},
+   title = {Analysing the COVID-19 epidemic in Italy through the Reed-Frost model: A methodology to delimit epidemic waves over time},
+   journal = {Analisi dell'epidemia di COVID-19 in Italia attraverso il modello Reed-Frost: una metodologia per delimitare nel tempo le ondate epidemiche.},
+   volume = {47},
+   number = {1-2},
+   pages = {26-33},
+   abstract = {OBJECTIVES: to set out a method based on the Reed Frost model to delimit over time COVID-19 epidemic waves in Italy., DESIGN: the available national epidemic reports published by the Protezione Civile (Italian civil defence) from 24.02.2020 to 16.022022 were used to collect data on COVID-19 epidemic in Italy. Then, the Reed-Frost model was applied to develop a methodology based on the calculation of the effective contact probability, i.e., the probability of contact., SETTING AND PARTICIPANTS: in Italy, a daily report related to the epidemic was immediately available, including main epidemiological data (point and periodic infection prevalence, mortality, etc), which made it possible for researchers from different institutions to perform analyses about the epidemic., RESULTS: an iterative methodology was developed resulting in the identification of the start-of-wave, end-of-wave, and inter-wave periods and of the starting and ending days of the COVID-19 epidemic waves in Italy (first wave: from 26+/-2 February 2020 to 28+/-2 June 2020)., CONCLUSIONS: this study led to the development of an accessible and reproducible method to determine the start-of-wave and end-of-wave dates of an epidemic, starting only from the number of cases and susceptible people. The main implications of the method mainly consist in allowing benchmarking and forecasting analyses of the epidemic trend to be carried out to support policy and decision-making processes.},
+   keywords = {Humans
+COVID-19/ep [Epidemiology]
+*COVID-19
+*Epidemics
+Italy/ep [Epidemiology]
+Prevalence
+SARS-CoV-2
+Forecasting},
+   ISSN = {1120-9763},
+   DOI = {https://dx.doi.org/10.19191/EP23.1.A479.001},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med23&NEWS=N&AN=36942682},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5302,
+   author = {Doornik, Jurgen A. and Castle, Jennifer L. and Hendry, David F.},
+   title = {Modeling and forecasting the COVID-19 pandemic time-series data},
+   journal = {Social science quarterly},
+   volume = {102},
+   number = {5},
+   pages = {2070-2087},
+   abstract = {Objective: We analyze the number of recorded cases and deaths of COVID-19 in many parts of the world, with the aim to understand the complexities of the data, and produce regular forecasts., Methods: The SARS-CoV-2 virus that causes COVID-19 has affected societies in all corners of the globe but with vastly differing experiences across countries. Health-care and economic systems vary significantly across countries, as do policy responses, including testing, intermittent lockdowns, quarantine, contact tracing, mask wearing, and social distancing. Despite these challenges, the reported data can be used in many ways to help inform policy. We describe how to decompose the reported time series of confirmed cases and deaths into a trend, seasonal, and irregular component using machine learning methods., Results: This decomposition enables statistical computation of measures of the mortality ratio and reproduction number for any country, and we conduct a counterfactual exercise assuming that the United States had a summer outcome in 2020 similar to that of the European Union. The decomposition is also used to produce forecasts of cases and deaths, and we undertake a forecast comparison which highlights the importance of seasonality in the data and the difficulties of forecasting too far into the future., Conclusion: Our adaptive data-based methods and purely statistical forecasts provide a useful complement to the output from epidemiological models. Copyright © 2021 The Authors. Social Science Quarterly published by Wiley Periodicals LLC on behalf of Southwestern Social Science Association.},
+   ISSN = {0038-4941},
+   DOI = {https://dx.doi.org/10.1111/ssqu.13008},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=34548702},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5288,
+   author = {Eriskin, Levent and Karatas, Mumtaz and Zheng, Yu-Jun},
+   title = {A robust multi-objective model for healthcare resource management and location planning during pandemics},
+   journal = {Annals of operations research},
+   pages = {1-48},
+   abstract = {In this study, we consider the problem of healthcare resource management and location planning problem during the early stages of a pandemic/epidemic under demand uncertainty. Our main ambition is to improve the preparedness level and response effectiveness of healthcare authorities in fighting pandemics/epidemics by implementing analytical techniques. Building on lessons from the Chinese experience in the COVID-19 outbreak, we first develop a deterministic multi-objective mixed integer linear program (MILP) which determines the location and size of new pandemic hospitals (strategic level planning), periodic regional health resource re-allocations (tactical level planning) and daily patient-hospital assignments (operational level planning). Taking the forecasted number of cases along a planning horizon as an input, the model minimizes the weighted sum of the number of rejected patients, total travel distance, and installation cost of hospitals subject to real-world constraints and organizational rules. Next, accounting for the uncertainty in the spread speed of the disease, we employ an across scenario robust (ASR) model and reformulate the robust counterpart of the deterministic MILP. The ASR attains relatively more realistic solutions by considering multiple scenarios simultaneously while ensuring a predefined threshold of relative regret for the individual scenarios. Finally, we demonstrate the performance of proposed models on the case of Wuhan, China. Taking the 51 days worth of confirmed COVID-19 case data as an input, we solve both deterministic and robust models and discuss the impact of all three level decisions to the quality and performance of healthcare services during the pandemic. Our case study results show that although it is a challenging task to make strategic level decisions based on uncertain forecasted data, an immediate action can considerably improve the response effectiveness of healthcare authorities. Another important observation is that, the installation times of pandemic hospitals have significant impact on the system performance in fighting with the shortage of beds and facilities. Copyright © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2022.},
+   ISSN = {0254-5330},
+   DOI = {https://dx.doi.org/10.1007/s10479-022-04760-x},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medp&NEWS=N&AN=35645446
+https://link.springer.com/content/pdf/10.1007/s10479-022-04760-x.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5290,
+   author = {Fang, L. and Wang, D. and Pan, G.},
+   title = {Analysis and Estimation of COVID-19 Spreading in Russia Based on ARIMA Model},
+   journal = {SN Comprehensive Clinical Medicine},
+   volume = {2},
+   number = {12},
+   pages = {2521-2527},
+   abstract = {Russia has been currently in the "hard-hit" area of the COVID-19 outbreak, with more than 396,000 confirmed cases as of May 30. It is necessary to analyze and predict its epidemic situation to help formulate effective public health policies. Autoregressive integrated moving average (ARIMA) models were developed to predict the cumulative confirmed, dead, and recovered cases, respectively. R 3.6.2 software was used to fit the data from January 31 to May 20, 2020, and predict the data for the next 30 days. The COVID-19 epidemic in Russia was divided into two stages and reached its peak in May. The epidemic began to stabilize on May 19. The case fatality rate has been at an extremely low level. ARIMA (2,2,1), ARIMA (3,2,0), and ARIMA (0,2,1) were the models of cumulative confirmed, dead, and recovered cases, respectively. After testing, the mean absolute percentage error (MAPE) of three models were 0.6, 3.9, and 2.4, respectively. This paper indicates that Russia's health system capacity can effectively respond to the COVID-19 pandemic. Three ARIMA models have a good fitting effect and can be used for short-term prediction of the COVID-19 trend, providing a theoretical basis for Russia to formulate new intervention policies.Copyright © 2020, Springer Nature Switzerland AG.},
+   keywords = {article
+autocorrelation
+*coronavirus disease 2019
+death
+epidemic
+human
+*mathematical model
+prediction
+priority journal
+public health
+Russian Federation
+time series analysis
+*autoregressive integrated moving average model},
+   ISSN = {2523-8973 (electronic)
+2523-8973},
+   DOI = {https://dx.doi.org/10.1007/s42399-020-00555-y},
+   url = {https://link.springer.com/journal/volumesAndIssues/42399
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=2006925199
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7544558/pdf/42399_2020_Article_555.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5301,
+   author = {Funk, S. and Camacho, A. and Kucharski, A. J. and Lowe, R. and Eggo, R. M. and Edmunds, W. J.},
+   title = {Assessing the performance of real-time epidemic forecasts: A case study of ebola in the Western area region of sierra leone, 2014-15},
+   journal = {PLoS Computational Biology},
+   volume = {15},
+   number = {2},
+   pages = {e1006785},
+   abstract = {Real-time forecasts based on mathematical models can inform critical decision-making during infectious disease outbreaks. Yet, epidemic forecasts are rarely evaluated during or after the event, and there is little guidance on the best metrics for assessment. Here, we propose an evaluation approach that disentangles different components of forecasting ability using metrics that separately assess the calibration, sharpness and bias of forecasts. This makes it possible to assess not just how close a forecast was to reality but also how well uncertainty has been quantified. We used this approach to analyse the performance of weekly forecasts we generated in real time for Western Area, Sierra Leone, during the 2013-16 Ebola epidemic in West Africa. We investigated a range of forecast model variants based on the model fits generated at the time with a semi-mechanistic model, and found that good probabilistic calibration was achievable at short time horizons of one or two weeks ahead but model predictions were increasingly unreliable at longer forecasting horizons. This suggests that forecasts may have been of good enough quality to inform decision making based on predictions a few weeks ahead of time but not longer, reflecting the high level of uncertainty in the processes driving the trajectory of the epidemic. Comparing forecasts based on the semi-mechanistic model to simpler null models showed that the best semi-mechanistic model variant performed better than the null models with respect to probabilistic calibration, and that this would have been identified from the earliest stages of the outbreak. As forecasts become a routine part of the toolkit in public health, standards for evaluation of performance will be important for assessing quality and improving credibility of mathematical models, and for elucidating difficulties and trade-offs when aiming to make the most useful and reliable forecasts.Copyright © 2019 Funk et al.},
+   keywords = {article
+calibration
+controlled study
+decision making
+*Ebola hemorrhagic fever/ep [Epidemiology]
+*epidemic
+*forecasting
+human
+probability
+public health
+retrospective study
+Sierra Leone
+standard
+uncertainty},
+   ISSN = {1553-734X
+1553-7358},
+   DOI = {https://dx.doi.org/10.1371/journal.pcbi.1006785},
+   url = {https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006785&type=printable
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=2001605600},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN5289,
+   author = {Garrido, J. M. and Martinez-Rodriguez, D. and Rodriguez-Serrano, F. and Perez-Villares, J. M. and Ferreiro-Marzal, A. and Jimenez-Quintana, M. M. and Villanueva, R. J.},
+   title = {Mathematical model optimized for prediction and health care planning for COVID-19},
+   journal = {Medicina intensiva},
+   volume = {46},
+   number = {5},
+   pages = {248-258},
+   abstract = {OBJECTIVE: The COVID-19 pandemic has threatened to collapse hospital and ICU services, and it has affected the care programs for non-COVID patients. The objective was to develop a mathematical model designed to optimize predictions related to the need for hospitalization and ICU admission by COVID-19 patients., DESIGN: Prospective study., SETTING: Province of Granada (Spain)., POPULATION: COVID-19 patients hospitalized, admitted to ICU, recovered and died from March 15 to September 22, 2020., STUDY VARIABLES: The number of patients infected with SARS-CoV-2 and hospitalized or admitted to ICU for COVID-19., RESULTS: The data reported by hospitals was used to develop a mathematical model that reflects the flow of the population among the different interest groups in relation to COVID-19. This tool allows to analyse different scenarios based on socio-health restriction measures, and to forecast the number of people infected, hospitalized and admitted to the ICU., CONCLUSIONS: The mathematical model is capable of providing predictions on the evolution of the COVID-19 sufficiently in advance as to anticipate the peaks of prevalence and hospital and ICU care demands, and also the appearance of periods in which the care for non-COVID patients could be intensified. Copyright © 2022. Published by Elsevier Espana, S.L.U.},
+   keywords = {COVID-19/ep [Epidemiology]
+*COVID-19
+Delivery of Health Care
+Humans
+Intensive Care Units
+Models, Theoretical
+Pandemics
+Prospective Studies
+SARS-CoV-2},
+   ISSN = {2173-5727},
+   DOI = {https://dx.doi.org/10.1016/j.medine.2022.02.020},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med21&NEWS=N&AN=35256322
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8882409/pdf/main.pdf},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5292,
+   author = {Giuliani, D. and Dickson, M. M. and Espa, G. and Santi, F.},
+   title = {Modelling and predicting the spatio-temporal spread of cOVID-19 in Italy},
+   journal = {BMC Infectious Diseases},
+   volume = {20},
+   number = {1},
+   pages = {700},
+   abstract = {Background: The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) was first detected in China at the end of 2019 and it has since spread in few months all over the World. Italy was one of the first Western countries who faced the health emergency and is one of the countries most severely affected by the pandemic. The diffusion of Coronavirus disease 2019 (COVID-19) in Italy has followed a peculiar spatial pattern, however the attention of the scientific community has so far focussed almost exclusively on the prediction of the evolution of the disease over time. Method(s): Official freely available data about the number of infected at the finest possible level of spatial areal aggregation (Italian provinces) are used to model the spatio-temporal distribution of COVID-19 infections at local level. An endemic-epidemic time-series mixed-effects generalized linear model for areal disease counts has been implemented to understand and predict spatio-temporal diffusion of the phenomenon. Result(s): Three subcomponents characterize the fitted model. The first describes the transmission of the illness within provinces; the second accounts for the transmission between nearby provinces; the third is related to the evolution of the disease over time. At the local level, the provinces first concerned by containment measures are those that are not affected by the effects of spatial neighbours. On the other hand, the component accounting for the spatial interaction with surrounding areas is prevalent for provinces that are strongly involved by contagions. Moreover, the proposed model provides good forecasts for the number of infections at local level while controlling for delayed reporting. Conclusion(s): A strong evidence is found that strict control measures implemented in some provinces efficiently break contagions and limit the spread to nearby areas. While containment policies may potentially be more effective if planned considering the peculiarities of local territories, the effective and homogeneous enforcement of control measures at national level is needed to prevent the disease control being delayed or missed as a whole. This may also apply at international level where, as it is for the European Union or the United States, the internal border checks among states have largely been abolished.Copyright © 2020 The Author(s).},
+   keywords = {article
+*coronavirus disease 2019
+disease course
+epidemic
+health care
+human
+infection control
+Italy
+public health},
+   ISSN = {1471-2334 (electronic)
+1471-2334},
+   DOI = {https://dx.doi.org/10.1186/s12879-020-05415-7},
+   url = {http://www.biomedcentral.com/bmcinfectdis/
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed21&NEWS=N&AN=632908257
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7509829/pdf/12879_2020_Article_5415.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5300,
+   author = {Goo, Taewan and Apio, Catherine and Heo, Gyujin and Lee, Doeun and Lee, Jong Hyeok and Lim, Jisun and Han, Kyulhee and Park, Taesung},
+   title = {Forecasting of the COVID-19 pandemic situation of Korea},
+   journal = {Genomics & informatics},
+   volume = {19},
+   number = {1},
+   pages = {e11},
+   abstract = {For the novel coronavirus disease 2019 (COVID-19), predictive modeling, in the literature, uses broadly susceptible exposed infected recoverd (SEIR)/SIR, agent-based, curve-fitting models. Governments and legislative bodies rely on insights from prediction models to suggest new policies and to assess the effectiveness of enforced policies. Therefore, access to accurate outbreak prediction models is essential to obtain insights into the likely spread and consequences of infectious diseases. The objective of this study is to predict the future COVID-19 situation of Korea. Here, we employed 5 models for this analysis; SEIR, local linear regression (LLR), negative binomial (NB) regression, segment Poisson, deep-learning based long short-term memory models (LSTM) and tree based gradient boosting machine (GBM). After prediction, model performance comparison was evelauated using relative mean squared errors (RMSE) for two sets of train (January 20, 2020-December 31, 2020 and January 20, 2020-January 31, 2021) and testing data (January 1, 2021-February 28, 2021 and February 1, 2021-February 28, 2021) . Except for segmented Poisson model, the other models predicted a decline in the daily confirmed cases in the country for the coming future. RMSE values' comparison showed that LLR, GBM, SEIR, NB, and LSTM respectively, performed well in the forecasting of the pandemic situation of the country. A good understanding of the epidemic dynamics would greatly enhance the control and prevention of COVID-19 and other infectious diseases. Therefore, with increasing daily confirmed cases since this year, these results could help in the pandemic response by informing decisions about planning, resource allocation, and decision concerning social distancing policies.},
+   ISSN = {1598-866X},
+   DOI = {https://dx.doi.org/10.5808/gi.21028},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=33840175},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5299,
+   author = {Gressani, O. and Wallinga, J. and Althaus, C. L. and Hens, N. and Faes, C.},
+   title = {EpiLPS: A fast and flexible Bayesian tool for estimation of the time-varying reproduction number},
+   journal = {PLoS Computational Biology},
+   volume = {18},
+   number = {10},
+   pages = {e1010618},
+   abstract = {In infectious disease epidemiology, the instantaneous reproduction number Rt is a time-varying parameter defined as the average number of secondary infections generated by an infected individual at time t. It is therefore a crucial epidemiological statistic that assists public health decision makers in the management of an epidemic. We present a new Bayesian tool (EpiLPS) for robust estimation of the time-varying reproduction number. The proposed methodology smooths the epidemic curve and allows to obtain (approximate) point estimates and credible intervals of Rt by employing the renewal equation, using Bayesian P-splines coupled with Laplace approximations of the conditional posterior of the spline vector. Two alternative approaches for inference are presented: (1) an approach based on a maximum a posteriori argument for the model hyperparameters, delivering estimates of Rt in only a few seconds; and (2) an approach based on a Markov chain Monte Carlo (MCMC) scheme with underlying Langevin dynamics for efficient sampling of the posterior target distribution. Case counts per unit of time are assumed to follow a negative binomial distribution to account for potential overdispersion in the data that would not be captured by a classic Poisson model. Furthermore, after smoothing the epidemic curve, a "plug-in'' estimate of the reproduction number can be obtained from the renewal equation yielding a closed form expression of Rt as a function of the spline parameters. The approach is extremely fast and free of arbitrary smoothing assumptions. EpiLPS is applied on data of SARS-CoV-1 in Hong-Kong (2003), influenza A H1N1 (2009) in the USA and on the SARS-CoV-2 pandemic (2020-2021) for Belgium, Portugal, Denmark and France.Copyright © 2022 Gressani et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.},
+   keywords = {article
+*Bayes theorem
+binomial distribution
+controlled study
+*effective reproduction number
+epidemic
+incidence
+Markov chain Monte Carlo method
+Poisson distribution
+probability
+simulation},
+   ISSN = {1553-734X
+1553-7358},
+   DOI = {https://dx.doi.org/10.1371/journal.pcbi.1010618},
+   url = {https://dx.plos.org/10.1371/journal.pcbi.1010618
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed25&NEWS=N&AN=2021392671},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5298,
+   author = {Gu, Jiaqi and Yin, Guosheng},
+   title = {Bayesian SIR model with change points with application to the Omicron wave in Singapore},
+   journal = {Scientific reports},
+   volume = {12},
+   number = {1},
+   pages = {20864},
+   abstract = {The Omicron variant has led to a new wave of the COVID-19 pandemic worldwide, with unprecedented numbers of daily confirmed new cases in many countries and areas. To analyze the impact of society or policy changes on the development of the Omicron wave, the stochastic susceptible-infected-removed (SIR) model with change points is proposed to accommodate the situations where the transmission rate and the removal rate may vary significantly at change points. Bayesian inference based on a Markov chain Monte Carlo algorithm is developed to estimate both the locations of change points as well as the transmission rate and removal rate within each stage. Experiments on simulated data reveal the effectiveness of the proposed method, and several stages are detected in analyzing the Omicron wave data in Singapore. Copyright © 2022. The Author(s).},
+   keywords = {Humans
+Singapore/ep [Epidemiology]
+Bayes Theorem
+*Epidemiological Models
+Pandemics
+COVID-19/ep [Epidemiology]
+*COVID-19
+SARS-CoV-2},
+   ISSN = {2045-2322},
+   DOI = {https://dx.doi.org/10.1038/s41598-022-25473-y},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med22&NEWS=N&AN=36460721},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5297,
+   author = {Han, Tao and Gois, Francisco Nauber Bernardo and Oliveira, Ramses and Prates, Luan Rocha and Porto, Magda Moura de Almeida},
+   title = {Modeling the progression of COVID-19 deaths using Kalman Filter and AutoML},
+   journal = {Soft computing},
+   volume = {27},
+   number = {6},
+   pages = {3229-3244},
+   note = {Retraction in (RIN)},
+   abstract = {The COVID-19 pandemic continues to have a destructive effect on the health and well-being of the global population. A vital step in the battle against it is the successful screening of infected patients, together with one of the effective screening methods being radiology examination using chest radiography. Recognition of epidemic growth patterns across temporal and social factors can improve our capability to create epidemic transmission designs, including the critical job of predicting the estimated intensity of the outbreak morbidity or mortality impact at the end. The study's primary motivation is to be able to estimate with a certain level of accuracy the number of deaths due to COVID-19, managing to model the progression of the pandemic. Predicting the number of possible deaths from COVID-19 can provide governments and decision-makers with indicators for purchasing respirators and pandemic prevention policies. Thus, this work presents itself as an essential contribution to combating the pandemic. Kalman Filter is a widely used method for tracking and navigation and filtering and time series. Designing and tuning machine learning methods are a labor- and time-intensive task that requires extensive experience. The field of automated machine learning Auto Machine Learning relies on automating this task. Auto Machine Learning tools enable novice users to create useful machine learning units, while experts can use them to free up valuable time for other tasks. This paper presents an objective method of forecasting the COVID-19 outbreak using Kalman Filter and Auto Machine Learning. We use a COVID-19 dataset of Ceara, one of the 27 federative units in Brazil. Ceara has more than 235,222 confirmed cases of COVID-19 and 8850 deaths due to the disease. The TPOT automobile model showed the best result with a 0.99 of R2 score. Copyright © The Author(s), under exclusive licence to Springer-Verlag GmbH, DE part of Springer Nature 2021.},
+   ISSN = {1432-7643},
+   DOI = {https://dx.doi.org/10.1007/s00500-020-05503-5},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm8&NEWS=N&AN=33424432},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN5296,
+   author = {Hasan, A. and Putri, E. R. M. and Susanto, H. and Nuraini, N.},
+   title = {Data-driven modeling and forecasting of COVID-19 outbreak for public policy making},
+   journal = {ISA transactions},
+   abstract = {This paper presents a data-driven approach for COVID-19 modeling and forecasting, which can be used by public policy and decision makers to control the outbreak through Non-Pharmaceutical Interventions (NPI). First, we apply an extended Kalman filter (EKF) to a discrete-time stochastic augmented compartmental model to estimate the time-varying effective reproduction number (Rt). We use daily confirmed cases, active cases, recovered cases, deceased cases, Case-Fatality-Rate (CFR), and infectious time as inputs for the model. Furthermore, we define a Transmission Index (TI) as a ratio between the instantaneous and the maximum value of the effective reproduction number. The value of TI indicates the "effectiveness" of the disease transmission from a contact between a susceptible and an infectious individual in the presence of current measures, such as physical distancing and lock-down, relative to a normal condition. Based on the value of TI, we forecast different scenarios to see the effect of relaxing and tightening public measures. Case studies in three countries are provided to show the practicability of our approach.Copyright © 2021 ISA. Published by Elsevier Ltd. All rights reserved.},
+   keywords = {animal experiment
+animal model
+article
+case fatality rate
+compartment model
+controlled study
+*coronavirus disease 2019
+*disease simulation
+filter
+*forecasting
+human
+lockdown
+nonhuman
+*public policy
+reproduction
+social distancing
+stochastic model},
+   ISSN = {1879-2022 (electronic)
+1879-2022},
+   DOI = {https://dx.doi.org/10.1016/j.isatra.2021.01.028},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=634105335},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5295,
+   author = {Hatami, F. and Chen, S. and Paul, R. and Thill, J. C.},
+   title = {Simulating and Forecasting the COVID-19 Spread in a U.S. Metropolitan Region with a Spatial SEIR Model},
+   journal = {International Journal of Environmental Research and Public Health},
+   volume = {19},
+   number = {23},
+   pages = {15771},
+   abstract = {The global COVID-19 pandemic has taken a heavy toll on health, social, and economic costs since the end of 2019. Predicting the spread of a pandemic is essential to developing effective intervention policies. Since the beginning of this pandemic, many models have been developed to predict its pathways. However, the majority of these models assume homogeneous dynamics over the geographic space, while the pandemic exhibits substantial spatial heterogeneity. In addition, spatial interaction among territorial entities and variations in their magnitude impact the pandemic dynamics. In this study, we used a spatial extension of the SEIR-type epidemiological model to simulate and predict the 4-week number of COVID-19 cases in the Charlotte-Concord-Gastonia Metropolitan Statistical Area (MSA), USA. We incorporated a variety of covariates, including mobility, pharmaceutical, and non-pharmaceutical interventions, demographics, and weather data to improve the model's predictive performance. We predicted the number of COVID-19 cases for up to four weeks in the 10 counties of the studied MSA simultaneously over the time period 29 March 2020 to 13 March 2021, and compared the results with the reported number of cases using the root-mean-squared error (RMSE) metric. Our results highlight the importance of spatial heterogeneity and spatial interactions among locations in COVID-19 pandemic modeling.Copyright © 2022 by the authors.},
+   keywords = {article
+*coronavirus disease 2019/ep [Epidemiology]
+demography
+*disease transmission
+human
+pandemic
+prediction
+predictive model
+*susceptible exposed infectious recovered model
+United States
+weather},
+   ISSN = {1661-7827
+1660-4601},
+   DOI = {https://dx.doi.org/10.3390/ijerph192315771},
+   url = {http://www.mdpi.com/journal/ijerph
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2020530742},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5294,
+   author = {Jin, W. and Dong, S. and Yu, C. and Luo, Q.},
+   title = {A data-driven hybrid ensemble AI model for COVID-19 infection forecast using multiple neural networks and reinforced learning},
+   journal = {Computers in Biology and Medicine},
+   volume = {146},
+   pages = {105560},
+   abstract = {The COVID-19 outbreak poses a huge challenge to international public health. Reliable forecast of the number of cases is of great significance to the planning of health resources and the investigation and evaluation of the epidemic situation. The data-driven machine learning models can adapt to complex changes in the epidemic situation without relying on correct physical dynamics modeling, which are sensitive and accurate in predicting the development of the epidemic. In this paper, an ensemble hybrid model based on Temporal Convolutional Networks (TCN), Gated Recurrent Unit (GRU), Deep Belief Networks (DBN), Q-learning, and Support Vector Machine (SVM) models, namely TCN-GRU-DBN-Q-SVM model, is proposed to achieve the forecasting of COVID-19 infections. Three widely-used predictors, TCN, GRU, and DBN are used as elements of the hybrid model ensembled by the weights provided by reinforcement learning method. Furthermore, an error predictor built by SVM, is trained with validation set, and the final prediction result could be obtained by combining the TCN-GRU-DBN-Q model with the SVM error predictor. In order to investigate the forecasting performance of the proposed hybrid model, several comparison models (TCN-GRU-DBN-Q, LSTM, N-BEATS, ANFIS, VMD-BP, WT-RVFL, and ARIMA models) are selected. The experimental results show that: (1) the prediction effect of the TCN-GRU-DBN-Q-SVM model on COVID-19 infection is satisfactory, which has been verified in three national infection data from the UK, India, and the US, and the proposed model has good generalization ability; (2) in the proposed hybrid model, SVM can efficiently predict the possible error of the predicted series given by TCN-GRU-DBN-Q components; (3) the integrated weights based on Q-learning can be adaptively adjusted according to the characteristics of the data in the forecasting tasks in different countries and multiple situations, which ensures the accuracy, robustness and generalization of the proposed model.Copyright © 2022 Elsevier Ltd},
+   keywords = {article
+*artificial intelligence
+Boltzmann machine
+comparative study
+*coronavirus disease 2019
+deep belief network
+deep learning
+*deep neural network
+gated recurrent unit network
+health care planning
+home quarantine
+human
+India
+*machine learning
+Markov random field
+natural language processing
+Q learning
+recurrent neural network
+reinforcement (psychology)
+short term memory
+support vector machine
+susceptible exposed infectious recovered model
+weight training},
+   ISSN = {0010-4825
+1879-0534},
+   DOI = {https://dx.doi.org/10.1016/j.compbiomed.2022.105560},
+   url = {www.elsevier.com/locate/compbiomed
+http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed24&NEWS=N&AN=2018044667},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN5287,
+   author = {Kuddus, Md Abdul and Rahman, Azizur},
+   title = {Analysis of COVID-19 using a modified SLIR model with nonlinear incidence},
+   journal = {Results in physics},
+   volume = {27},
+   pages = {104478},
+   abstract = {Infectious diseases kill millions of people each year, and they are the major public health problem in the world. This paper presents a modified Susceptible-Latent-Infected-Removed (SLIR) compartmental model of disease transmission with nonlinear incidence. We have obtained a threshold value of basic reproduction number ( R0 ) and shown that only a disease-free equilibrium exists when R0 < 1 and endemic equilibrium when R0 > 1 . With the help of the Lyapunov-LaSalle Invariance Principle, we have shown that disease-free equilibrium and endemic equilibrium are both globally asymptotically stable. The study has also provided the model calibration to estimate parameters with month wise coronavirus (COVID-19) data, i.e. reported cases by worldometer from March 2020 to May 2021 and provides prediction until December 2021 in China. The Partial Rank Correlation Coefficient (PRCC) method was used to investigate how the model parameters' variation impact the model outcomes. We observed that the most important parameter is transmission rate which had the most significant impact on COVID-19 cases. We also discuss the epidemiology of COVID-19 cases and several control policies and make recommendations for controlling this disease in China. Copyright © 2021 Published by Elsevier B.V.},
+   ISSN = {2211-3797},
+   DOI = {https://dx.doi.org/10.1016/j.rinp.2021.104478},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm6&NEWS=N&AN=34183903
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8222049/pdf/main.pdf},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN5291,
+   author = {Li, Bao-Zhu and Cao, Nv-Wei and Zhou, Hao-Yue and Chu, Xiu-Jie and Ye, Dong-Qing},
+   title = {Strong policies control the spread of COVID-19 in China},
+   journal = {Journal of medical virology},
+   volume = {92},
+   number = {10},
+   pages = {1980-1987},
+   abstract = {The coronavirus disease 2019 (COVID-19) outbroke in Wuhan, Hubei Province, China, affecting more than 200 countries and regions. This study aimed to predict the development of the epidemic with specific interventional policies applied in China and evaluate their effectiveness. COVID-19 data of Hubei Province and the next five most affected provinces were collected from daily case reports of COVID-19 on the Health Committee official website of these provinces. The number of current cases, defined as the number of confirmed cases minus the number of cured cases and those who have died, were examined in this study. A modified susceptible-exposed-infectious-removed (SEIR) model was used to assess the effects of interventional policies on the epidemic. In this study, 28 January was day 0 of the model. The results of the modified SEIR model showed that the number of current cases in Hubei and Zhejiang provinces tended to be stabilized after 70 days and after 60 days in the four other provinces. The predicted number of current cases without policy intervention was shown to far exceed that with policy intervention. The estimated number of COVID-19 cases in Hubei Province with policy intervention was predicted to peak at 51 222, whereas that without policy intervention was predicted to reach 157 721. Based on the results of the model, strong interventional policies were found to be vital components of epidemic control. Applying such policies is likely to shorten the duration of the epidemic and reduce the number of new cases. Copyright © 2020 Wiley Periodicals LLC.},
+   keywords = {*COVID-19/pc [Prevention & Control]
+China
+*Communicable Disease Control/lj [Legislation & Jurisprudence]
+Forecasting
+*Health Policy
+Humans
+Models, Theoretical
+*Pandemics/pc [Prevention & Control]},
+   ISSN = {1096-9071
+0146-6615},
+   DOI = {https://dx.doi.org/10.1002/jmv.25934},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med17&NEWS=N&AN=32330295
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7264602/pdf/JMV-92-1980.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5293,
+   author = {Li, Sui and Li, Zhe and Dong, Yixin and Shi, Tiemao and Zhou, Shiwen and Chen, Yumeng and Wang, Xun and Qin, Feifei},
+   title = {Temporal-spatial risk assessment of COVID-19 under the influence of urban spatial environmental parameters: The case of Shenyang city},
+   journal = {Building simulation},
+   volume = {16},
+   number = {5},
+   pages = {683-699},
+   abstract = {Respiratory infection is the main route for the transmission of coronavirus pneumonia, and the results have shown that the urban spatial environment significantly influences the risk of infection. Based on the Wells-Riley model of respiratory infection probability, the study determined the human respiratory-related parameters and the effective influence range; extracted urban morphological parameters, assessed the ventilation effects of different spatial environments, and, combined with population flow monitoring data, constructed a method for assessing the risk of Covid-19 respiratory infection in urban-scale grid cells. In the empirical study in Shenyang city, a severe cold region, urban morphological parameters, population size, background wind speed, and individual behavior patterns were used to calculate the distribution characteristics of temporal and spatial concomitant risks in urban areas grids under different scenarios. The results showed that the correlation between the risk of respiratory infection in urban public spaces and the above variables was significant. The exposure time had the greatest degree of influence on the probability of respiratory infection risk among the variables. At the same time, the change in human body spacing beyond 1 m had a minor influence on the risk of infection. Among the urban morphological parameters, building height had the highest correlation with the risk of infection, while building density had the lowest correlation. The actual point distribution of the epidemic in Shenyang from March to April 2022 was used to verify the evaluation results. The overlap rate between medium or higher risk areas and actual cases was 78.55%. The planning strategies for epidemic prevention and control were proposed for the spatial differentiation characteristics of different risk elements. The research results can accurately classify the risk level of urban space and provide a scientific basis for the planning response of epidemic prevention and control and the safety of public activities. Copyright © Tsinghua University Press 2022.},
+   ISSN = {1996-3599},
+   DOI = {https://dx.doi.org/10.1007/s12273-022-0918-8},
+   url = {http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm8&NEWS=N&AN=35968515
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9364280/pdf/12273_2022_Article_918.pdf},
+   year = {2023},
+   type = {Journal Article}
+}
+
